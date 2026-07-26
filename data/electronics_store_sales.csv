@@ -1,0 +1,3241 @@
+Date,Product,Category,Sales,Quantity,Price
+2024-01-01,Laptop,Electronics,106331.27,2,56000
+2024-01-01,Smartphone,Electronics,148711.57,6,28000
+2024-01-01,Monitor,Electronics,40148.35,3,15000
+2024-01-01,Wireless Mouse,Accessories,9354.05,10,900
+2024-01-01,Keyboard,Accessories,13056.79,8,1600
+2024-01-01,Bluetooth Speaker,Accessories,13928.67,4,3200
+2024-01-02,Laptop,Electronics,103347.99,2,56000
+2024-01-02,Smartphone,Electronics,152220.31,5,28000
+2024-01-02,Monitor,Electronics,83468.73,5,15000
+2024-01-02,Wireless Mouse,Accessories,13124.97,15,900
+2024-01-02,Keyboard,Accessories,13455.44,8,1600
+2024-01-02,Bluetooth Speaker,Accessories,20831.71,6,3200
+2024-01-03,Laptop,Electronics,238018.25,4,56000
+2024-01-03,Smartphone,Electronics,128839.28,5,28000
+2024-01-03,Monitor,Electronics,42666.58,3,15000
+2024-01-03,Wireless Mouse,Accessories,8913.9,10,900
+2024-01-03,Keyboard,Accessories,13423.34,9,1600
+2024-01-03,Bluetooth Speaker,Accessories,30366.84,9,3200
+2024-01-04,Laptop,Electronics,158626.48,3,56000
+2024-01-04,Smartphone,Electronics,145132.6,5,28000
+2024-01-04,Monitor,Electronics,44031.83,3,15000
+2024-01-04,Wireless Mouse,Accessories,13825.2,15,900
+2024-01-04,Keyboard,Accessories,19154.07,12,1600
+2024-01-04,Bluetooth Speaker,Accessories,31280.64,9,3200
+2024-01-05,Laptop,Electronics,183630.27,3,56000
+2024-01-05,Smartphone,Electronics,166161.02,6,28000
+2024-01-05,Monitor,Electronics,48456.91,3,15000
+2024-01-05,Wireless Mouse,Accessories,7908.12,9,900
+2024-01-05,Keyboard,Accessories,11443.15,7,1600
+2024-01-05,Bluetooth Speaker,Accessories,27609.35,9,3200
+2024-01-06,Laptop,Electronics,239991.06,4,56000
+2024-01-06,Smartphone,Electronics,157682.62,6,28000
+2024-01-06,Monitor,Electronics,74416.82,5,15000
+2024-01-06,Wireless Mouse,Accessories,14263.99,16,900
+2024-01-06,Keyboard,Accessories,21809.2,13,1600
+2024-01-06,Bluetooth Speaker,Accessories,17721.97,6,3200
+2024-01-07,Laptop,Electronics,216748.43,4,56000
+2024-01-07,Smartphone,Electronics,124584.57,5,28000
+2024-01-07,Monitor,Electronics,80475.21,5,15000
+2024-01-07,Wireless Mouse,Accessories,15013.24,18,900
+2024-01-07,Keyboard,Accessories,19186.23,13,1600
+2024-01-07,Bluetooth Speaker,Accessories,21767.13,7,3200
+2024-01-08,Laptop,Electronics,168449.03,3,56000
+2024-01-08,Smartphone,Electronics,140779.61,5,28000
+2024-01-08,Monitor,Electronics,70438.37,5,15000
+2024-01-08,Wireless Mouse,Accessories,8714.36,9,900
+2024-01-08,Keyboard,Accessories,13338.81,8,1600
+2024-01-08,Bluetooth Speaker,Accessories,25827.63,9,3200
+2024-01-09,Laptop,Electronics,149255.35,3,56000
+2024-01-09,Smartphone,Electronics,137943.4,5,28000
+2024-01-09,Monitor,Electronics,64021.15,4,15000
+2024-01-09,Wireless Mouse,Accessories,6464.84,8,900
+2024-01-09,Keyboard,Accessories,16815.42,10,1600
+2024-01-09,Bluetooth Speaker,Accessories,16440.69,5,3200
+2024-01-10,Laptop,Electronics,110971.36,2,56000
+2024-01-10,Smartphone,Electronics,212159.14,7,28000
+2024-01-10,Monitor,Electronics,59464.3,4,15000
+2024-01-10,Wireless Mouse,Accessories,15203.75,16,900
+2024-01-10,Keyboard,Accessories,8332.02,5,1600
+2024-01-10,Bluetooth Speaker,Accessories,22287.13,7,3200
+2024-01-11,Laptop,Electronics,162488.64,3,56000
+2024-01-11,Smartphone,Electronics,119312.05,4,28000
+2024-01-11,Monitor,Electronics,55144.77,4,15000
+2024-01-11,Wireless Mouse,Accessories,14426.08,15,900
+2024-01-11,Keyboard,Accessories,16454.46,11,1600
+2024-01-11,Bluetooth Speaker,Accessories,18168.42,6,3200
+2024-01-12,Laptop,Electronics,246854.59,4,56000
+2024-01-12,Smartphone,Electronics,127880.6,5,28000
+2024-01-12,Monitor,Electronics,43551.37,3,15000
+2024-01-12,Wireless Mouse,Accessories,7220.45,8,900
+2024-01-12,Keyboard,Accessories,10152.96,7,1600
+2024-01-12,Bluetooth Speaker,Accessories,15324.0,5,3200
+2024-01-13,Laptop,Electronics,160418.19,3,56000
+2024-01-13,Smartphone,Electronics,161297.54,6,28000
+2024-01-13,Monitor,Electronics,40553.49,3,15000
+2024-01-13,Wireless Mouse,Accessories,9230.58,11,900
+2024-01-13,Keyboard,Accessories,11946.66,7,1600
+2024-01-13,Bluetooth Speaker,Accessories,24213.0,8,3200
+2024-01-14,Laptop,Electronics,215273.47,4,56000
+2024-01-14,Smartphone,Electronics,107752.15,4,28000
+2024-01-14,Monitor,Electronics,71096.06,5,15000
+2024-01-14,Wireless Mouse,Accessories,10805.59,11,900
+2024-01-14,Keyboard,Accessories,16936.06,10,1600
+2024-01-14,Bluetooth Speaker,Accessories,30264.02,10,3200
+2024-01-15,Laptop,Electronics,153210.36,3,56000
+2024-01-15,Smartphone,Electronics,210697.93,7,28000
+2024-01-15,Monitor,Electronics,55712.51,4,15000
+2024-01-15,Wireless Mouse,Accessories,13594.49,17,900
+2024-01-15,Keyboard,Accessories,14165.24,8,1600
+2024-01-15,Bluetooth Speaker,Accessories,20476.02,6,3200
+2024-01-16,Laptop,Electronics,234856.0,4,56000
+2024-01-16,Smartphone,Electronics,124597.69,4,28000
+2024-01-16,Monitor,Electronics,49874.14,3,15000
+2024-01-16,Wireless Mouse,Accessories,8949.65,9,900
+2024-01-16,Keyboard,Accessories,15682.81,11,1600
+2024-01-16,Bluetooth Speaker,Accessories,23920.05,8,3200
+2024-01-17,Laptop,Electronics,168430.43,3,56000
+2024-01-17,Smartphone,Electronics,90351.68,3,28000
+2024-01-17,Monitor,Electronics,76599.88,5,15000
+2024-01-17,Wireless Mouse,Accessories,10270.36,11,900
+2024-01-17,Keyboard,Accessories,13092.51,8,1600
+2024-01-17,Bluetooth Speaker,Accessories,20533.83,7,3200
+2024-01-18,Laptop,Electronics,216437.8,4,56000
+2024-01-18,Smartphone,Electronics,74670.96,3,28000
+2024-01-18,Monitor,Electronics,54645.34,4,15000
+2024-01-18,Wireless Mouse,Accessories,11279.71,14,900
+2024-01-18,Keyboard,Accessories,7211.17,5,1600
+2024-01-18,Bluetooth Speaker,Accessories,30190.63,9,3200
+2024-01-19,Laptop,Electronics,240216.53,4,56000
+2024-01-19,Smartphone,Electronics,112233.7,4,28000
+2024-01-19,Monitor,Electronics,57029.38,4,15000
+2024-01-19,Wireless Mouse,Accessories,9354.15,11,900
+2024-01-19,Keyboard,Accessories,10183.22,6,1600
+2024-01-19,Bluetooth Speaker,Accessories,22550.27,8,3200
+2024-01-20,Laptop,Electronics,105810.0,2,56000
+2024-01-20,Smartphone,Electronics,196349.71,7,28000
+2024-01-20,Monitor,Electronics,56585.55,4,15000
+2024-01-20,Wireless Mouse,Accessories,14718.48,15,900
+2024-01-20,Keyboard,Accessories,19856.65,14,1600
+2024-01-20,Bluetooth Speaker,Accessories,22795.69,8,3200
+2024-01-21,Laptop,Electronics,231435.58,4,56000
+2024-01-21,Smartphone,Electronics,133513.65,5,28000
+2024-01-21,Monitor,Electronics,49282.69,3,15000
+2024-01-21,Wireless Mouse,Accessories,17953.27,18,900
+2024-01-21,Keyboard,Accessories,19882.98,14,1600
+2024-01-21,Bluetooth Speaker,Accessories,28484.1,10,3200
+2024-01-22,Laptop,Electronics,237915.7,4,56000
+2024-01-22,Smartphone,Electronics,178146.24,6,28000
+2024-01-22,Monitor,Electronics,79335.58,5,15000
+2024-01-22,Wireless Mouse,Accessories,12768.25,16,900
+2024-01-22,Keyboard,Accessories,17329.93,10,1600
+2024-01-22,Bluetooth Speaker,Accessories,25632.96,9,3200
+2024-01-23,Laptop,Electronics,171339.72,3,56000
+2024-01-23,Smartphone,Electronics,110163.35,4,28000
+2024-01-23,Monitor,Electronics,83618.72,5,15000
+2024-01-23,Wireless Mouse,Accessories,13864.64,14,900
+2024-01-23,Keyboard,Accessories,9488.05,6,1600
+2024-01-23,Bluetooth Speaker,Accessories,14782.31,5,3200
+2024-01-24,Laptop,Electronics,175192.82,3,56000
+2024-01-24,Smartphone,Electronics,115774.17,4,28000
+2024-01-24,Monitor,Electronics,79563.75,5,15000
+2024-01-24,Wireless Mouse,Accessories,12279.12,13,900
+2024-01-24,Keyboard,Accessories,13157.45,8,1600
+2024-01-24,Bluetooth Speaker,Accessories,22806.51,8,3200
+2024-01-25,Laptop,Electronics,107817.18,2,56000
+2024-01-25,Smartphone,Electronics,164991.07,6,28000
+2024-01-25,Monitor,Electronics,71277.67,5,15000
+2024-01-25,Wireless Mouse,Accessories,9826.31,10,900
+2024-01-25,Keyboard,Accessories,12822.07,8,1600
+2024-01-25,Bluetooth Speaker,Accessories,27666.58,9,3200
+2024-01-26,Laptop,Electronics,57145.11,1,56000
+2024-01-26,Smartphone,Electronics,110760.8,4,28000
+2024-01-26,Monitor,Electronics,46680.0,3,15000
+2024-01-26,Wireless Mouse,Accessories,11621.14,12,900
+2024-01-26,Keyboard,Accessories,12010.32,8,1600
+2024-01-26,Bluetooth Speaker,Accessories,23839.92,7,3200
+2024-01-27,Laptop,Electronics,211230.66,4,56000
+2024-01-27,Smartphone,Electronics,81653.28,3,28000
+2024-01-27,Monitor,Electronics,76860.13,5,15000
+2024-01-27,Wireless Mouse,Accessories,15352.96,17,900
+2024-01-27,Keyboard,Accessories,14820.67,9,1600
+2024-01-27,Bluetooth Speaker,Accessories,29708.45,9,3200
+2024-01-28,Laptop,Electronics,107408.22,2,56000
+2024-01-28,Smartphone,Electronics,134617.04,5,28000
+2024-01-28,Monitor,Electronics,46896.79,3,15000
+2024-01-28,Wireless Mouse,Accessories,7169.83,8,900
+2024-01-28,Keyboard,Accessories,9153.19,6,1600
+2024-01-28,Bluetooth Speaker,Accessories,38868.47,11,3200
+2024-01-29,Laptop,Electronics,101828.56,2,56000
+2024-01-29,Smartphone,Electronics,216997.25,7,28000
+2024-01-29,Monitor,Electronics,40173.91,3,15000
+2024-01-29,Wireless Mouse,Accessories,8872.5,9,900
+2024-01-29,Keyboard,Accessories,9427.7,6,1600
+2024-01-29,Bluetooth Speaker,Accessories,17934.58,6,3200
+2024-01-30,Laptop,Electronics,98587.99,2,56000
+2024-01-30,Smartphone,Electronics,86119.2,3,28000
+2024-01-30,Monitor,Electronics,47194.48,3,15000
+2024-01-30,Wireless Mouse,Accessories,11363.14,12,900
+2024-01-30,Keyboard,Accessories,10465.59,7,1600
+2024-01-30,Bluetooth Speaker,Accessories,31644.47,9,3200
+2024-01-31,Laptop,Electronics,187310.1,3,56000
+2024-01-31,Smartphone,Electronics,183170.86,6,28000
+2024-01-31,Monitor,Electronics,54478.26,4,15000
+2024-01-31,Wireless Mouse,Accessories,13001.91,13,900
+2024-01-31,Keyboard,Accessories,14497.38,9,1600
+2024-01-31,Bluetooth Speaker,Accessories,15350.91,5,3200
+2024-02-01,Laptop,Electronics,122901.93,2,56000
+2024-02-01,Smartphone,Electronics,214529.35,7,28000
+2024-02-01,Monitor,Electronics,60594.52,4,15000
+2024-02-01,Wireless Mouse,Accessories,9408.85,11,900
+2024-02-01,Keyboard,Accessories,15634.43,11,1600
+2024-02-01,Bluetooth Speaker,Accessories,27967.73,9,3200
+2024-02-02,Laptop,Electronics,119272.58,2,56000
+2024-02-02,Smartphone,Electronics,154047.2,5,28000
+2024-02-02,Monitor,Electronics,65549.06,4,15000
+2024-02-02,Wireless Mouse,Accessories,12000.81,12,900
+2024-02-02,Keyboard,Accessories,10588.05,7,1600
+2024-02-02,Bluetooth Speaker,Accessories,34623.41,10,3200
+2024-02-03,Laptop,Electronics,118377.81,2,56000
+2024-02-03,Smartphone,Electronics,127283.41,5,28000
+2024-02-03,Monitor,Electronics,83845.4,5,15000
+2024-02-03,Wireless Mouse,Accessories,17170.49,18,900
+2024-02-03,Keyboard,Accessories,12911.35,9,1600
+2024-02-03,Bluetooth Speaker,Accessories,20469.16,6,3200
+2024-02-04,Laptop,Electronics,183607.32,3,56000
+2024-02-04,Smartphone,Electronics,246490.22,8,28000
+2024-02-04,Monitor,Electronics,69655.98,5,15000
+2024-02-04,Wireless Mouse,Accessories,15129.78,17,900
+2024-02-04,Keyboard,Accessories,19076.15,12,1600
+2024-02-04,Bluetooth Speaker,Accessories,26325.36,8,3200
+2024-02-05,Laptop,Electronics,122341.2,2,56000
+2024-02-05,Smartphone,Electronics,170976.83,6,28000
+2024-02-05,Monitor,Electronics,61433.48,4,15000
+2024-02-05,Wireless Mouse,Accessories,13046.63,15,900
+2024-02-05,Keyboard,Accessories,8689.95,6,1600
+2024-02-05,Bluetooth Speaker,Accessories,25213.06,8,3200
+2024-02-06,Laptop,Electronics,179607.06,3,56000
+2024-02-06,Smartphone,Electronics,130770.6,5,28000
+2024-02-06,Monitor,Electronics,82229.52,5,15000
+2024-02-06,Wireless Mouse,Accessories,7586.48,9,900
+2024-02-06,Keyboard,Accessories,11158.33,7,1600
+2024-02-06,Bluetooth Speaker,Accessories,32846.25,10,3200
+2024-02-07,Laptop,Electronics,120379.13,2,56000
+2024-02-07,Smartphone,Electronics,163937.31,6,28000
+2024-02-07,Monitor,Electronics,46081.26,3,15000
+2024-02-07,Wireless Mouse,Accessories,14066.35,15,900
+2024-02-07,Keyboard,Accessories,8576.42,6,1600
+2024-02-07,Bluetooth Speaker,Accessories,27420.3,9,3200
+2024-02-08,Laptop,Electronics,105025.88,2,56000
+2024-02-08,Smartphone,Electronics,187950.84,6,28000
+2024-02-08,Monitor,Electronics,67585.06,5,15000
+2024-02-08,Wireless Mouse,Accessories,12155.3,14,900
+2024-02-08,Keyboard,Accessories,14374.11,9,1600
+2024-02-08,Bluetooth Speaker,Accessories,18216.78,6,3200
+2024-02-09,Laptop,Electronics,162477.42,3,56000
+2024-02-09,Smartphone,Electronics,104027.66,4,28000
+2024-02-09,Monitor,Electronics,73746.62,5,15000
+2024-02-09,Wireless Mouse,Accessories,9742.14,11,900
+2024-02-09,Keyboard,Accessories,14740.42,10,1600
+2024-02-09,Bluetooth Speaker,Accessories,17225.2,5,3200
+2024-02-10,Laptop,Electronics,207200.22,4,56000
+2024-02-10,Smartphone,Electronics,184357.95,7,28000
+2024-02-10,Monitor,Electronics,66820.14,4,15000
+2024-02-10,Wireless Mouse,Accessories,15803.68,16,900
+2024-02-10,Keyboard,Accessories,12883.02,8,1600
+2024-02-10,Bluetooth Speaker,Accessories,20946.16,6,3200
+2024-02-11,Laptop,Electronics,121025.76,2,56000
+2024-02-11,Smartphone,Electronics,185022.98,6,28000
+2024-02-11,Monitor,Electronics,69177.65,5,15000
+2024-02-11,Wireless Mouse,Accessories,14295.48,15,900
+2024-02-11,Keyboard,Accessories,23178.26,14,1600
+2024-02-11,Bluetooth Speaker,Accessories,23960.88,7,3200
+2024-02-12,Laptop,Electronics,113394.23,2,56000
+2024-02-12,Smartphone,Electronics,132442.08,5,28000
+2024-02-12,Monitor,Electronics,49069.27,3,15000
+2024-02-12,Wireless Mouse,Accessories,13976.39,17,900
+2024-02-12,Keyboard,Accessories,18809.76,12,1600
+2024-02-12,Bluetooth Speaker,Accessories,23594.04,7,3200
+2024-02-13,Laptop,Electronics,171689.57,3,56000
+2024-02-13,Smartphone,Electronics,132538.1,5,28000
+2024-02-13,Monitor,Electronics,49660.03,3,15000
+2024-02-13,Wireless Mouse,Accessories,12632.51,13,900
+2024-02-13,Keyboard,Accessories,14140.63,8,1600
+2024-02-13,Bluetooth Speaker,Accessories,21191.16,7,3200
+2024-02-14,Laptop,Electronics,157975.47,3,56000
+2024-02-14,Smartphone,Electronics,140179.24,5,28000
+2024-02-14,Monitor,Electronics,32090.05,2,15000
+2024-02-14,Wireless Mouse,Accessories,7233.78,9,900
+2024-02-14,Keyboard,Accessories,12954.46,8,1600
+2024-02-14,Bluetooth Speaker,Accessories,23055.81,7,3200
+2024-02-15,Laptop,Electronics,125108.47,2,56000
+2024-02-15,Smartphone,Electronics,144355.15,5,28000
+2024-02-15,Monitor,Electronics,39984.42,3,15000
+2024-02-15,Wireless Mouse,Accessories,14192.76,17,900
+2024-02-15,Keyboard,Accessories,10600.82,7,1600
+2024-02-15,Bluetooth Speaker,Accessories,20158.76,6,3200
+2024-02-16,Laptop,Electronics,187144.92,3,56000
+2024-02-16,Smartphone,Electronics,89819.18,3,28000
+2024-02-16,Monitor,Electronics,57227.28,4,15000
+2024-02-16,Wireless Mouse,Accessories,14019.43,16,900
+2024-02-16,Keyboard,Accessories,10563.16,7,1600
+2024-02-16,Bluetooth Speaker,Accessories,31290.74,9,3200
+2024-02-17,Laptop,Electronics,186159.34,3,56000
+2024-02-17,Smartphone,Electronics,116263.94,4,28000
+2024-02-17,Monitor,Electronics,84499.04,6,15000
+2024-02-17,Wireless Mouse,Accessories,10022.93,10,900
+2024-02-17,Keyboard,Accessories,20962.1,14,1600
+2024-02-17,Bluetooth Speaker,Accessories,22993.63,7,3200
+2024-02-18,Laptop,Electronics,235946.75,4,56000
+2024-02-18,Smartphone,Electronics,125370.0,5,28000
+2024-02-18,Monitor,Electronics,92861.38,6,15000
+2024-02-18,Wireless Mouse,Accessories,15251.12,18,900
+2024-02-18,Keyboard,Accessories,17508.45,10,1600
+2024-02-18,Bluetooth Speaker,Accessories,14703.07,5,3200
+2024-02-19,Laptop,Electronics,98861.81,2,56000
+2024-02-19,Smartphone,Electronics,87384.76,3,28000
+2024-02-19,Monitor,Electronics,79060.02,5,15000
+2024-02-19,Wireless Mouse,Accessories,12713.42,16,900
+2024-02-19,Keyboard,Accessories,18781.11,11,1600
+2024-02-19,Bluetooth Speaker,Accessories,15724.72,5,3200
+2024-02-20,Laptop,Electronics,118515.88,2,56000
+2024-02-20,Smartphone,Electronics,79355.05,3,28000
+2024-02-20,Monitor,Electronics,66998.98,4,15000
+2024-02-20,Wireless Mouse,Accessories,9173.63,11,900
+2024-02-20,Keyboard,Accessories,16827.18,11,1600
+2024-02-20,Bluetooth Speaker,Accessories,22640.33,7,3200
+2024-02-21,Laptop,Electronics,171429.63,3,56000
+2024-02-21,Smartphone,Electronics,101662.72,4,28000
+2024-02-21,Monitor,Electronics,50124.68,3,15000
+2024-02-21,Wireless Mouse,Accessories,12022.8,14,900
+2024-02-21,Keyboard,Accessories,9889.7,7,1600
+2024-02-21,Bluetooth Speaker,Accessories,16610.33,5,3200
+2024-02-22,Laptop,Electronics,186222.53,3,56000
+2024-02-22,Smartphone,Electronics,152620.89,5,28000
+2024-02-22,Monitor,Electronics,53387.76,4,15000
+2024-02-22,Wireless Mouse,Accessories,6707.27,8,900
+2024-02-22,Keyboard,Accessories,19213.95,12,1600
+2024-02-22,Bluetooth Speaker,Accessories,15030.43,5,3200
+2024-02-23,Laptop,Electronics,113807.05,2,56000
+2024-02-23,Smartphone,Electronics,159968.86,6,28000
+2024-02-23,Monitor,Electronics,71589.28,5,15000
+2024-02-23,Wireless Mouse,Accessories,14109.26,14,900
+2024-02-23,Keyboard,Accessories,11478.13,8,1600
+2024-02-23,Bluetooth Speaker,Accessories,14395.18,5,3200
+2024-02-24,Laptop,Electronics,185994.7,3,56000
+2024-02-24,Smartphone,Electronics,99508.64,4,28000
+2024-02-24,Monitor,Electronics,58366.16,4,15000
+2024-02-24,Wireless Mouse,Accessories,9197.18,10,900
+2024-02-24,Keyboard,Accessories,10659.37,6,1600
+2024-02-24,Bluetooth Speaker,Accessories,30424.48,10,3200
+2024-02-25,Laptop,Electronics,107469.67,2,56000
+2024-02-25,Smartphone,Electronics,153404.78,6,28000
+2024-02-25,Monitor,Electronics,41711.34,3,15000
+2024-02-25,Wireless Mouse,Accessories,11973.95,13,900
+2024-02-25,Keyboard,Accessories,14945.72,10,1600
+2024-02-25,Bluetooth Speaker,Accessories,36714.44,11,3200
+2024-02-26,Laptop,Electronics,250553.81,4,56000
+2024-02-26,Smartphone,Electronics,151194.58,5,28000
+2024-02-26,Monitor,Electronics,40415.29,3,15000
+2024-02-26,Wireless Mouse,Accessories,7315.62,8,900
+2024-02-26,Keyboard,Accessories,13237.03,9,1600
+2024-02-26,Bluetooth Speaker,Accessories,22822.93,7,3200
+2024-02-27,Laptop,Electronics,103028.65,2,56000
+2024-02-27,Smartphone,Electronics,124731.85,5,28000
+2024-02-27,Monitor,Electronics,70642.1,5,15000
+2024-02-27,Wireless Mouse,Accessories,7149.15,9,900
+2024-02-27,Keyboard,Accessories,9864.42,7,1600
+2024-02-27,Bluetooth Speaker,Accessories,18616.54,6,3200
+2024-02-28,Laptop,Electronics,216058.13,4,56000
+2024-02-28,Smartphone,Electronics,93969.82,3,28000
+2024-02-28,Monitor,Electronics,60919.98,4,15000
+2024-02-28,Wireless Mouse,Accessories,10140.72,11,900
+2024-02-28,Keyboard,Accessories,18149.46,11,1600
+2024-02-28,Bluetooth Speaker,Accessories,28639.97,9,3200
+2024-02-29,Laptop,Electronics,105687.94,2,56000
+2024-02-29,Smartphone,Electronics,191676.8,7,28000
+2024-02-29,Monitor,Electronics,49276.46,3,15000
+2024-02-29,Wireless Mouse,Accessories,11412.74,13,900
+2024-02-29,Keyboard,Accessories,9233.45,6,1600
+2024-02-29,Bluetooth Speaker,Accessories,24227.2,7,3200
+2024-03-01,Laptop,Electronics,243068.51,4,56000
+2024-03-01,Smartphone,Electronics,142093.57,5,28000
+2024-03-01,Monitor,Electronics,28739.94,2,15000
+2024-03-01,Wireless Mouse,Accessories,10468.47,11,900
+2024-03-01,Keyboard,Accessories,14293.7,9,1600
+2024-03-01,Bluetooth Speaker,Accessories,20930.64,7,3200
+2024-03-02,Laptop,Electronics,214831.77,4,56000
+2024-03-02,Smartphone,Electronics,182537.27,7,28000
+2024-03-02,Monitor,Electronics,56243.02,4,15000
+2024-03-02,Wireless Mouse,Accessories,10926.07,13,900
+2024-03-02,Keyboard,Accessories,13322.12,9,1600
+2024-03-02,Bluetooth Speaker,Accessories,24721.38,8,3200
+2024-03-03,Laptop,Electronics,125337.11,2,56000
+2024-03-03,Smartphone,Electronics,103909.87,4,28000
+2024-03-03,Monitor,Electronics,41878.86,3,15000
+2024-03-03,Wireless Mouse,Accessories,15179.73,16,900
+2024-03-03,Keyboard,Accessories,11237.77,7,1600
+2024-03-03,Bluetooth Speaker,Accessories,15999.23,5,3200
+2024-03-04,Laptop,Electronics,164528.32,3,56000
+2024-03-04,Smartphone,Electronics,178002.16,7,28000
+2024-03-04,Monitor,Electronics,29946.87,2,15000
+2024-03-04,Wireless Mouse,Accessories,13619.12,16,900
+2024-03-04,Keyboard,Accessories,12976.0,8,1600
+2024-03-04,Bluetooth Speaker,Accessories,21364.99,6,3200
+2024-03-05,Laptop,Electronics,187875.44,3,56000
+2024-03-05,Smartphone,Electronics,86972.83,3,28000
+2024-03-05,Monitor,Electronics,81877.93,5,15000
+2024-03-05,Wireless Mouse,Accessories,9910.52,11,900
+2024-03-05,Keyboard,Accessories,16365.72,11,1600
+2024-03-05,Bluetooth Speaker,Accessories,18109.64,6,3200
+2024-03-06,Laptop,Electronics,151702.58,3,56000
+2024-03-06,Smartphone,Electronics,120057.18,4,28000
+2024-03-06,Monitor,Electronics,62557.39,4,15000
+2024-03-06,Wireless Mouse,Accessories,13728.02,14,900
+2024-03-06,Keyboard,Accessories,12239.99,8,1600
+2024-03-06,Bluetooth Speaker,Accessories,15888.37,5,3200
+2024-03-07,Laptop,Electronics,158440.57,3,56000
+2024-03-07,Smartphone,Electronics,132189.01,5,28000
+2024-03-07,Monitor,Electronics,54465.99,4,15000
+2024-03-07,Wireless Mouse,Accessories,14378.42,17,900
+2024-03-07,Keyboard,Accessories,13006.28,8,1600
+2024-03-07,Bluetooth Speaker,Accessories,26744.14,9,3200
+2024-03-08,Laptop,Electronics,172474.09,3,56000
+2024-03-08,Smartphone,Electronics,84198.38,3,28000
+2024-03-08,Monitor,Electronics,61868.27,4,15000
+2024-03-08,Wireless Mouse,Accessories,15060.85,16,900
+2024-03-08,Keyboard,Accessories,22160.2,13,1600
+2024-03-08,Bluetooth Speaker,Accessories,18731.59,6,3200
+2024-03-09,Laptop,Electronics,156840.35,3,56000
+2024-03-09,Smartphone,Electronics,116599.44,4,28000
+2024-03-09,Monitor,Electronics,62533.74,4,15000
+2024-03-09,Wireless Mouse,Accessories,8255.62,9,900
+2024-03-09,Keyboard,Accessories,13499.1,9,1600
+2024-03-09,Bluetooth Speaker,Accessories,18956.71,6,3200
+2024-03-10,Laptop,Electronics,109636.01,2,56000
+2024-03-10,Smartphone,Electronics,173176.38,7,28000
+2024-03-10,Monitor,Electronics,49076.64,3,15000
+2024-03-10,Wireless Mouse,Accessories,10187.44,11,900
+2024-03-10,Keyboard,Accessories,24572.41,14,1600
+2024-03-10,Bluetooth Speaker,Accessories,21555.54,7,3200
+2024-03-11,Laptop,Electronics,226001.94,4,56000
+2024-03-11,Smartphone,Electronics,130982.89,5,28000
+2024-03-11,Monitor,Electronics,47863.33,3,15000
+2024-03-11,Wireless Mouse,Accessories,14692.64,15,900
+2024-03-11,Keyboard,Accessories,12688.26,8,1600
+2024-03-11,Bluetooth Speaker,Accessories,29585.74,10,3200
+2024-03-12,Laptop,Electronics,101340.49,2,56000
+2024-03-12,Smartphone,Electronics,82126.92,3,28000
+2024-03-12,Monitor,Electronics,72596.53,5,15000
+2024-03-12,Wireless Mouse,Accessories,11305.39,12,900
+2024-03-12,Keyboard,Accessories,15864.42,9,1600
+2024-03-12,Bluetooth Speaker,Accessories,15353.63,5,3200
+2024-03-13,Laptop,Electronics,166160.46,3,56000
+2024-03-13,Smartphone,Electronics,179006.55,6,28000
+2024-03-13,Monitor,Electronics,55727.04,4,15000
+2024-03-13,Wireless Mouse,Accessories,7019.81,8,900
+2024-03-13,Keyboard,Accessories,12061.68,8,1600
+2024-03-13,Bluetooth Speaker,Accessories,11732.48,4,3200
+2024-03-14,Laptop,Electronics,183809.59,3,56000
+2024-03-14,Smartphone,Electronics,160727.13,6,28000
+2024-03-14,Monitor,Electronics,50253.7,3,15000
+2024-03-14,Wireless Mouse,Accessories,13261.49,16,900
+2024-03-14,Keyboard,Accessories,11379.5,7,1600
+2024-03-14,Bluetooth Speaker,Accessories,12301.31,4,3200
+2024-03-15,Laptop,Electronics,180767.69,3,56000
+2024-03-15,Smartphone,Electronics,89885.48,3,28000
+2024-03-15,Monitor,Electronics,62067.42,4,15000
+2024-03-15,Wireless Mouse,Accessories,11327.11,13,900
+2024-03-15,Keyboard,Accessories,9937.95,6,1600
+2024-03-15,Bluetooth Speaker,Accessories,31721.47,9,3200
+2024-03-16,Laptop,Electronics,177264.62,3,56000
+2024-03-16,Smartphone,Electronics,168501.87,6,28000
+2024-03-16,Monitor,Electronics,49355.63,3,15000
+2024-03-16,Wireless Mouse,Accessories,15336.09,16,900
+2024-03-16,Keyboard,Accessories,12035.41,8,1600
+2024-03-16,Bluetooth Speaker,Accessories,21383.58,7,3200
+2024-03-17,Laptop,Electronics,114713.93,2,56000
+2024-03-17,Smartphone,Electronics,176842.75,7,28000
+2024-03-17,Monitor,Electronics,87760.16,6,15000
+2024-03-17,Wireless Mouse,Accessories,13778.99,15,900
+2024-03-17,Keyboard,Accessories,22729.11,13,1600
+2024-03-17,Bluetooth Speaker,Accessories,17266.97,5,3200
+2024-03-18,Laptop,Electronics,124401.36,2,56000
+2024-03-18,Smartphone,Electronics,147455.02,5,28000
+2024-03-18,Monitor,Electronics,44379.81,3,15000
+2024-03-18,Wireless Mouse,Accessories,10899.48,13,900
+2024-03-18,Keyboard,Accessories,18573.97,11,1600
+2024-03-18,Bluetooth Speaker,Accessories,20246.71,6,3200
+2024-03-19,Laptop,Electronics,175416.82,3,56000
+2024-03-19,Smartphone,Electronics,123710.07,5,28000
+2024-03-19,Monitor,Electronics,81034.48,5,15000
+2024-03-19,Wireless Mouse,Accessories,8394.85,10,900
+2024-03-19,Keyboard,Accessories,10265.54,6,1600
+2024-03-19,Bluetooth Speaker,Accessories,31121.06,9,3200
+2024-03-20,Laptop,Electronics,162604.59,3,56000
+2024-03-20,Smartphone,Electronics,204409.17,7,28000
+2024-03-20,Monitor,Electronics,62083.7,4,15000
+2024-03-20,Wireless Mouse,Accessories,14948.78,16,900
+2024-03-20,Keyboard,Accessories,17542.98,12,1600
+2024-03-20,Bluetooth Speaker,Accessories,16921.96,6,3200
+2024-03-21,Laptop,Electronics,229178.54,4,56000
+2024-03-21,Smartphone,Electronics,102499.68,4,28000
+2024-03-21,Monitor,Electronics,76328.33,5,15000
+2024-03-21,Wireless Mouse,Accessories,6594.14,8,900
+2024-03-21,Keyboard,Accessories,19509.85,12,1600
+2024-03-21,Bluetooth Speaker,Accessories,21372.61,6,3200
+2024-03-22,Laptop,Electronics,180909.41,3,56000
+2024-03-22,Smartphone,Electronics,143876.1,5,28000
+2024-03-22,Monitor,Electronics,31708.62,2,15000
+2024-03-22,Wireless Mouse,Accessories,14475.57,15,900
+2024-03-22,Keyboard,Accessories,13845.21,8,1600
+2024-03-22,Bluetooth Speaker,Accessories,28333.16,9,3200
+2024-03-23,Laptop,Electronics,163651.25,3,56000
+2024-03-23,Smartphone,Electronics,182180.05,7,28000
+2024-03-23,Monitor,Electronics,66965.29,4,15000
+2024-03-23,Wireless Mouse,Accessories,9012.16,10,900
+2024-03-23,Keyboard,Accessories,11220.17,7,1600
+2024-03-23,Bluetooth Speaker,Accessories,14239.61,5,3200
+2024-03-24,Laptop,Electronics,183941.44,3,56000
+2024-03-24,Smartphone,Electronics,211908.79,7,28000
+2024-03-24,Monitor,Electronics,43938.3,3,15000
+2024-03-24,Wireless Mouse,Accessories,14265.53,17,900
+2024-03-24,Keyboard,Accessories,13449.13,8,1600
+2024-03-24,Bluetooth Speaker,Accessories,29335.98,10,3200
+2024-03-25,Laptop,Electronics,225723.16,4,56000
+2024-03-25,Smartphone,Electronics,169766.5,6,28000
+2024-03-25,Monitor,Electronics,69317.18,5,15000
+2024-03-25,Wireless Mouse,Accessories,8866.16,9,900
+2024-03-25,Keyboard,Accessories,9326.45,6,1600
+2024-03-25,Bluetooth Speaker,Accessories,22083.05,7,3200
+2024-03-26,Laptop,Electronics,225673.12,4,56000
+2024-03-26,Smartphone,Electronics,180663.94,7,28000
+2024-03-26,Monitor,Electronics,64902.19,4,15000
+2024-03-26,Wireless Mouse,Accessories,7862.49,9,900
+2024-03-26,Keyboard,Accessories,15901.88,11,1600
+2024-03-26,Bluetooth Speaker,Accessories,18614.84,6,3200
+2024-03-27,Laptop,Electronics,222501.55,4,56000
+2024-03-27,Smartphone,Electronics,198181.54,7,28000
+2024-03-27,Monitor,Electronics,44025.48,3,15000
+2024-03-27,Wireless Mouse,Accessories,12431.12,15,900
+2024-03-27,Keyboard,Accessories,12811.66,9,1600
+2024-03-27,Bluetooth Speaker,Accessories,25668.87,9,3200
+2024-03-28,Laptop,Electronics,168801.67,3,56000
+2024-03-28,Smartphone,Electronics,153633.48,6,28000
+2024-03-28,Monitor,Electronics,45873.13,3,15000
+2024-03-28,Wireless Mouse,Accessories,11822.7,14,900
+2024-03-28,Keyboard,Accessories,20190.18,13,1600
+2024-03-28,Bluetooth Speaker,Accessories,29970.4,9,3200
+2024-03-29,Laptop,Electronics,164196.65,3,56000
+2024-03-29,Smartphone,Electronics,137636.09,5,28000
+2024-03-29,Monitor,Electronics,30088.51,2,15000
+2024-03-29,Wireless Mouse,Accessories,15225.46,17,900
+2024-03-29,Keyboard,Accessories,8886.96,6,1600
+2024-03-29,Bluetooth Speaker,Accessories,19305.8,6,3200
+2024-03-30,Laptop,Electronics,203298.07,4,56000
+2024-03-30,Smartphone,Electronics,202370.98,7,28000
+2024-03-30,Monitor,Electronics,67270.83,5,15000
+2024-03-30,Wireless Mouse,Accessories,14019.74,16,900
+2024-03-30,Keyboard,Accessories,16992.77,12,1600
+2024-03-30,Bluetooth Speaker,Accessories,20748.64,7,3200
+2024-03-31,Laptop,Electronics,249150.72,4,56000
+2024-03-31,Smartphone,Electronics,230745.71,8,28000
+2024-03-31,Monitor,Electronics,46020.75,3,15000
+2024-03-31,Wireless Mouse,Accessories,9447.11,10,900
+2024-03-31,Keyboard,Accessories,21554.26,14,1600
+2024-03-31,Bluetooth Speaker,Accessories,25502.3,8,3200
+2024-04-01,Laptop,Electronics,180287.71,3,56000
+2024-04-01,Smartphone,Electronics,162144.73,6,28000
+2024-04-01,Monitor,Electronics,64574.75,4,15000
+2024-04-01,Wireless Mouse,Accessories,12464.81,13,900
+2024-04-01,Keyboard,Accessories,10324.06,7,1600
+2024-04-01,Bluetooth Speaker,Accessories,24521.67,7,3200
+2024-04-02,Laptop,Electronics,151768.88,3,56000
+2024-04-02,Smartphone,Electronics,124750.95,4,28000
+2024-04-02,Monitor,Electronics,49310.18,3,15000
+2024-04-02,Wireless Mouse,Accessories,11910.12,15,900
+2024-04-02,Keyboard,Accessories,10259.55,6,1600
+2024-04-02,Bluetooth Speaker,Accessories,29423.32,9,3200
+2024-04-03,Laptop,Electronics,224391.11,4,56000
+2024-04-03,Smartphone,Electronics,199854.16,7,28000
+2024-04-03,Monitor,Electronics,52946.16,4,15000
+2024-04-03,Wireless Mouse,Accessories,10828.49,13,900
+2024-04-03,Keyboard,Accessories,14365.93,9,1600
+2024-04-03,Bluetooth Speaker,Accessories,18034.6,6,3200
+2024-04-04,Laptop,Electronics,116546.17,2,56000
+2024-04-04,Smartphone,Electronics,192759.72,7,28000
+2024-04-04,Monitor,Electronics,81397.31,5,15000
+2024-04-04,Wireless Mouse,Accessories,15334.04,16,900
+2024-04-04,Keyboard,Accessories,14800.64,9,1600
+2024-04-04,Bluetooth Speaker,Accessories,20977.94,7,3200
+2024-04-05,Laptop,Electronics,225691.02,4,56000
+2024-04-05,Smartphone,Electronics,90467.56,3,28000
+2024-04-05,Monitor,Electronics,74667.97,5,15000
+2024-04-05,Wireless Mouse,Accessories,12789.43,16,900
+2024-04-05,Keyboard,Accessories,13873.43,9,1600
+2024-04-05,Bluetooth Speaker,Accessories,17307.25,5,3200
+2024-04-06,Laptop,Electronics,121241.02,2,56000
+2024-04-06,Smartphone,Electronics,185159.12,7,28000
+2024-04-06,Monitor,Electronics,65955.46,4,15000
+2024-04-06,Wireless Mouse,Accessories,12486.89,13,900
+2024-04-06,Keyboard,Accessories,11660.25,8,1600
+2024-04-06,Bluetooth Speaker,Accessories,22459.27,7,3200
+2024-04-07,Laptop,Electronics,230831.64,4,56000
+2024-04-07,Smartphone,Electronics,148207.66,6,28000
+2024-04-07,Monitor,Electronics,47548.6,3,15000
+2024-04-07,Wireless Mouse,Accessories,10913.96,11,900
+2024-04-07,Keyboard,Accessories,19251.33,11,1600
+2024-04-07,Bluetooth Speaker,Accessories,18185.27,6,3200
+2024-04-08,Laptop,Electronics,116745.01,2,56000
+2024-04-08,Smartphone,Electronics,160012.58,6,28000
+2024-04-08,Monitor,Electronics,78172.39,5,15000
+2024-04-08,Wireless Mouse,Accessories,12378.97,15,900
+2024-04-08,Keyboard,Accessories,15023.23,9,1600
+2024-04-08,Bluetooth Speaker,Accessories,26960.1,9,3200
+2024-04-09,Laptop,Electronics,115135.36,2,56000
+2024-04-09,Smartphone,Electronics,156769.58,5,28000
+2024-04-09,Monitor,Electronics,27587.09,2,15000
+2024-04-09,Wireless Mouse,Accessories,15065.39,16,900
+2024-04-09,Keyboard,Accessories,12518.39,8,1600
+2024-04-09,Bluetooth Speaker,Accessories,20029.19,7,3200
+2024-04-10,Laptop,Electronics,226276.59,4,56000
+2024-04-10,Smartphone,Electronics,163083.11,6,28000
+2024-04-10,Monitor,Electronics,27714.0,2,15000
+2024-04-10,Wireless Mouse,Accessories,12265.07,13,900
+2024-04-10,Keyboard,Accessories,16956.26,12,1600
+2024-04-10,Bluetooth Speaker,Accessories,21442.51,6,3200
+2024-04-11,Laptop,Electronics,104152.49,2,56000
+2024-04-11,Smartphone,Electronics,186578.47,6,28000
+2024-04-11,Monitor,Electronics,30872.73,2,15000
+2024-04-11,Wireless Mouse,Accessories,7888.15,8,900
+2024-04-11,Keyboard,Accessories,9616.45,6,1600
+2024-04-11,Bluetooth Speaker,Accessories,31943.98,9,3200
+2024-04-12,Laptop,Electronics,247099.04,4,56000
+2024-04-12,Smartphone,Electronics,106855.88,4,28000
+2024-04-12,Monitor,Electronics,56807.77,4,15000
+2024-04-12,Wireless Mouse,Accessories,10091.61,12,900
+2024-04-12,Keyboard,Accessories,21110.59,13,1600
+2024-04-12,Bluetooth Speaker,Accessories,27332.4,9,3200
+2024-04-13,Laptop,Electronics,102808.14,2,56000
+2024-04-13,Smartphone,Electronics,107895.6,4,28000
+2024-04-13,Monitor,Electronics,54023.55,4,15000
+2024-04-13,Wireless Mouse,Accessories,15327.67,17,900
+2024-04-13,Keyboard,Accessories,15175.34,10,1600
+2024-04-13,Bluetooth Speaker,Accessories,17403.1,6,3200
+2024-04-14,Laptop,Electronics,207551.41,4,56000
+2024-04-14,Smartphone,Electronics,152010.18,5,28000
+2024-04-14,Monitor,Electronics,70498.27,5,15000
+2024-04-14,Wireless Mouse,Accessories,9898.76,11,900
+2024-04-14,Keyboard,Accessories,14291.01,8,1600
+2024-04-14,Bluetooth Speaker,Accessories,17484.75,5,3200
+2024-04-15,Laptop,Electronics,150493.28,3,56000
+2024-04-15,Smartphone,Electronics,139072.58,5,28000
+2024-04-15,Monitor,Electronics,54620.28,4,15000
+2024-04-15,Wireless Mouse,Accessories,16372.59,17,900
+2024-04-15,Keyboard,Accessories,8801.64,6,1600
+2024-04-15,Bluetooth Speaker,Accessories,17757.2,6,3200
+2024-04-16,Laptop,Electronics,232710.57,4,56000
+2024-04-16,Smartphone,Electronics,155386.5,5,28000
+2024-04-16,Monitor,Electronics,53266.64,4,15000
+2024-04-16,Wireless Mouse,Accessories,8810.34,10,900
+2024-04-16,Keyboard,Accessories,14821.66,10,1600
+2024-04-16,Bluetooth Speaker,Accessories,17504.24,6,3200
+2024-04-17,Laptop,Electronics,100230.13,2,56000
+2024-04-17,Smartphone,Electronics,121492.82,4,28000
+2024-04-17,Monitor,Electronics,78259.82,5,15000
+2024-04-17,Wireless Mouse,Accessories,12967.79,15,900
+2024-04-17,Keyboard,Accessories,12310.73,7,1600
+2024-04-17,Bluetooth Speaker,Accessories,18836.96,6,3200
+2024-04-18,Laptop,Electronics,201993.9,4,56000
+2024-04-18,Smartphone,Electronics,125017.39,5,28000
+2024-04-18,Monitor,Electronics,63951.49,4,15000
+2024-04-18,Wireless Mouse,Accessories,9324.12,10,900
+2024-04-18,Keyboard,Accessories,12970.94,8,1600
+2024-04-18,Bluetooth Speaker,Accessories,27489.38,8,3200
+2024-04-19,Laptop,Electronics,174314.77,3,56000
+2024-04-19,Smartphone,Electronics,123374.42,4,28000
+2024-04-19,Monitor,Electronics,83407.98,5,15000
+2024-04-19,Wireless Mouse,Accessories,11328.99,14,900
+2024-04-19,Keyboard,Accessories,17062.09,12,1600
+2024-04-19,Bluetooth Speaker,Accessories,14637.44,5,3200
+2024-04-20,Laptop,Electronics,174641.36,3,56000
+2024-04-20,Smartphone,Electronics,199387.29,7,28000
+2024-04-20,Monitor,Electronics,58794.95,4,15000
+2024-04-20,Wireless Mouse,Accessories,9841.51,10,900
+2024-04-20,Keyboard,Accessories,14185.41,9,1600
+2024-04-20,Bluetooth Speaker,Accessories,24371.95,7,3200
+2024-04-21,Laptop,Electronics,164588.86,3,56000
+2024-04-21,Smartphone,Electronics,120858.5,4,28000
+2024-04-21,Monitor,Electronics,89001.17,6,15000
+2024-04-21,Wireless Mouse,Accessories,12293.41,13,900
+2024-04-21,Keyboard,Accessories,20018.65,12,1600
+2024-04-21,Bluetooth Speaker,Accessories,32295.36,10,3200
+2024-04-22,Laptop,Electronics,154628.71,3,56000
+2024-04-22,Smartphone,Electronics,143469.81,5,28000
+2024-04-22,Monitor,Electronics,26438.84,2,15000
+2024-04-22,Wireless Mouse,Accessories,14139.5,15,900
+2024-04-22,Keyboard,Accessories,15059.29,10,1600
+2024-04-22,Bluetooth Speaker,Accessories,17055.62,5,3200
+2024-04-23,Laptop,Electronics,104109.9,2,56000
+2024-04-23,Smartphone,Electronics,147930.59,5,28000
+2024-04-23,Monitor,Electronics,59218.17,4,15000
+2024-04-23,Wireless Mouse,Accessories,12825.64,13,900
+2024-04-23,Keyboard,Accessories,13109.32,8,1600
+2024-04-23,Bluetooth Speaker,Accessories,24893.02,8,3200
+2024-04-24,Laptop,Electronics,151354.24,3,56000
+2024-04-24,Smartphone,Electronics,147796.94,5,28000
+2024-04-24,Monitor,Electronics,42483.92,3,15000
+2024-04-24,Wireless Mouse,Accessories,13853.42,16,900
+2024-04-24,Keyboard,Accessories,14638.14,10,1600
+2024-04-24,Bluetooth Speaker,Accessories,11979.38,4,3200
+2024-04-25,Laptop,Electronics,181650.68,3,56000
+2024-04-25,Smartphone,Electronics,112355.05,4,28000
+2024-04-25,Monitor,Electronics,77116.08,5,15000
+2024-04-25,Wireless Mouse,Accessories,11786.82,12,900
+2024-04-25,Keyboard,Accessories,10503.67,7,1600
+2024-04-25,Bluetooth Speaker,Accessories,15613.89,5,3200
+2024-04-26,Laptop,Electronics,166205.45,3,56000
+2024-04-26,Smartphone,Electronics,126546.4,5,28000
+2024-04-26,Monitor,Electronics,60944.44,4,15000
+2024-04-26,Wireless Mouse,Accessories,7319.64,9,900
+2024-04-26,Keyboard,Accessories,18856.61,11,1600
+2024-04-26,Bluetooth Speaker,Accessories,23274.9,7,3200
+2024-04-27,Laptop,Electronics,172846.49,3,56000
+2024-04-27,Smartphone,Electronics,100114.83,4,28000
+2024-04-27,Monitor,Electronics,88148.82,6,15000
+2024-04-27,Wireless Mouse,Accessories,13077.16,13,900
+2024-04-27,Keyboard,Accessories,17024.5,12,1600
+2024-04-27,Bluetooth Speaker,Accessories,31539.66,9,3200
+2024-04-28,Laptop,Electronics,246020.29,4,56000
+2024-04-28,Smartphone,Electronics,111984.73,4,28000
+2024-04-28,Monitor,Electronics,80292.35,5,15000
+2024-04-28,Wireless Mouse,Accessories,10425.17,11,900
+2024-04-28,Keyboard,Accessories,20397.69,12,1600
+2024-04-28,Bluetooth Speaker,Accessories,26504.65,8,3200
+2024-04-29,Laptop,Electronics,156962.1,3,56000
+2024-04-29,Smartphone,Electronics,131454.94,5,28000
+2024-04-29,Monitor,Electronics,62994.45,4,15000
+2024-04-29,Wireless Mouse,Accessories,11731.4,14,900
+2024-04-29,Keyboard,Accessories,11752.77,8,1600
+2024-04-29,Bluetooth Speaker,Accessories,16976.54,6,3200
+2024-04-30,Laptop,Electronics,156948.11,3,56000
+2024-04-30,Smartphone,Electronics,200841.6,7,28000
+2024-04-30,Monitor,Electronics,83048.4,5,15000
+2024-04-30,Wireless Mouse,Accessories,12897.8,13,900
+2024-04-30,Keyboard,Accessories,19978.05,12,1600
+2024-04-30,Bluetooth Speaker,Accessories,12603.72,4,3200
+2024-05-01,Laptop,Electronics,111409.29,2,56000
+2024-05-01,Smartphone,Electronics,170458.17,6,28000
+2024-05-01,Monitor,Electronics,54328.17,4,15000
+2024-05-01,Wireless Mouse,Accessories,8176.84,9,900
+2024-05-01,Keyboard,Accessories,8645.92,6,1600
+2024-05-01,Bluetooth Speaker,Accessories,24379.25,7,3200
+2024-05-02,Laptop,Electronics,122702.78,2,56000
+2024-05-02,Smartphone,Electronics,79828.29,3,28000
+2024-05-02,Monitor,Electronics,93415.8,6,15000
+2024-05-02,Wireless Mouse,Accessories,12512.42,13,900
+2024-05-02,Keyboard,Accessories,15801.97,11,1600
+2024-05-02,Bluetooth Speaker,Accessories,30414.7,9,3200
+2024-05-03,Laptop,Electronics,103983.78,2,56000
+2024-05-03,Smartphone,Electronics,182119.67,7,28000
+2024-05-03,Monitor,Electronics,42644.03,3,15000
+2024-05-03,Wireless Mouse,Accessories,7801.19,8,900
+2024-05-03,Keyboard,Accessories,10399.41,6,1600
+2024-05-03,Bluetooth Speaker,Accessories,21110.94,7,3200
+2024-05-04,Laptop,Electronics,229147.47,4,56000
+2024-05-04,Smartphone,Electronics,130046.03,5,28000
+2024-05-04,Monitor,Electronics,63755.41,4,15000
+2024-05-04,Wireless Mouse,Accessories,15999.94,16,900
+2024-05-04,Keyboard,Accessories,14766.96,10,1600
+2024-05-04,Bluetooth Speaker,Accessories,30333.21,9,3200
+2024-05-05,Laptop,Electronics,308289.21,5,56000
+2024-05-05,Smartphone,Electronics,176587.23,6,28000
+2024-05-05,Monitor,Electronics,83493.93,5,15000
+2024-05-05,Wireless Mouse,Accessories,8129.32,10,900
+2024-05-05,Keyboard,Accessories,19897.91,14,1600
+2024-05-05,Bluetooth Speaker,Accessories,26309.6,9,3200
+2024-05-06,Laptop,Electronics,204457.26,4,56000
+2024-05-06,Smartphone,Electronics,141506.01,5,28000
+2024-05-06,Monitor,Electronics,39751.47,3,15000
+2024-05-06,Wireless Mouse,Accessories,8546.55,9,900
+2024-05-06,Keyboard,Accessories,19307.78,11,1600
+2024-05-06,Bluetooth Speaker,Accessories,28208.53,10,3200
+2024-05-07,Laptop,Electronics,247368.66,4,56000
+2024-05-07,Smartphone,Electronics,82106.86,3,28000
+2024-05-07,Monitor,Electronics,95173.93,6,15000
+2024-05-07,Wireless Mouse,Accessories,7466.81,9,900
+2024-05-07,Keyboard,Accessories,10489.44,6,1600
+2024-05-07,Bluetooth Speaker,Accessories,23902.54,8,3200
+2024-05-08,Laptop,Electronics,186150.75,3,56000
+2024-05-08,Smartphone,Electronics,134731.64,5,28000
+2024-05-08,Monitor,Electronics,64388.83,4,15000
+2024-05-08,Wireless Mouse,Accessories,8977.84,11,900
+2024-05-08,Keyboard,Accessories,8670.77,6,1600
+2024-05-08,Bluetooth Speaker,Accessories,20909.37,6,3200
+2024-05-09,Laptop,Electronics,114379.05,2,56000
+2024-05-09,Smartphone,Electronics,200772.07,7,28000
+2024-05-09,Monitor,Electronics,57181.89,4,15000
+2024-05-09,Wireless Mouse,Accessories,8329.3,10,900
+2024-05-09,Keyboard,Accessories,11527.6,8,1600
+2024-05-09,Bluetooth Speaker,Accessories,13649.36,4,3200
+2024-05-10,Laptop,Electronics,120577.6,2,56000
+2024-05-10,Smartphone,Electronics,125925.04,5,28000
+2024-05-10,Monitor,Electronics,67032.48,4,15000
+2024-05-10,Wireless Mouse,Accessories,11463.47,13,900
+2024-05-10,Keyboard,Accessories,19018.08,13,1600
+2024-05-10,Bluetooth Speaker,Accessories,17235.3,5,3200
+2024-05-11,Laptop,Electronics,225261.2,4,56000
+2024-05-11,Smartphone,Electronics,125897.22,5,28000
+2024-05-11,Monitor,Electronics,47884.16,3,15000
+2024-05-11,Wireless Mouse,Accessories,10270.03,11,900
+2024-05-11,Keyboard,Accessories,13207.61,8,1600
+2024-05-11,Bluetooth Speaker,Accessories,24629.29,8,3200
+2024-05-12,Laptop,Electronics,107651.82,2,56000
+2024-05-12,Smartphone,Electronics,75869.6,3,28000
+2024-05-12,Monitor,Electronics,95541.38,6,15000
+2024-05-12,Wireless Mouse,Accessories,8334.12,9,900
+2024-05-12,Keyboard,Accessories,23128.25,13,1600
+2024-05-12,Bluetooth Speaker,Accessories,27122.25,8,3200
+2024-05-13,Laptop,Electronics,241142.58,4,56000
+2024-05-13,Smartphone,Electronics,156072.85,6,28000
+2024-05-13,Monitor,Electronics,65686.74,4,15000
+2024-05-13,Wireless Mouse,Accessories,7771.11,8,900
+2024-05-13,Keyboard,Accessories,17482.02,10,1600
+2024-05-13,Bluetooth Speaker,Accessories,24413.84,8,3200
+2024-05-14,Laptop,Electronics,165127.79,3,56000
+2024-05-14,Smartphone,Electronics,74565.42,3,28000
+2024-05-14,Monitor,Electronics,44199.54,3,15000
+2024-05-14,Wireless Mouse,Accessories,8733.37,10,900
+2024-05-14,Keyboard,Accessories,10172.56,6,1600
+2024-05-14,Bluetooth Speaker,Accessories,21970.23,7,3200
+2024-05-15,Laptop,Electronics,209645.02,4,56000
+2024-05-15,Smartphone,Electronics,162189.19,6,28000
+2024-05-15,Monitor,Electronics,71377.73,5,15000
+2024-05-15,Wireless Mouse,Accessories,12727.09,13,900
+2024-05-15,Keyboard,Accessories,18064.37,12,1600
+2024-05-15,Bluetooth Speaker,Accessories,30495.38,9,3200
+2024-05-16,Laptop,Electronics,104413.45,2,56000
+2024-05-16,Smartphone,Electronics,133325.98,5,28000
+2024-05-16,Monitor,Electronics,40618.88,3,15000
+2024-05-16,Wireless Mouse,Accessories,13226.87,15,900
+2024-05-16,Keyboard,Accessories,11644.45,7,1600
+2024-05-16,Bluetooth Speaker,Accessories,32439.39,10,3200
+2024-05-17,Laptop,Electronics,236723.98,4,56000
+2024-05-17,Smartphone,Electronics,208219.41,7,28000
+2024-05-17,Monitor,Electronics,50319.36,3,15000
+2024-05-17,Wireless Mouse,Accessories,12694.78,15,900
+2024-05-17,Keyboard,Accessories,21792.52,13,1600
+2024-05-17,Bluetooth Speaker,Accessories,14643.17,5,3200
+2024-05-18,Laptop,Electronics,235284.35,4,56000
+2024-05-18,Smartphone,Electronics,141174.02,5,28000
+2024-05-18,Monitor,Electronics,60607.24,4,15000
+2024-05-18,Wireless Mouse,Accessories,14797.65,17,900
+2024-05-18,Keyboard,Accessories,20500.07,14,1600
+2024-05-18,Bluetooth Speaker,Accessories,33088.68,10,3200
+2024-05-19,Laptop,Electronics,179308.34,3,56000
+2024-05-19,Smartphone,Electronics,98580.69,4,28000
+2024-05-19,Monitor,Electronics,63656.98,4,15000
+2024-05-19,Wireless Mouse,Accessories,9769.79,12,900
+2024-05-19,Keyboard,Accessories,13297.66,9,1600
+2024-05-19,Bluetooth Speaker,Accessories,23408.38,8,3200
+2024-05-20,Laptop,Electronics,106725.15,2,56000
+2024-05-20,Smartphone,Electronics,153990.11,5,28000
+2024-05-20,Monitor,Electronics,59425.32,4,15000
+2024-05-20,Wireless Mouse,Accessories,13218.33,16,900
+2024-05-20,Keyboard,Accessories,15258.57,9,1600
+2024-05-20,Bluetooth Speaker,Accessories,22104.46,7,3200
+2024-05-21,Laptop,Electronics,170120.36,3,56000
+2024-05-21,Smartphone,Electronics,161581.41,6,28000
+2024-05-21,Monitor,Electronics,77668.0,5,15000
+2024-05-21,Wireless Mouse,Accessories,9656.16,11,900
+2024-05-21,Keyboard,Accessories,11745.41,8,1600
+2024-05-21,Bluetooth Speaker,Accessories,34880.88,10,3200
+2024-05-22,Laptop,Electronics,113235.9,2,56000
+2024-05-22,Smartphone,Electronics,130479.16,5,28000
+2024-05-22,Monitor,Electronics,27037.76,2,15000
+2024-05-22,Wireless Mouse,Accessories,15612.09,16,900
+2024-05-22,Keyboard,Accessories,12867.21,9,1600
+2024-05-22,Bluetooth Speaker,Accessories,17194.94,5,3200
+2024-05-23,Laptop,Electronics,160157.54,3,56000
+2024-05-23,Smartphone,Electronics,85881.98,3,28000
+2024-05-23,Monitor,Electronics,40700.35,3,15000
+2024-05-23,Wireless Mouse,Accessories,14821.26,15,900
+2024-05-23,Keyboard,Accessories,19270.13,12,1600
+2024-05-23,Bluetooth Speaker,Accessories,23209.03,8,3200
+2024-05-24,Laptop,Electronics,107866.92,2,56000
+2024-05-24,Smartphone,Electronics,152116.42,5,28000
+2024-05-24,Monitor,Electronics,70585.22,5,15000
+2024-05-24,Wireless Mouse,Accessories,14882.33,16,900
+2024-05-24,Keyboard,Accessories,10246.23,6,1600
+2024-05-24,Bluetooth Speaker,Accessories,20566.6,6,3200
+2024-05-25,Laptop,Electronics,162622.68,3,56000
+2024-05-25,Smartphone,Electronics,104142.52,4,28000
+2024-05-25,Monitor,Electronics,63272.86,4,15000
+2024-05-25,Wireless Mouse,Accessories,16318.95,19,900
+2024-05-25,Keyboard,Accessories,11121.01,7,1600
+2024-05-25,Bluetooth Speaker,Accessories,26322.25,8,3200
+2024-05-26,Laptop,Electronics,243433.8,4,56000
+2024-05-26,Smartphone,Electronics,146289.22,5,28000
+2024-05-26,Monitor,Electronics,98092.06,6,15000
+2024-05-26,Wireless Mouse,Accessories,8460.87,9,900
+2024-05-26,Keyboard,Accessories,10636.09,7,1600
+2024-05-26,Bluetooth Speaker,Accessories,17571.32,5,3200
+2024-05-27,Laptop,Electronics,156384.76,3,56000
+2024-05-27,Smartphone,Electronics,153777.55,6,28000
+2024-05-27,Monitor,Electronics,50119.44,3,15000
+2024-05-27,Wireless Mouse,Accessories,8185.26,10,900
+2024-05-27,Keyboard,Accessories,16286.12,10,1600
+2024-05-27,Bluetooth Speaker,Accessories,27784.22,8,3200
+2024-05-28,Laptop,Electronics,105423.09,2,56000
+2024-05-28,Smartphone,Electronics,178704.91,6,28000
+2024-05-28,Monitor,Electronics,87901.07,6,15000
+2024-05-28,Wireless Mouse,Accessories,14334.86,16,900
+2024-05-28,Keyboard,Accessories,12187.07,8,1600
+2024-05-28,Bluetooth Speaker,Accessories,23818.8,8,3200
+2024-05-29,Laptop,Electronics,149190.94,3,56000
+2024-05-29,Smartphone,Electronics,179954.23,6,28000
+2024-05-29,Monitor,Electronics,56431.92,4,15000
+2024-05-29,Wireless Mouse,Accessories,12670.71,13,900
+2024-05-29,Keyboard,Accessories,16023.75,10,1600
+2024-05-29,Bluetooth Speaker,Accessories,20181.52,7,3200
+2024-05-30,Laptop,Electronics,123166.44,2,56000
+2024-05-30,Smartphone,Electronics,153976.18,6,28000
+2024-05-30,Monitor,Electronics,32921.15,2,15000
+2024-05-30,Wireless Mouse,Accessories,8036.04,8,900
+2024-05-30,Keyboard,Accessories,12849.67,9,1600
+2024-05-30,Bluetooth Speaker,Accessories,27841.12,9,3200
+2024-05-31,Laptop,Electronics,172470.46,3,56000
+2024-05-31,Smartphone,Electronics,118629.88,4,28000
+2024-05-31,Monitor,Electronics,40377.35,3,15000
+2024-05-31,Wireless Mouse,Accessories,8965.1,9,900
+2024-05-31,Keyboard,Accessories,20057.4,13,1600
+2024-05-31,Bluetooth Speaker,Accessories,28572.84,8,3200
+2024-06-01,Laptop,Electronics,217275.68,4,56000
+2024-06-01,Smartphone,Electronics,126105.78,5,28000
+2024-06-01,Monitor,Electronics,59851.55,4,15000
+2024-06-01,Wireless Mouse,Accessories,15301.72,17,900
+2024-06-01,Keyboard,Accessories,15783.03,9,1600
+2024-06-01,Bluetooth Speaker,Accessories,24024.96,8,3200
+2024-06-02,Laptop,Electronics,177957.19,3,56000
+2024-06-02,Smartphone,Electronics,135770.43,5,28000
+2024-06-02,Monitor,Electronics,43366.26,3,15000
+2024-06-02,Wireless Mouse,Accessories,12777.05,13,900
+2024-06-02,Keyboard,Accessories,15382.33,9,1600
+2024-06-02,Bluetooth Speaker,Accessories,29416.29,9,3200
+2024-06-03,Laptop,Electronics,150361.55,3,56000
+2024-06-03,Smartphone,Electronics,79313.46,3,28000
+2024-06-03,Monitor,Electronics,63867.95,4,15000
+2024-06-03,Wireless Mouse,Accessories,13745.53,14,900
+2024-06-03,Keyboard,Accessories,14531.49,10,1600
+2024-06-03,Bluetooth Speaker,Accessories,25841.82,8,3200
+2024-06-04,Laptop,Electronics,178035.48,3,56000
+2024-06-04,Smartphone,Electronics,177834.56,6,28000
+2024-06-04,Monitor,Electronics,63933.37,4,15000
+2024-06-04,Wireless Mouse,Accessories,12345.39,13,900
+2024-06-04,Keyboard,Accessories,20454.68,12,1600
+2024-06-04,Bluetooth Speaker,Accessories,26267.31,9,3200
+2024-06-05,Laptop,Electronics,233878.93,4,56000
+2024-06-05,Smartphone,Electronics,152574.75,6,28000
+2024-06-05,Monitor,Electronics,43404.63,3,15000
+2024-06-05,Wireless Mouse,Accessories,11302.08,12,900
+2024-06-05,Keyboard,Accessories,15532.6,11,1600
+2024-06-05,Bluetooth Speaker,Accessories,20717.02,6,3200
+2024-06-06,Laptop,Electronics,111860.99,2,56000
+2024-06-06,Smartphone,Electronics,100943.85,4,28000
+2024-06-06,Monitor,Electronics,41201.21,3,15000
+2024-06-06,Wireless Mouse,Accessories,9086.07,10,900
+2024-06-06,Keyboard,Accessories,12108.97,7,1600
+2024-06-06,Bluetooth Speaker,Accessories,18507.54,6,3200
+2024-06-07,Laptop,Electronics,152289.74,3,56000
+2024-06-07,Smartphone,Electronics,122229.1,4,28000
+2024-06-07,Monitor,Electronics,98247.89,6,15000
+2024-06-07,Wireless Mouse,Accessories,17063.35,18,900
+2024-06-07,Keyboard,Accessories,17417.1,12,1600
+2024-06-07,Bluetooth Speaker,Accessories,18041.98,6,3200
+2024-06-08,Laptop,Electronics,179703.66,3,56000
+2024-06-08,Smartphone,Electronics,133037.0,5,28000
+2024-06-08,Monitor,Electronics,77667.71,5,15000
+2024-06-08,Wireless Mouse,Accessories,14315.76,17,900
+2024-06-08,Keyboard,Accessories,16349.28,11,1600
+2024-06-08,Bluetooth Speaker,Accessories,25471.12,8,3200
+2024-06-09,Laptop,Electronics,167341.13,3,56000
+2024-06-09,Smartphone,Electronics,180899.35,6,28000
+2024-06-09,Monitor,Electronics,44553.02,3,15000
+2024-06-09,Wireless Mouse,Accessories,8961.17,11,900
+2024-06-09,Keyboard,Accessories,22054.09,14,1600
+2024-06-09,Bluetooth Speaker,Accessories,15166.34,5,3200
+2024-06-10,Laptop,Electronics,124883.02,2,56000
+2024-06-10,Smartphone,Electronics,155201.73,5,28000
+2024-06-10,Monitor,Electronics,43928.63,3,15000
+2024-06-10,Wireless Mouse,Accessories,12328.3,14,900
+2024-06-10,Keyboard,Accessories,19884.85,12,1600
+2024-06-10,Bluetooth Speaker,Accessories,20227.19,7,3200
+2024-06-11,Laptop,Electronics,225149.39,4,56000
+2024-06-11,Smartphone,Electronics,127368.22,5,28000
+2024-06-11,Monitor,Electronics,57409.22,4,15000
+2024-06-11,Wireless Mouse,Accessories,9774.57,10,900
+2024-06-11,Keyboard,Accessories,9170.24,6,1600
+2024-06-11,Bluetooth Speaker,Accessories,17505.35,5,3200
+2024-06-12,Laptop,Electronics,102842.46,2,56000
+2024-06-12,Smartphone,Electronics,151819.97,5,28000
+2024-06-12,Monitor,Electronics,68000.37,5,15000
+2024-06-12,Wireless Mouse,Accessories,10674.3,13,900
+2024-06-12,Keyboard,Accessories,17439.56,10,1600
+2024-06-12,Bluetooth Speaker,Accessories,15465.77,5,3200
+2024-06-13,Laptop,Electronics,121853.94,2,56000
+2024-06-13,Smartphone,Electronics,89559.44,3,28000
+2024-06-13,Monitor,Electronics,43143.06,3,15000
+2024-06-13,Wireless Mouse,Accessories,12605.71,14,900
+2024-06-13,Keyboard,Accessories,9517.3,6,1600
+2024-06-13,Bluetooth Speaker,Accessories,29938.41,9,3200
+2024-06-14,Laptop,Electronics,235309.22,4,56000
+2024-06-14,Smartphone,Electronics,164305.48,6,28000
+2024-06-14,Monitor,Electronics,63138.97,4,15000
+2024-06-14,Wireless Mouse,Accessories,12553.18,13,900
+2024-06-14,Keyboard,Accessories,18552.95,12,1600
+2024-06-14,Bluetooth Speaker,Accessories,30245.93,10,3200
+2024-06-15,Laptop,Electronics,173328.59,3,56000
+2024-06-15,Smartphone,Electronics,117851.27,4,28000
+2024-06-15,Monitor,Electronics,71749.83,5,15000
+2024-06-15,Wireless Mouse,Accessories,8990.34,9,900
+2024-06-15,Keyboard,Accessories,23700.9,14,1600
+2024-06-15,Bluetooth Speaker,Accessories,37980.22,11,3200
+2024-06-16,Laptop,Electronics,171129.36,3,56000
+2024-06-16,Smartphone,Electronics,122893.71,4,28000
+2024-06-16,Monitor,Electronics,58305.28,4,15000
+2024-06-16,Wireless Mouse,Accessories,7627.05,9,900
+2024-06-16,Keyboard,Accessories,15679.72,10,1600
+2024-06-16,Bluetooth Speaker,Accessories,20764.38,7,3200
+2024-06-17,Laptop,Electronics,118494.32,2,56000
+2024-06-17,Smartphone,Electronics,84451.76,3,28000
+2024-06-17,Monitor,Electronics,42663.47,3,15000
+2024-06-17,Wireless Mouse,Accessories,14947.6,16,900
+2024-06-17,Keyboard,Accessories,15568.66,11,1600
+2024-06-17,Bluetooth Speaker,Accessories,29893.71,9,3200
+2024-06-18,Laptop,Electronics,155068.07,3,56000
+2024-06-18,Smartphone,Electronics,113486.18,4,28000
+2024-06-18,Monitor,Electronics,74810.62,5,15000
+2024-06-18,Wireless Mouse,Accessories,12192.42,13,900
+2024-06-18,Keyboard,Accessories,15144.97,10,1600
+2024-06-18,Bluetooth Speaker,Accessories,32225.32,10,3200
+2024-06-19,Laptop,Electronics,220351.04,4,56000
+2024-06-19,Smartphone,Electronics,124403.46,4,28000
+2024-06-19,Monitor,Electronics,75461.08,5,15000
+2024-06-19,Wireless Mouse,Accessories,9269.49,11,900
+2024-06-19,Keyboard,Accessories,10112.34,7,1600
+2024-06-19,Bluetooth Speaker,Accessories,31342.4,9,3200
+2024-06-20,Laptop,Electronics,109637.77,2,56000
+2024-06-20,Smartphone,Electronics,147457.48,5,28000
+2024-06-20,Monitor,Electronics,83922.69,5,15000
+2024-06-20,Wireless Mouse,Accessories,10774.65,11,900
+2024-06-20,Keyboard,Accessories,12557.44,8,1600
+2024-06-20,Bluetooth Speaker,Accessories,28834.31,10,3200
+2024-06-21,Laptop,Electronics,186339.19,3,56000
+2024-06-21,Smartphone,Electronics,179825.79,7,28000
+2024-06-21,Monitor,Electronics,76343.46,5,15000
+2024-06-21,Wireless Mouse,Accessories,8037.52,8,900
+2024-06-21,Keyboard,Accessories,9963.62,7,1600
+2024-06-21,Bluetooth Speaker,Accessories,25359.36,9,3200
+2024-06-22,Laptop,Electronics,101558.6,2,56000
+2024-06-22,Smartphone,Electronics,241025.73,8,28000
+2024-06-22,Monitor,Electronics,40981.41,3,15000
+2024-06-22,Wireless Mouse,Accessories,17047.04,19,900
+2024-06-22,Keyboard,Accessories,14663.33,10,1600
+2024-06-22,Bluetooth Speaker,Accessories,34950.56,11,3200
+2024-06-23,Laptop,Electronics,161924.19,3,56000
+2024-06-23,Smartphone,Electronics,209973.68,8,28000
+2024-06-23,Monitor,Electronics,67787.73,5,15000
+2024-06-23,Wireless Mouse,Accessories,14026.79,17,900
+2024-06-23,Keyboard,Accessories,12331.84,8,1600
+2024-06-23,Bluetooth Speaker,Accessories,33454.74,10,3200
+2024-06-24,Laptop,Electronics,118237.21,2,56000
+2024-06-24,Smartphone,Electronics,106501.2,4,28000
+2024-06-24,Monitor,Electronics,40876.87,3,15000
+2024-06-24,Wireless Mouse,Accessories,14614.78,18,900
+2024-06-24,Keyboard,Accessories,21492.49,12,1600
+2024-06-24,Bluetooth Speaker,Accessories,21364.07,6,3200
+2024-06-25,Laptop,Electronics,109532.67,2,56000
+2024-06-25,Smartphone,Electronics,180384.64,7,28000
+2024-06-25,Monitor,Electronics,80205.0,6,15000
+2024-06-25,Wireless Mouse,Accessories,7926.93,9,900
+2024-06-25,Keyboard,Accessories,22795.43,13,1600
+2024-06-25,Bluetooth Speaker,Accessories,15409.15,5,3200
+2024-06-26,Laptop,Electronics,241170.72,4,56000
+2024-06-26,Smartphone,Electronics,119308.55,4,28000
+2024-06-26,Monitor,Electronics,66895.18,4,15000
+2024-06-26,Wireless Mouse,Accessories,13677.41,16,900
+2024-06-26,Keyboard,Accessories,9904.72,7,1600
+2024-06-26,Bluetooth Speaker,Accessories,28274.31,8,3200
+2024-06-27,Laptop,Electronics,108295.15,2,56000
+2024-06-27,Smartphone,Electronics,127325.91,5,28000
+2024-06-27,Monitor,Electronics,73416.32,5,15000
+2024-06-27,Wireless Mouse,Accessories,15241.88,17,900
+2024-06-27,Keyboard,Accessories,20839.23,12,1600
+2024-06-27,Bluetooth Speaker,Accessories,17652.84,6,3200
+2024-06-28,Laptop,Electronics,125286.96,2,56000
+2024-06-28,Smartphone,Electronics,128607.66,5,28000
+2024-06-28,Monitor,Electronics,58389.21,4,15000
+2024-06-28,Wireless Mouse,Accessories,15576.2,17,900
+2024-06-28,Keyboard,Accessories,13237.29,8,1600
+2024-06-28,Bluetooth Speaker,Accessories,21500.55,6,3200
+2024-06-29,Laptop,Electronics,240146.42,4,56000
+2024-06-29,Smartphone,Electronics,150251.79,5,28000
+2024-06-29,Monitor,Electronics,43648.19,3,15000
+2024-06-29,Wireless Mouse,Accessories,15843.98,17,900
+2024-06-29,Keyboard,Accessories,12122.33,8,1600
+2024-06-29,Bluetooth Speaker,Accessories,26787.27,8,3200
+2024-06-30,Laptop,Electronics,171062.44,3,56000
+2024-06-30,Smartphone,Electronics,156708.71,6,28000
+2024-06-30,Monitor,Electronics,44714.59,3,15000
+2024-06-30,Wireless Mouse,Accessories,10901.59,12,900
+2024-06-30,Keyboard,Accessories,16814.75,10,1600
+2024-06-30,Bluetooth Speaker,Accessories,33706.4,11,3200
+2024-07-01,Laptop,Electronics,164731.12,3,56000
+2024-07-01,Smartphone,Electronics,167149.82,6,28000
+2024-07-01,Monitor,Electronics,53367.39,4,15000
+2024-07-01,Wireless Mouse,Accessories,7491.17,9,900
+2024-07-01,Keyboard,Accessories,10355.27,6,1600
+2024-07-01,Bluetooth Speaker,Accessories,20442.24,6,3200
+2024-07-02,Laptop,Electronics,115800.12,2,56000
+2024-07-02,Smartphone,Electronics,105323.18,4,28000
+2024-07-02,Monitor,Electronics,59307.56,4,15000
+2024-07-02,Wireless Mouse,Accessories,11060.56,11,900
+2024-07-02,Keyboard,Accessories,11500.59,8,1600
+2024-07-02,Bluetooth Speaker,Accessories,22810.81,8,3200
+2024-07-03,Laptop,Electronics,237352.01,4,56000
+2024-07-03,Smartphone,Electronics,185404.77,6,28000
+2024-07-03,Monitor,Electronics,70086.28,5,15000
+2024-07-03,Wireless Mouse,Accessories,15582.74,16,900
+2024-07-03,Keyboard,Accessories,13131.68,8,1600
+2024-07-03,Bluetooth Speaker,Accessories,14652.07,5,3200
+2024-07-04,Laptop,Electronics,220325.26,4,56000
+2024-07-04,Smartphone,Electronics,106289.27,4,28000
+2024-07-04,Monitor,Electronics,59035.71,4,15000
+2024-07-04,Wireless Mouse,Accessories,9009.98,11,900
+2024-07-04,Keyboard,Accessories,11444.68,7,1600
+2024-07-04,Bluetooth Speaker,Accessories,24991.34,7,3200
+2024-07-05,Laptop,Electronics,223659.93,4,56000
+2024-07-05,Smartphone,Electronics,177777.17,7,28000
+2024-07-05,Monitor,Electronics,74767.35,5,15000
+2024-07-05,Wireless Mouse,Accessories,15918.14,17,900
+2024-07-05,Keyboard,Accessories,14466.23,9,1600
+2024-07-05,Bluetooth Speaker,Accessories,23083.58,7,3200
+2024-07-06,Laptop,Electronics,151947.88,3,56000
+2024-07-06,Smartphone,Electronics,195719.65,7,28000
+2024-07-06,Monitor,Electronics,87482.69,6,15000
+2024-07-06,Wireless Mouse,Accessories,12850.62,15,900
+2024-07-06,Keyboard,Accessories,20981.43,13,1600
+2024-07-06,Bluetooth Speaker,Accessories,26048.37,8,3200
+2024-07-07,Laptop,Electronics,210615.06,4,56000
+2024-07-07,Smartphone,Electronics,109708.71,4,28000
+2024-07-07,Monitor,Electronics,42884.74,3,15000
+2024-07-07,Wireless Mouse,Accessories,11268.89,13,900
+2024-07-07,Keyboard,Accessories,24844.15,15,1600
+2024-07-07,Bluetooth Speaker,Accessories,31906.84,9,3200
+2024-07-08,Laptop,Electronics,124630.52,2,56000
+2024-07-08,Smartphone,Electronics,86496.25,3,28000
+2024-07-08,Monitor,Electronics,61977.99,4,15000
+2024-07-08,Wireless Mouse,Accessories,13822.63,15,900
+2024-07-08,Keyboard,Accessories,11556.36,7,1600
+2024-07-08,Bluetooth Speaker,Accessories,34183.42,10,3200
+2024-07-09,Laptop,Electronics,111459.41,2,56000
+2024-07-09,Smartphone,Electronics,185515.87,6,28000
+2024-07-09,Monitor,Electronics,58450.02,4,15000
+2024-07-09,Wireless Mouse,Accessories,7887.89,9,900
+2024-07-09,Keyboard,Accessories,13021.25,8,1600
+2024-07-09,Bluetooth Speaker,Accessories,28307.22,9,3200
+2024-07-10,Laptop,Electronics,113461.51,2,56000
+2024-07-10,Smartphone,Electronics,151304.32,6,28000
+2024-07-10,Monitor,Electronics,42705.42,3,15000
+2024-07-10,Wireless Mouse,Accessories,11643.17,12,900
+2024-07-10,Keyboard,Accessories,16850.17,10,1600
+2024-07-10,Bluetooth Speaker,Accessories,17452.2,5,3200
+2024-07-11,Laptop,Electronics,107509.37,2,56000
+2024-07-11,Smartphone,Electronics,104764.97,4,28000
+2024-07-11,Monitor,Electronics,73330.59,5,15000
+2024-07-11,Wireless Mouse,Accessories,15085.3,15,900
+2024-07-11,Keyboard,Accessories,16515.04,11,1600
+2024-07-11,Bluetooth Speaker,Accessories,21222.95,7,3200
+2024-07-12,Laptop,Electronics,178498.59,3,56000
+2024-07-12,Smartphone,Electronics,92257.03,3,28000
+2024-07-12,Monitor,Electronics,45279.97,3,15000
+2024-07-12,Wireless Mouse,Accessories,13632.0,14,900
+2024-07-12,Keyboard,Accessories,8768.14,6,1600
+2024-07-12,Bluetooth Speaker,Accessories,34983.57,10,3200
+2024-07-13,Laptop,Electronics,222541.43,4,56000
+2024-07-13,Smartphone,Electronics,220571.98,8,28000
+2024-07-13,Monitor,Electronics,73807.65,5,15000
+2024-07-13,Wireless Mouse,Accessories,11134.55,13,900
+2024-07-13,Keyboard,Accessories,12216.59,7,1600
+2024-07-13,Bluetooth Speaker,Accessories,33113.72,10,3200
+2024-07-14,Laptop,Electronics,239513.57,4,56000
+2024-07-14,Smartphone,Electronics,183544.37,7,28000
+2024-07-14,Monitor,Electronics,57567.02,4,15000
+2024-07-14,Wireless Mouse,Accessories,13508.54,16,900
+2024-07-14,Keyboard,Accessories,17086.19,10,1600
+2024-07-14,Bluetooth Speaker,Accessories,17465.91,6,3200
+2024-07-15,Laptop,Electronics,99201.45,2,56000
+2024-07-15,Smartphone,Electronics,136554.78,5,28000
+2024-07-15,Monitor,Electronics,40308.73,3,15000
+2024-07-15,Wireless Mouse,Accessories,12936.19,14,900
+2024-07-15,Keyboard,Accessories,19699.49,11,1600
+2024-07-15,Bluetooth Speaker,Accessories,19802.72,7,3200
+2024-07-16,Laptop,Electronics,220943.8,4,56000
+2024-07-16,Smartphone,Electronics,168143.87,6,28000
+2024-07-16,Monitor,Electronics,43422.1,3,15000
+2024-07-16,Wireless Mouse,Accessories,14764.08,15,900
+2024-07-16,Keyboard,Accessories,21676.51,13,1600
+2024-07-16,Bluetooth Speaker,Accessories,16418.64,5,3200
+2024-07-17,Laptop,Electronics,163938.41,3,56000
+2024-07-17,Smartphone,Electronics,102961.52,4,28000
+2024-07-17,Monitor,Electronics,41744.91,3,15000
+2024-07-17,Wireless Mouse,Accessories,14643.5,16,900
+2024-07-17,Keyboard,Accessories,20310.82,13,1600
+2024-07-17,Bluetooth Speaker,Accessories,34694.48,10,3200
+2024-07-18,Laptop,Electronics,184022.17,3,56000
+2024-07-18,Smartphone,Electronics,131364.44,5,28000
+2024-07-18,Monitor,Electronics,43634.56,3,15000
+2024-07-18,Wireless Mouse,Accessories,10010.56,10,900
+2024-07-18,Keyboard,Accessories,17466.77,12,1600
+2024-07-18,Bluetooth Speaker,Accessories,15648.05,5,3200
+2024-07-19,Laptop,Electronics,109348.92,2,56000
+2024-07-19,Smartphone,Electronics,124185.6,5,28000
+2024-07-19,Monitor,Electronics,66372.63,4,15000
+2024-07-19,Wireless Mouse,Accessories,9407.22,11,900
+2024-07-19,Keyboard,Accessories,18689.24,13,1600
+2024-07-19,Bluetooth Speaker,Accessories,23476.81,7,3200
+2024-07-20,Laptop,Electronics,102294.52,2,56000
+2024-07-20,Smartphone,Electronics,186290.61,7,28000
+2024-07-20,Monitor,Electronics,44218.4,3,15000
+2024-07-20,Wireless Mouse,Accessories,12556.86,14,900
+2024-07-20,Keyboard,Accessories,12422.6,8,1600
+2024-07-20,Bluetooth Speaker,Accessories,29950.78,10,3200
+2024-07-21,Laptop,Electronics,117089.3,2,56000
+2024-07-21,Smartphone,Electronics,133470.69,5,28000
+2024-07-21,Monitor,Electronics,76097.96,5,15000
+2024-07-21,Wireless Mouse,Accessories,11655.52,14,900
+2024-07-21,Keyboard,Accessories,24502.6,14,1600
+2024-07-21,Bluetooth Speaker,Accessories,22929.72,7,3200
+2024-07-22,Laptop,Electronics,217313.07,4,56000
+2024-07-22,Smartphone,Electronics,173830.63,7,28000
+2024-07-22,Monitor,Electronics,63173.03,4,15000
+2024-07-22,Wireless Mouse,Accessories,15004.58,17,900
+2024-07-22,Keyboard,Accessories,21357.67,13,1600
+2024-07-22,Bluetooth Speaker,Accessories,18554.59,6,3200
+2024-07-23,Laptop,Electronics,177983.17,3,56000
+2024-07-23,Smartphone,Electronics,148108.99,5,28000
+2024-07-23,Monitor,Electronics,80148.48,5,15000
+2024-07-23,Wireless Mouse,Accessories,13296.27,15,900
+2024-07-23,Keyboard,Accessories,10001.38,7,1600
+2024-07-23,Bluetooth Speaker,Accessories,17454.64,6,3200
+2024-07-24,Laptop,Electronics,169638.01,3,56000
+2024-07-24,Smartphone,Electronics,126210.28,5,28000
+2024-07-24,Monitor,Electronics,58981.05,4,15000
+2024-07-24,Wireless Mouse,Accessories,6717.87,8,900
+2024-07-24,Keyboard,Accessories,10030.8,7,1600
+2024-07-24,Bluetooth Speaker,Accessories,27313.72,8,3200
+2024-07-25,Laptop,Electronics,150513.52,3,56000
+2024-07-25,Smartphone,Electronics,85431.03,3,28000
+2024-07-25,Monitor,Electronics,63930.88,4,15000
+2024-07-25,Wireless Mouse,Accessories,12788.53,15,900
+2024-07-25,Keyboard,Accessories,11564.17,7,1600
+2024-07-25,Bluetooth Speaker,Accessories,21191.03,6,3200
+2024-07-26,Laptop,Electronics,154069.74,3,56000
+2024-07-26,Smartphone,Electronics,87282.25,3,28000
+2024-07-26,Monitor,Electronics,67680.34,5,15000
+2024-07-26,Wireless Mouse,Accessories,14564.4,18,900
+2024-07-26,Keyboard,Accessories,8903.93,6,1600
+2024-07-26,Bluetooth Speaker,Accessories,30181.31,9,3200
+2024-07-27,Laptop,Electronics,166570.32,3,56000
+2024-07-27,Smartphone,Electronics,104981.19,4,28000
+2024-07-27,Monitor,Electronics,49035.47,3,15000
+2024-07-27,Wireless Mouse,Accessories,14396.33,15,900
+2024-07-27,Keyboard,Accessories,19958.68,14,1600
+2024-07-27,Bluetooth Speaker,Accessories,27900.95,8,3200
+2024-07-28,Laptop,Electronics,183610.6,3,56000
+2024-07-28,Smartphone,Electronics,216650.63,8,28000
+2024-07-28,Monitor,Electronics,86398.34,6,15000
+2024-07-28,Wireless Mouse,Accessories,12301.69,15,900
+2024-07-28,Keyboard,Accessories,14957.26,10,1600
+2024-07-28,Bluetooth Speaker,Accessories,14757.45,5,3200
+2024-07-29,Laptop,Electronics,108919.66,2,56000
+2024-07-29,Smartphone,Electronics,77499.52,3,28000
+2024-07-29,Monitor,Electronics,61380.96,4,15000
+2024-07-29,Wireless Mouse,Accessories,10214.39,11,900
+2024-07-29,Keyboard,Accessories,10246.11,6,1600
+2024-07-29,Bluetooth Speaker,Accessories,16388.58,5,3200
+2024-07-30,Laptop,Electronics,177657.43,3,56000
+2024-07-30,Smartphone,Electronics,175975.7,6,28000
+2024-07-30,Monitor,Electronics,55116.36,4,15000
+2024-07-30,Wireless Mouse,Accessories,16442.77,17,900
+2024-07-30,Keyboard,Accessories,22663.83,13,1600
+2024-07-30,Bluetooth Speaker,Accessories,25722.56,8,3200
+2024-07-31,Laptop,Electronics,209077.8,4,56000
+2024-07-31,Smartphone,Electronics,182411.12,6,28000
+2024-07-31,Monitor,Electronics,70804.69,5,15000
+2024-07-31,Wireless Mouse,Accessories,13644.68,14,900
+2024-07-31,Keyboard,Accessories,15660.23,11,1600
+2024-07-31,Bluetooth Speaker,Accessories,17518.37,5,3200
+2024-08-01,Laptop,Electronics,185281.26,3,56000
+2024-08-01,Smartphone,Electronics,81722.05,3,28000
+2024-08-01,Monitor,Electronics,46130.31,3,15000
+2024-08-01,Wireless Mouse,Accessories,14218.02,16,900
+2024-08-01,Keyboard,Accessories,10001.0,6,1600
+2024-08-01,Bluetooth Speaker,Accessories,26815.35,8,3200
+2024-08-02,Laptop,Electronics,104267.12,2,56000
+2024-08-02,Smartphone,Electronics,123802.4,4,28000
+2024-08-02,Monitor,Electronics,66574.32,4,15000
+2024-08-02,Wireless Mouse,Accessories,6928.93,8,900
+2024-08-02,Keyboard,Accessories,22353.49,13,1600
+2024-08-02,Bluetooth Speaker,Accessories,28789.41,9,3200
+2024-08-03,Laptop,Electronics,249295.21,5,56000
+2024-08-03,Smartphone,Electronics,188383.32,7,28000
+2024-08-03,Monitor,Electronics,43127.4,3,15000
+2024-08-03,Wireless Mouse,Accessories,11692.93,12,900
+2024-08-03,Keyboard,Accessories,18897.44,12,1600
+2024-08-03,Bluetooth Speaker,Accessories,24840.09,7,3200
+2024-08-04,Laptop,Electronics,226277.37,4,56000
+2024-08-04,Smartphone,Electronics,148439.6,5,28000
+2024-08-04,Monitor,Electronics,73471.1,5,15000
+2024-08-04,Wireless Mouse,Accessories,11730.0,13,900
+2024-08-04,Keyboard,Accessories,16507.34,11,1600
+2024-08-04,Bluetooth Speaker,Accessories,40210.7,12,3200
+2024-08-05,Laptop,Electronics,152688.81,3,56000
+2024-08-05,Smartphone,Electronics,214934.96,7,28000
+2024-08-05,Monitor,Electronics,69463.93,5,15000
+2024-08-05,Wireless Mouse,Accessories,16620.0,17,900
+2024-08-05,Keyboard,Accessories,17565.37,11,1600
+2024-08-05,Bluetooth Speaker,Accessories,19693.89,6,3200
+2024-08-06,Laptop,Electronics,183370.11,3,56000
+2024-08-06,Smartphone,Electronics,104693.06,4,28000
+2024-08-06,Monitor,Electronics,63414.76,4,15000
+2024-08-06,Wireless Mouse,Accessories,14520.71,17,900
+2024-08-06,Keyboard,Accessories,12394.98,8,1600
+2024-08-06,Bluetooth Speaker,Accessories,30906.24,9,3200
+2024-08-07,Laptop,Electronics,162696.67,3,56000
+2024-08-07,Smartphone,Electronics,215105.5,7,28000
+2024-08-07,Monitor,Electronics,66188.71,5,15000
+2024-08-07,Wireless Mouse,Accessories,14389.03,16,900
+2024-08-07,Keyboard,Accessories,14291.24,10,1600
+2024-08-07,Bluetooth Speaker,Accessories,24797.75,8,3200
+2024-08-08,Laptop,Electronics,205777.5,4,56000
+2024-08-08,Smartphone,Electronics,197473.07,7,28000
+2024-08-08,Monitor,Electronics,67861.72,5,15000
+2024-08-08,Wireless Mouse,Accessories,10296.38,11,900
+2024-08-08,Keyboard,Accessories,15288.05,10,1600
+2024-08-08,Bluetooth Speaker,Accessories,24542.88,8,3200
+2024-08-09,Laptop,Electronics,114744.32,2,56000
+2024-08-09,Smartphone,Electronics,142559.49,5,28000
+2024-08-09,Monitor,Electronics,70309.34,5,15000
+2024-08-09,Wireless Mouse,Accessories,10357.75,11,900
+2024-08-09,Keyboard,Accessories,18674.59,11,1600
+2024-08-09,Bluetooth Speaker,Accessories,15984.99,5,3200
+2024-08-10,Laptop,Electronics,153862.16,3,56000
+2024-08-10,Smartphone,Electronics,180542.98,6,28000
+2024-08-10,Monitor,Electronics,96662.3,6,15000
+2024-08-10,Wireless Mouse,Accessories,9943.47,11,900
+2024-08-10,Keyboard,Accessories,17348.73,12,1600
+2024-08-10,Bluetooth Speaker,Accessories,24311.41,8,3200
+2024-08-11,Laptop,Electronics,184417.79,3,56000
+2024-08-11,Smartphone,Electronics,159731.86,6,28000
+2024-08-11,Monitor,Electronics,61590.16,4,15000
+2024-08-11,Wireless Mouse,Accessories,10593.72,13,900
+2024-08-11,Keyboard,Accessories,18524.99,11,1600
+2024-08-11,Bluetooth Speaker,Accessories,15616.85,5,3200
+2024-08-12,Laptop,Electronics,106815.91,2,56000
+2024-08-12,Smartphone,Electronics,166257.1,6,28000
+2024-08-12,Monitor,Electronics,80532.23,6,15000
+2024-08-12,Wireless Mouse,Accessories,7433.75,9,900
+2024-08-12,Keyboard,Accessories,18595.47,13,1600
+2024-08-12,Bluetooth Speaker,Accessories,26689.64,8,3200
+2024-08-13,Laptop,Electronics,228904.26,4,56000
+2024-08-13,Smartphone,Electronics,162520.1,6,28000
+2024-08-13,Monitor,Electronics,100374.87,6,15000
+2024-08-13,Wireless Mouse,Accessories,7159.56,8,900
+2024-08-13,Keyboard,Accessories,16926.02,10,1600
+2024-08-13,Bluetooth Speaker,Accessories,19616.98,6,3200
+2024-08-14,Laptop,Electronics,176923.65,3,56000
+2024-08-14,Smartphone,Electronics,111113.97,4,28000
+2024-08-14,Monitor,Electronics,39659.75,3,15000
+2024-08-14,Wireless Mouse,Accessories,14213.55,16,900
+2024-08-14,Keyboard,Accessories,19121.34,11,1600
+2024-08-14,Bluetooth Speaker,Accessories,26471.17,8,3200
+2024-08-15,Laptop,Electronics,179983.26,3,56000
+2024-08-15,Smartphone,Electronics,99444.93,4,28000
+2024-08-15,Monitor,Electronics,50197.14,3,15000
+2024-08-15,Wireless Mouse,Accessories,13931.34,14,900
+2024-08-15,Keyboard,Accessories,10516.56,7,1600
+2024-08-15,Bluetooth Speaker,Accessories,30451.68,9,3200
+2024-08-16,Laptop,Electronics,227313.54,4,56000
+2024-08-16,Smartphone,Electronics,136176.48,5,28000
+2024-08-16,Monitor,Electronics,52915.89,4,15000
+2024-08-16,Wireless Mouse,Accessories,14333.29,16,900
+2024-08-16,Keyboard,Accessories,10884.92,7,1600
+2024-08-16,Bluetooth Speaker,Accessories,24171.83,7,3200
+2024-08-17,Laptop,Electronics,158998.87,3,56000
+2024-08-17,Smartphone,Electronics,173576.35,6,28000
+2024-08-17,Monitor,Electronics,79290.15,6,15000
+2024-08-17,Wireless Mouse,Accessories,14372.48,15,900
+2024-08-17,Keyboard,Accessories,11545.98,7,1600
+2024-08-17,Bluetooth Speaker,Accessories,30264.56,9,3200
+2024-08-18,Laptop,Electronics,215296.19,4,56000
+2024-08-18,Smartphone,Electronics,175521.53,6,28000
+2024-08-18,Monitor,Electronics,79300.23,6,15000
+2024-08-18,Wireless Mouse,Accessories,15642.38,19,900
+2024-08-18,Keyboard,Accessories,11476.74,7,1600
+2024-08-18,Bluetooth Speaker,Accessories,17979.33,6,3200
+2024-08-19,Laptop,Electronics,163429.85,3,56000
+2024-08-19,Smartphone,Electronics,113231.07,4,28000
+2024-08-19,Monitor,Electronics,71404.47,5,15000
+2024-08-19,Wireless Mouse,Accessories,9009.75,10,900
+2024-08-19,Keyboard,Accessories,16545.0,10,1600
+2024-08-19,Bluetooth Speaker,Accessories,23963.56,7,3200
+2024-08-20,Laptop,Electronics,231681.22,4,56000
+2024-08-20,Smartphone,Electronics,155706.38,5,28000
+2024-08-20,Monitor,Electronics,82376.54,5,15000
+2024-08-20,Wireless Mouse,Accessories,9129.0,10,900
+2024-08-20,Keyboard,Accessories,17166.9,11,1600
+2024-08-20,Bluetooth Speaker,Accessories,16773.74,5,3200
+2024-08-21,Laptop,Electronics,152514.58,3,56000
+2024-08-21,Smartphone,Electronics,135506.51,5,28000
+2024-08-21,Monitor,Electronics,47201.05,3,15000
+2024-08-21,Wireless Mouse,Accessories,8524.76,9,900
+2024-08-21,Keyboard,Accessories,10838.06,7,1600
+2024-08-21,Bluetooth Speaker,Accessories,19074.4,6,3200
+2024-08-22,Laptop,Electronics,231115.24,4,56000
+2024-08-22,Smartphone,Electronics,140204.19,5,28000
+2024-08-22,Monitor,Electronics,61779.98,4,15000
+2024-08-22,Wireless Mouse,Accessories,12876.25,13,900
+2024-08-22,Keyboard,Accessories,20936.36,13,1600
+2024-08-22,Bluetooth Speaker,Accessories,29079.6,10,3200
+2024-08-23,Laptop,Electronics,198615.57,4,56000
+2024-08-23,Smartphone,Electronics,138054.2,5,28000
+2024-08-23,Monitor,Electronics,84981.17,6,15000
+2024-08-23,Wireless Mouse,Accessories,18041.77,18,900
+2024-08-23,Keyboard,Accessories,14812.16,10,1600
+2024-08-23,Bluetooth Speaker,Accessories,29415.2,9,3200
+2024-08-24,Laptop,Electronics,237352.57,4,56000
+2024-08-24,Smartphone,Electronics,184412.99,7,28000
+2024-08-24,Monitor,Electronics,44122.13,3,15000
+2024-08-24,Wireless Mouse,Accessories,16303.54,20,900
+2024-08-24,Keyboard,Accessories,14312.26,10,1600
+2024-08-24,Bluetooth Speaker,Accessories,37053.31,11,3200
+2024-08-25,Laptop,Electronics,232802.73,4,56000
+2024-08-25,Smartphone,Electronics,102572.74,4,28000
+2024-08-25,Monitor,Electronics,46224.97,3,15000
+2024-08-25,Wireless Mouse,Accessories,17829.33,19,900
+2024-08-25,Keyboard,Accessories,18332.13,11,1600
+2024-08-25,Bluetooth Speaker,Accessories,28463.87,8,3200
+2024-08-26,Laptop,Electronics,110937.97,2,56000
+2024-08-26,Smartphone,Electronics,188501.93,7,28000
+2024-08-26,Monitor,Electronics,44495.05,3,15000
+2024-08-26,Wireless Mouse,Accessories,7330.09,9,900
+2024-08-26,Keyboard,Accessories,19133.94,11,1600
+2024-08-26,Bluetooth Speaker,Accessories,15590.08,5,3200
+2024-08-27,Laptop,Electronics,184215.0,3,56000
+2024-08-27,Smartphone,Electronics,173239.48,6,28000
+2024-08-27,Monitor,Electronics,63438.46,4,15000
+2024-08-27,Wireless Mouse,Accessories,10691.72,11,900
+2024-08-27,Keyboard,Accessories,18392.97,11,1600
+2024-08-27,Bluetooth Speaker,Accessories,27150.66,8,3200
+2024-08-28,Laptop,Electronics,121867.92,2,56000
+2024-08-28,Smartphone,Electronics,191262.75,7,28000
+2024-08-28,Monitor,Electronics,28437.99,2,15000
+2024-08-28,Wireless Mouse,Accessories,6854.04,8,900
+2024-08-28,Keyboard,Accessories,11120.48,7,1600
+2024-08-28,Bluetooth Speaker,Accessories,19575.82,6,3200
+2024-08-29,Laptop,Electronics,179652.12,3,56000
+2024-08-29,Smartphone,Electronics,125041.95,5,28000
+2024-08-29,Monitor,Electronics,81348.34,5,15000
+2024-08-29,Wireless Mouse,Accessories,11471.42,13,900
+2024-08-29,Keyboard,Accessories,16078.62,11,1600
+2024-08-29,Bluetooth Speaker,Accessories,28533.97,8,3200
+2024-08-30,Laptop,Electronics,174282.38,3,56000
+2024-08-30,Smartphone,Electronics,121656.47,4,28000
+2024-08-30,Monitor,Electronics,65087.87,4,15000
+2024-08-30,Wireless Mouse,Accessories,10496.27,11,900
+2024-08-30,Keyboard,Accessories,15867.55,11,1600
+2024-08-30,Bluetooth Speaker,Accessories,18316.57,6,3200
+2024-08-31,Laptop,Electronics,174003.69,3,56000
+2024-08-31,Smartphone,Electronics,202543.31,8,28000
+2024-08-31,Monitor,Electronics,55790.48,4,15000
+2024-08-31,Wireless Mouse,Accessories,10739.39,11,900
+2024-08-31,Keyboard,Accessories,23602.26,14,1600
+2024-08-31,Bluetooth Speaker,Accessories,17824.87,6,3200
+2024-09-01,Laptop,Electronics,197200.88,4,56000
+2024-09-01,Smartphone,Electronics,137497.85,5,28000
+2024-09-01,Monitor,Electronics,83142.82,5,15000
+2024-09-01,Wireless Mouse,Accessories,18812.89,20,900
+2024-09-01,Keyboard,Accessories,21952.82,15,1600
+2024-09-01,Bluetooth Speaker,Accessories,31766.07,11,3200
+2024-09-02,Laptop,Electronics,105346.26,2,56000
+2024-09-02,Smartphone,Electronics,177705.13,7,28000
+2024-09-02,Monitor,Electronics,44640.17,3,15000
+2024-09-02,Wireless Mouse,Accessories,13557.2,14,900
+2024-09-02,Keyboard,Accessories,11776.5,7,1600
+2024-09-02,Bluetooth Speaker,Accessories,22537.41,8,3200
+2024-09-03,Laptop,Electronics,179418.63,3,56000
+2024-09-03,Smartphone,Electronics,119966.18,4,28000
+2024-09-03,Monitor,Electronics,60692.03,4,15000
+2024-09-03,Wireless Mouse,Accessories,9977.91,12,900
+2024-09-03,Keyboard,Accessories,15734.68,10,1600
+2024-09-03,Bluetooth Speaker,Accessories,19428.77,6,3200
+2024-09-04,Laptop,Electronics,148692.29,3,56000
+2024-09-04,Smartphone,Electronics,153243.86,5,28000
+2024-09-04,Monitor,Electronics,56460.83,4,15000
+2024-09-04,Wireless Mouse,Accessories,16411.12,17,900
+2024-09-04,Keyboard,Accessories,15128.18,10,1600
+2024-09-04,Bluetooth Speaker,Accessories,19508.15,6,3200
+2024-09-05,Laptop,Electronics,185870.38,3,56000
+2024-09-05,Smartphone,Electronics,157453.63,6,28000
+2024-09-05,Monitor,Electronics,66899.46,4,15000
+2024-09-05,Wireless Mouse,Accessories,8196.08,9,900
+2024-09-05,Keyboard,Accessories,21193.31,13,1600
+2024-09-05,Bluetooth Speaker,Accessories,21769.3,7,3200
+2024-09-06,Laptop,Electronics,179827.93,3,56000
+2024-09-06,Smartphone,Electronics,204557.01,7,28000
+2024-09-06,Monitor,Electronics,43300.05,3,15000
+2024-09-06,Wireless Mouse,Accessories,12771.35,16,900
+2024-09-06,Keyboard,Accessories,18071.53,12,1600
+2024-09-06,Bluetooth Speaker,Accessories,29986.87,10,3200
+2024-09-07,Laptop,Electronics,159847.7,3,56000
+2024-09-07,Smartphone,Electronics,186307.55,6,28000
+2024-09-07,Monitor,Electronics,87669.54,6,15000
+2024-09-07,Wireless Mouse,Accessories,15675.72,19,900
+2024-09-07,Keyboard,Accessories,14004.45,9,1600
+2024-09-07,Bluetooth Speaker,Accessories,19467.29,6,3200
+2024-09-08,Laptop,Electronics,111724.58,2,56000
+2024-09-08,Smartphone,Electronics,177869.54,6,28000
+2024-09-08,Monitor,Electronics,81975.28,5,15000
+2024-09-08,Wireless Mouse,Accessories,15517.27,19,900
+2024-09-08,Keyboard,Accessories,11150.15,7,1600
+2024-09-08,Bluetooth Speaker,Accessories,36767.16,11,3200
+2024-09-09,Laptop,Electronics,176546.84,3,56000
+2024-09-09,Smartphone,Electronics,142882.48,5,28000
+2024-09-09,Monitor,Electronics,71640.92,5,15000
+2024-09-09,Wireless Mouse,Accessories,17899.3,18,900
+2024-09-09,Keyboard,Accessories,17701.22,12,1600
+2024-09-09,Bluetooth Speaker,Accessories,35167.47,10,3200
+2024-09-10,Laptop,Electronics,98612.81,2,56000
+2024-09-10,Smartphone,Electronics,126185.78,5,28000
+2024-09-10,Monitor,Electronics,67065.07,4,15000
+2024-09-10,Wireless Mouse,Accessories,15237.1,18,900
+2024-09-10,Keyboard,Accessories,16495.27,11,1600
+2024-09-10,Bluetooth Speaker,Accessories,14955.74,5,3200
+2024-09-11,Laptop,Electronics,187258.87,3,56000
+2024-09-11,Smartphone,Electronics,128600.0,5,28000
+2024-09-11,Monitor,Electronics,40970.78,3,15000
+2024-09-11,Wireless Mouse,Accessories,16597.43,18,900
+2024-09-11,Keyboard,Accessories,8785.88,6,1600
+2024-09-11,Bluetooth Speaker,Accessories,17323.67,5,3200
+2024-09-12,Laptop,Electronics,244547.5,4,56000
+2024-09-12,Smartphone,Electronics,116804.17,4,28000
+2024-09-12,Monitor,Electronics,47812.19,3,15000
+2024-09-12,Wireless Mouse,Accessories,13904.67,14,900
+2024-09-12,Keyboard,Accessories,12494.24,7,1600
+2024-09-12,Bluetooth Speaker,Accessories,24629.45,8,3200
+2024-09-13,Laptop,Electronics,111251.01,2,56000
+2024-09-13,Smartphone,Electronics,90555.99,3,28000
+2024-09-13,Monitor,Electronics,44391.71,3,15000
+2024-09-13,Wireless Mouse,Accessories,13268.93,14,900
+2024-09-13,Keyboard,Accessories,18844.03,13,1600
+2024-09-13,Bluetooth Speaker,Accessories,16701.26,5,3200
+2024-09-14,Laptop,Electronics,237690.14,4,56000
+2024-09-14,Smartphone,Electronics,108258.14,4,28000
+2024-09-14,Monitor,Electronics,67158.18,4,15000
+2024-09-14,Wireless Mouse,Accessories,10845.0,12,900
+2024-09-14,Keyboard,Accessories,14313.07,8,1600
+2024-09-14,Bluetooth Speaker,Accessories,23867.14,8,3200
+2024-09-15,Laptop,Electronics,226543.83,4,56000
+2024-09-15,Smartphone,Electronics,163641.54,6,28000
+2024-09-15,Monitor,Electronics,70901.08,5,15000
+2024-09-15,Wireless Mouse,Accessories,12860.46,16,900
+2024-09-15,Keyboard,Accessories,13336.51,8,1600
+2024-09-15,Bluetooth Speaker,Accessories,32791.85,10,3200
+2024-09-16,Laptop,Electronics,222454.9,4,56000
+2024-09-16,Smartphone,Electronics,179003.8,6,28000
+2024-09-16,Monitor,Electronics,87828.01,6,15000
+2024-09-16,Wireless Mouse,Accessories,9637.13,10,900
+2024-09-16,Keyboard,Accessories,15487.46,9,1600
+2024-09-16,Bluetooth Speaker,Accessories,26065.66,8,3200
+2024-09-17,Laptop,Electronics,162085.12,3,56000
+2024-09-17,Smartphone,Electronics,206458.1,7,28000
+2024-09-17,Monitor,Electronics,80472.13,6,15000
+2024-09-17,Wireless Mouse,Accessories,12617.85,13,900
+2024-09-17,Keyboard,Accessories,17420.03,12,1600
+2024-09-17,Bluetooth Speaker,Accessories,14169.84,5,3200
+2024-09-18,Laptop,Electronics,101464.34,2,56000
+2024-09-18,Smartphone,Electronics,167368.62,6,28000
+2024-09-18,Monitor,Electronics,63570.16,4,15000
+2024-09-18,Wireless Mouse,Accessories,9878.2,10,900
+2024-09-18,Keyboard,Accessories,15721.49,9,1600
+2024-09-18,Bluetooth Speaker,Accessories,29086.07,9,3200
+2024-09-19,Laptop,Electronics,176033.45,3,56000
+2024-09-19,Smartphone,Electronics,151889.88,6,28000
+2024-09-19,Monitor,Electronics,80251.16,5,15000
+2024-09-19,Wireless Mouse,Accessories,9299.44,11,900
+2024-09-19,Keyboard,Accessories,10934.95,7,1600
+2024-09-19,Bluetooth Speaker,Accessories,22862.62,7,3200
+2024-09-20,Laptop,Electronics,113953.3,2,56000
+2024-09-20,Smartphone,Electronics,148544.01,6,28000
+2024-09-20,Monitor,Electronics,41927.59,3,15000
+2024-09-20,Wireless Mouse,Accessories,12335.82,13,900
+2024-09-20,Keyboard,Accessories,21448.6,13,1600
+2024-09-20,Bluetooth Speaker,Accessories,14649.46,5,3200
+2024-09-21,Laptop,Electronics,210306.4,4,56000
+2024-09-21,Smartphone,Electronics,201145.31,7,28000
+2024-09-21,Monitor,Electronics,81960.3,5,15000
+2024-09-21,Wireless Mouse,Accessories,17852.68,20,900
+2024-09-21,Keyboard,Accessories,24157.7,14,1600
+2024-09-21,Bluetooth Speaker,Accessories,15921.76,5,3200
+2024-09-22,Laptop,Electronics,234505.28,4,56000
+2024-09-22,Smartphone,Electronics,195808.69,7,28000
+2024-09-22,Monitor,Electronics,88879.3,6,15000
+2024-09-22,Wireless Mouse,Accessories,12763.55,14,900
+2024-09-22,Keyboard,Accessories,14609.05,9,1600
+2024-09-22,Bluetooth Speaker,Accessories,14854.46,5,3200
+2024-09-23,Laptop,Electronics,170530.56,3,56000
+2024-09-23,Smartphone,Electronics,153515.65,5,28000
+2024-09-23,Monitor,Electronics,62764.08,4,15000
+2024-09-23,Wireless Mouse,Accessories,12236.66,13,900
+2024-09-23,Keyboard,Accessories,18865.77,12,1600
+2024-09-23,Bluetooth Speaker,Accessories,16089.05,5,3200
+2024-09-24,Laptop,Electronics,231462.89,4,56000
+2024-09-24,Smartphone,Electronics,122344.63,4,28000
+2024-09-24,Monitor,Electronics,66729.67,4,15000
+2024-09-24,Wireless Mouse,Accessories,15688.84,16,900
+2024-09-24,Keyboard,Accessories,21338.8,13,1600
+2024-09-24,Bluetooth Speaker,Accessories,34097.74,10,3200
+2024-09-25,Laptop,Electronics,124454.83,2,56000
+2024-09-25,Smartphone,Electronics,76940.25,3,28000
+2024-09-25,Monitor,Electronics,47957.7,3,15000
+2024-09-25,Wireless Mouse,Accessories,13270.38,14,900
+2024-09-25,Keyboard,Accessories,12441.76,7,1600
+2024-09-25,Bluetooth Speaker,Accessories,21207.14,6,3200
+2024-09-26,Laptop,Electronics,174799.96,3,56000
+2024-09-26,Smartphone,Electronics,152783.52,6,28000
+2024-09-26,Monitor,Electronics,61754.82,4,15000
+2024-09-26,Wireless Mouse,Accessories,14253.1,15,900
+2024-09-26,Keyboard,Accessories,19681.4,11,1600
+2024-09-26,Bluetooth Speaker,Accessories,22583.77,8,3200
+2024-09-27,Laptop,Electronics,250152.0,4,56000
+2024-09-27,Smartphone,Electronics,113228.64,4,28000
+2024-09-27,Monitor,Electronics,75908.6,5,15000
+2024-09-27,Wireless Mouse,Accessories,9809.27,10,900
+2024-09-27,Keyboard,Accessories,9893.89,6,1600
+2024-09-27,Bluetooth Speaker,Accessories,27329.49,9,3200
+2024-09-28,Laptop,Electronics,228901.48,4,56000
+2024-09-28,Smartphone,Electronics,110238.15,4,28000
+2024-09-28,Monitor,Electronics,56621.04,4,15000
+2024-09-28,Wireless Mouse,Accessories,14812.77,16,900
+2024-09-28,Keyboard,Accessories,17900.74,12,1600
+2024-09-28,Bluetooth Speaker,Accessories,19305.56,6,3200
+2024-09-29,Laptop,Electronics,262689.39,5,56000
+2024-09-29,Smartphone,Electronics,249735.98,8,28000
+2024-09-29,Monitor,Electronics,65589.41,4,15000
+2024-09-29,Wireless Mouse,Accessories,10655.58,11,900
+2024-09-29,Keyboard,Accessories,20292.56,14,1600
+2024-09-29,Bluetooth Speaker,Accessories,40254.21,12,3200
+2024-09-30,Laptop,Electronics,235162.66,4,56000
+2024-09-30,Smartphone,Electronics,107942.54,4,28000
+2024-09-30,Monitor,Electronics,70472.13,5,15000
+2024-09-30,Wireless Mouse,Accessories,10298.52,11,900
+2024-09-30,Keyboard,Accessories,13735.37,8,1600
+2024-09-30,Bluetooth Speaker,Accessories,26629.71,9,3200
+2024-10-01,Laptop,Electronics,292044.84,5,56000
+2024-10-01,Smartphone,Electronics,173734.39,6,28000
+2024-10-01,Monitor,Electronics,80273.13,5,15000
+2024-10-01,Wireless Mouse,Accessories,19685.34,22,900
+2024-10-01,Keyboard,Accessories,23185.55,14,1600
+2024-10-01,Bluetooth Speaker,Accessories,20606.73,6,3200
+2024-10-02,Laptop,Electronics,245609.94,4,56000
+2024-10-02,Smartphone,Electronics,138549.26,5,28000
+2024-10-02,Monitor,Electronics,116380.31,7,15000
+2024-10-02,Wireless Mouse,Accessories,11940.44,13,900
+2024-10-02,Keyboard,Accessories,23896.18,15,1600
+2024-10-02,Bluetooth Speaker,Accessories,24442.3,7,3200
+2024-10-03,Laptop,Electronics,250043.15,4,56000
+2024-10-03,Smartphone,Electronics,185485.78,7,28000
+2024-10-03,Monitor,Electronics,70103.75,5,15000
+2024-10-03,Wireless Mouse,Accessories,9307.49,11,900
+2024-10-03,Keyboard,Accessories,14088.1,9,1600
+2024-10-03,Bluetooth Speaker,Accessories,25375.58,8,3200
+2024-10-04,Laptop,Electronics,106652.2,2,56000
+2024-10-04,Smartphone,Electronics,233143.16,9,28000
+2024-10-04,Monitor,Electronics,61503.77,4,15000
+2024-10-04,Wireless Mouse,Accessories,17135.8,19,900
+2024-10-04,Keyboard,Accessories,13516.07,9,1600
+2024-10-04,Bluetooth Speaker,Accessories,42713.1,13,3200
+2024-10-05,Laptop,Electronics,279559.96,5,56000
+2024-10-05,Smartphone,Electronics,213976.36,7,28000
+2024-10-05,Monitor,Electronics,112081.22,7,15000
+2024-10-05,Wireless Mouse,Accessories,9524.08,12,900
+2024-10-05,Keyboard,Accessories,29406.89,19,1600
+2024-10-05,Bluetooth Speaker,Accessories,39489.48,13,3200
+2024-10-06,Laptop,Electronics,148379.9,3,56000
+2024-10-06,Smartphone,Electronics,214427.78,8,28000
+2024-10-06,Monitor,Electronics,60713.36,4,15000
+2024-10-06,Wireless Mouse,Accessories,13783.11,16,900
+2024-10-06,Keyboard,Accessories,26720.12,16,1600
+2024-10-06,Bluetooth Speaker,Accessories,38951.24,13,3200
+2024-10-07,Laptop,Electronics,116950.37,2,56000
+2024-10-07,Smartphone,Electronics,152550.19,6,28000
+2024-10-07,Monitor,Electronics,45437.43,3,15000
+2024-10-07,Wireless Mouse,Accessories,16113.64,17,900
+2024-10-07,Keyboard,Accessories,21899.61,14,1600
+2024-10-07,Bluetooth Speaker,Accessories,24188.63,8,3200
+2024-10-08,Laptop,Electronics,311261.44,5,56000
+2024-10-08,Smartphone,Electronics,155139.44,5,28000
+2024-10-08,Monitor,Electronics,71371.48,5,15000
+2024-10-08,Wireless Mouse,Accessories,13155.62,14,900
+2024-10-08,Keyboard,Accessories,30223.91,17,1600
+2024-10-08,Bluetooth Speaker,Accessories,38878.81,13,3200
+2024-10-09,Laptop,Electronics,150991.75,3,56000
+2024-10-09,Smartphone,Electronics,134090.66,5,28000
+2024-10-09,Monitor,Electronics,53248.36,4,15000
+2024-10-09,Wireless Mouse,Accessories,10629.68,11,900
+2024-10-09,Keyboard,Accessories,12793.87,8,1600
+2024-10-09,Bluetooth Speaker,Accessories,23979.02,8,3200
+2024-10-10,Laptop,Electronics,265205.27,5,56000
+2024-10-10,Smartphone,Electronics,146708.45,5,28000
+2024-10-10,Monitor,Electronics,93985.73,7,15000
+2024-10-10,Wireless Mouse,Accessories,10697.35,11,900
+2024-10-10,Keyboard,Accessories,30310.56,17,1600
+2024-10-10,Bluetooth Speaker,Accessories,26685.11,8,3200
+2024-10-11,Laptop,Electronics,186254.86,3,56000
+2024-10-11,Smartphone,Electronics,154383.45,5,28000
+2024-10-11,Monitor,Electronics,57599.39,4,15000
+2024-10-11,Wireless Mouse,Accessories,8905.32,11,900
+2024-10-11,Keyboard,Accessories,27817.86,16,1600
+2024-10-11,Bluetooth Speaker,Accessories,28757.09,10,3200
+2024-10-12,Laptop,Electronics,356639.07,6,56000
+2024-10-12,Smartphone,Electronics,252707.05,9,28000
+2024-10-12,Monitor,Electronics,81912.87,6,15000
+2024-10-12,Wireless Mouse,Accessories,18290.05,20,900
+2024-10-12,Keyboard,Accessories,31934.29,18,1600
+2024-10-12,Bluetooth Speaker,Accessories,27483.42,9,3200
+2024-10-13,Laptop,Electronics,172271.81,3,56000
+2024-10-13,Smartphone,Electronics,181086.13,7,28000
+2024-10-13,Monitor,Electronics,76984.01,5,15000
+2024-10-13,Wireless Mouse,Accessories,11060.39,12,900
+2024-10-13,Keyboard,Accessories,33935.72,19,1600
+2024-10-13,Bluetooth Speaker,Accessories,36166.55,11,3200
+2024-10-14,Laptop,Electronics,100935.4,2,56000
+2024-10-14,Smartphone,Electronics,217928.93,8,28000
+2024-10-14,Monitor,Electronics,69633.68,5,15000
+2024-10-14,Wireless Mouse,Accessories,18287.27,19,900
+2024-10-14,Keyboard,Accessories,16838.8,10,1600
+2024-10-14,Bluetooth Speaker,Accessories,46242.52,13,3200
+2024-10-15,Laptop,Electronics,122839.25,2,56000
+2024-10-15,Smartphone,Electronics,108068.71,4,28000
+2024-10-15,Monitor,Electronics,85145.58,6,15000
+2024-10-15,Wireless Mouse,Accessories,9604.08,12,900
+2024-10-15,Keyboard,Accessories,24361.04,16,1600
+2024-10-15,Bluetooth Speaker,Accessories,35790.76,12,3200
+2024-10-16,Laptop,Electronics,105915.16,2,56000
+2024-10-16,Smartphone,Electronics,179571.47,6,28000
+2024-10-16,Monitor,Electronics,93248.75,6,15000
+2024-10-16,Wireless Mouse,Accessories,16056.95,20,900
+2024-10-16,Keyboard,Accessories,17039.5,11,1600
+2024-10-16,Bluetooth Speaker,Accessories,23975.71,8,3200
+2024-10-17,Laptop,Electronics,221040.24,4,56000
+2024-10-17,Smartphone,Electronics,192409.55,7,28000
+2024-10-17,Monitor,Electronics,77159.96,5,15000
+2024-10-17,Wireless Mouse,Accessories,10239.71,11,900
+2024-10-17,Keyboard,Accessories,23098.31,14,1600
+2024-10-17,Bluetooth Speaker,Accessories,32688.65,10,3200
+2024-10-18,Laptop,Electronics,295079.75,5,56000
+2024-10-18,Smartphone,Electronics,131076.17,5,28000
+2024-10-18,Monitor,Electronics,98005.85,7,15000
+2024-10-18,Wireless Mouse,Accessories,14441.69,17,900
+2024-10-18,Keyboard,Accessories,18659.02,12,1600
+2024-10-18,Bluetooth Speaker,Accessories,35598.58,10,3200
+2024-10-19,Laptop,Electronics,177309.48,3,56000
+2024-10-19,Smartphone,Electronics,224847.15,9,28000
+2024-10-19,Monitor,Electronics,103836.45,7,15000
+2024-10-19,Wireless Mouse,Accessories,21002.45,26,900
+2024-10-19,Keyboard,Accessories,19368.68,13,1600
+2024-10-19,Bluetooth Speaker,Accessories,42595.98,14,3200
+2024-10-20,Laptop,Electronics,156551.92,3,56000
+2024-10-20,Smartphone,Electronics,170185.81,6,28000
+2024-10-20,Monitor,Electronics,93203.19,6,15000
+2024-10-20,Wireless Mouse,Accessories,24828.94,25,900
+2024-10-20,Keyboard,Accessories,20786.56,14,1600
+2024-10-20,Bluetooth Speaker,Accessories,28494.95,10,3200
+2024-10-21,Laptop,Electronics,296635.77,5,56000
+2024-10-21,Smartphone,Electronics,189546.95,7,28000
+2024-10-21,Monitor,Electronics,59103.65,4,15000
+2024-10-21,Wireless Mouse,Accessories,16867.03,17,900
+2024-10-21,Keyboard,Accessories,22629.35,16,1600
+2024-10-21,Bluetooth Speaker,Accessories,32258.26,11,3200
+2024-10-22,Laptop,Electronics,168988.82,3,56000
+2024-10-22,Smartphone,Electronics,146342.58,5,28000
+2024-10-22,Monitor,Electronics,83580.16,5,15000
+2024-10-22,Wireless Mouse,Accessories,18227.04,20,900
+2024-10-22,Keyboard,Accessories,12269.87,8,1600
+2024-10-22,Bluetooth Speaker,Accessories,32784.42,11,3200
+2024-10-23,Laptop,Electronics,247308.46,4,56000
+2024-10-23,Smartphone,Electronics,189479.09,7,28000
+2024-10-23,Monitor,Electronics,44652.81,3,15000
+2024-10-23,Wireless Mouse,Accessories,13592.31,17,900
+2024-10-23,Keyboard,Accessories,27333.71,17,1600
+2024-10-23,Bluetooth Speaker,Accessories,28070.6,8,3200
+2024-10-24,Laptop,Electronics,283271.36,5,56000
+2024-10-24,Smartphone,Electronics,138902.67,5,28000
+2024-10-24,Monitor,Electronics,94078.81,7,15000
+2024-10-24,Wireless Mouse,Accessories,14758.34,16,900
+2024-10-24,Keyboard,Accessories,17127.25,11,1600
+2024-10-24,Bluetooth Speaker,Accessories,35302.39,11,3200
+2024-10-25,Laptop,Electronics,244959.78,4,56000
+2024-10-25,Smartphone,Electronics,198380.02,8,28000
+2024-10-25,Monitor,Electronics,89620.24,6,15000
+2024-10-25,Wireless Mouse,Accessories,16699.42,17,900
+2024-10-25,Keyboard,Accessories,13384.42,8,1600
+2024-10-25,Bluetooth Speaker,Accessories,20968.23,7,3200
+2024-10-26,Laptop,Electronics,310436.85,6,56000
+2024-10-26,Smartphone,Electronics,181382.2,6,28000
+2024-10-26,Monitor,Electronics,116095.93,8,15000
+2024-10-26,Wireless Mouse,Accessories,16601.66,18,900
+2024-10-26,Keyboard,Accessories,22150.79,15,1600
+2024-10-26,Bluetooth Speaker,Accessories,39190.33,13,3200
+2024-10-27,Laptop,Electronics,179820.07,3,56000
+2024-10-27,Smartphone,Electronics,285969.14,10,28000
+2024-10-27,Monitor,Electronics,57320.25,4,15000
+2024-10-27,Wireless Mouse,Accessories,10482.99,13,900
+2024-10-27,Keyboard,Accessories,16122.93,9,1600
+2024-10-27,Bluetooth Speaker,Accessories,47914.14,14,3200
+2024-10-28,Laptop,Electronics,117735.1,2,56000
+2024-10-28,Smartphone,Electronics,271866.71,9,28000
+2024-10-28,Monitor,Electronics,77060.98,5,15000
+2024-10-28,Wireless Mouse,Accessories,15976.62,16,900
+2024-10-28,Keyboard,Accessories,27291.59,16,1600
+2024-10-28,Bluetooth Speaker,Accessories,20806.31,7,3200
+2024-10-29,Laptop,Electronics,241497.79,4,56000
+2024-10-29,Smartphone,Electronics,165455.6,6,28000
+2024-10-29,Monitor,Electronics,73915.1,5,15000
+2024-10-29,Wireless Mouse,Accessories,15913.41,16,900
+2024-10-29,Keyboard,Accessories,28945.62,17,1600
+2024-10-29,Bluetooth Speaker,Accessories,31323.37,9,3200
+2024-10-30,Laptop,Electronics,246661.04,4,56000
+2024-10-30,Smartphone,Electronics,136663.3,5,28000
+2024-10-30,Monitor,Electronics,67135.94,5,15000
+2024-10-30,Wireless Mouse,Accessories,10140.46,11,900
+2024-10-30,Keyboard,Accessories,22463.92,13,1600
+2024-10-30,Bluetooth Speaker,Accessories,39347.77,13,3200
+2024-10-31,Laptop,Electronics,157775.59,3,56000
+2024-10-31,Smartphone,Electronics,236456.48,8,28000
+2024-10-31,Monitor,Electronics,41163.08,3,15000
+2024-10-31,Wireless Mouse,Accessories,10900.29,12,900
+2024-10-31,Keyboard,Accessories,18749.68,13,1600
+2024-10-31,Bluetooth Speaker,Accessories,44991.97,13,3200
+2024-11-01,Laptop,Electronics,181579.1,3,56000
+2024-11-01,Smartphone,Electronics,243262.16,8,28000
+2024-11-01,Monitor,Electronics,57527.83,4,15000
+2024-11-01,Wireless Mouse,Accessories,15883.05,20,900
+2024-11-01,Keyboard,Accessories,24457.06,16,1600
+2024-11-01,Bluetooth Speaker,Accessories,29826.94,9,3200
+2024-11-02,Laptop,Electronics,210690.4,4,56000
+2024-11-02,Smartphone,Electronics,150257.06,5,28000
+2024-11-02,Monitor,Electronics,111642.31,7,15000
+2024-11-02,Wireless Mouse,Accessories,16350.28,18,900
+2024-11-02,Keyboard,Accessories,24397.63,16,1600
+2024-11-02,Bluetooth Speaker,Accessories,46374.11,13,3200
+2024-11-03,Laptop,Electronics,263034.65,5,56000
+2024-11-03,Smartphone,Electronics,146909.83,5,28000
+2024-11-03,Monitor,Electronics,64073.3,4,15000
+2024-11-03,Wireless Mouse,Accessories,18568.35,23,900
+2024-11-03,Keyboard,Accessories,27811.21,19,1600
+2024-11-03,Bluetooth Speaker,Accessories,41372.24,13,3200
+2024-11-04,Laptop,Electronics,251057.39,5,56000
+2024-11-04,Smartphone,Electronics,249294.07,8,28000
+2024-11-04,Monitor,Electronics,54472.25,4,15000
+2024-11-04,Wireless Mouse,Accessories,19615.11,21,900
+2024-11-04,Keyboard,Accessories,14208.65,10,1600
+2024-11-04,Bluetooth Speaker,Accessories,39596.11,13,3200
+2024-11-05,Laptop,Electronics,310007.5,5,56000
+2024-11-05,Smartphone,Electronics,236908.86,9,28000
+2024-11-05,Monitor,Electronics,42947.51,3,15000
+2024-11-05,Wireless Mouse,Accessories,22274.73,23,900
+2024-11-05,Keyboard,Accessories,24325.03,16,1600
+2024-11-05,Bluetooth Speaker,Accessories,43043.22,13,3200
+2024-11-06,Laptop,Electronics,173762.22,3,56000
+2024-11-06,Smartphone,Electronics,129242.31,5,28000
+2024-11-06,Monitor,Electronics,89353.34,6,15000
+2024-11-06,Wireless Mouse,Accessories,14784.47,15,900
+2024-11-06,Keyboard,Accessories,13557.37,9,1600
+2024-11-06,Bluetooth Speaker,Accessories,26438.9,8,3200
+2024-11-07,Laptop,Electronics,218464.52,4,56000
+2024-11-07,Smartphone,Electronics,207302.49,7,28000
+2024-11-07,Monitor,Electronics,61427.72,4,15000
+2024-11-07,Wireless Mouse,Accessories,15104.85,17,900
+2024-11-07,Keyboard,Accessories,14113.61,8,1600
+2024-11-07,Bluetooth Speaker,Accessories,41252.0,12,3200
+2024-11-08,Laptop,Electronics,183461.63,3,56000
+2024-11-08,Smartphone,Electronics,250797.35,9,28000
+2024-11-08,Monitor,Electronics,93253.86,6,15000
+2024-11-08,Wireless Mouse,Accessories,19138.55,20,900
+2024-11-08,Keyboard,Accessories,19224.56,13,1600
+2024-11-08,Bluetooth Speaker,Accessories,20426.82,6,3200
+2024-11-09,Laptop,Electronics,151075.0,3,56000
+2024-11-09,Smartphone,Electronics,189660.12,7,28000
+2024-11-09,Monitor,Electronics,85802.94,6,15000
+2024-11-09,Wireless Mouse,Accessories,21084.77,24,900
+2024-11-09,Keyboard,Accessories,16710.67,10,1600
+2024-11-09,Bluetooth Speaker,Accessories,35970.97,12,3200
+2024-11-10,Laptop,Electronics,232689.26,4,56000
+2024-11-10,Smartphone,Electronics,221000.09,8,28000
+2024-11-10,Monitor,Electronics,107838.97,7,15000
+2024-11-10,Wireless Mouse,Accessories,16302.3,18,900
+2024-11-10,Keyboard,Accessories,17663.23,11,1600
+2024-11-10,Bluetooth Speaker,Accessories,31831.49,10,3200
+2024-11-11,Laptop,Electronics,202535.91,4,56000
+2024-11-11,Smartphone,Electronics,186087.99,7,28000
+2024-11-11,Monitor,Electronics,59598.32,4,15000
+2024-11-11,Wireless Mouse,Accessories,10443.03,12,900
+2024-11-11,Keyboard,Accessories,16233.62,11,1600
+2024-11-11,Bluetooth Speaker,Accessories,28417.69,8,3200
+2024-11-12,Laptop,Electronics,149362.52,3,56000
+2024-11-12,Smartphone,Electronics,244515.98,8,28000
+2024-11-12,Monitor,Electronics,112514.95,7,15000
+2024-11-12,Wireless Mouse,Accessories,20666.3,24,900
+2024-11-12,Keyboard,Accessories,28894.32,17,1600
+2024-11-12,Bluetooth Speaker,Accessories,33110.4,10,3200
+2024-11-13,Laptop,Electronics,300837.56,5,56000
+2024-11-13,Smartphone,Electronics,122548.66,4,28000
+2024-11-13,Monitor,Electronics,79729.74,6,15000
+2024-11-13,Wireless Mouse,Accessories,16314.09,19,900
+2024-11-13,Keyboard,Accessories,15902.42,11,1600
+2024-11-13,Bluetooth Speaker,Accessories,21291.24,7,3200
+2024-11-14,Laptop,Electronics,187673.16,3,56000
+2024-11-14,Smartphone,Electronics,262983.12,9,28000
+2024-11-14,Monitor,Electronics,97076.29,7,15000
+2024-11-14,Wireless Mouse,Accessories,10852.7,13,900
+2024-11-14,Keyboard,Accessories,28613.05,16,1600
+2024-11-14,Bluetooth Speaker,Accessories,22179.72,7,3200
+2024-11-15,Laptop,Electronics,111424.17,2,56000
+2024-11-15,Smartphone,Electronics,217987.03,8,28000
+2024-11-15,Monitor,Electronics,41611.67,3,15000
+2024-11-15,Wireless Mouse,Accessories,17623.03,19,900
+2024-11-15,Keyboard,Accessories,25223.98,16,1600
+2024-11-15,Bluetooth Speaker,Accessories,40803.52,13,3200
+2024-11-16,Laptop,Electronics,159435.51,3,56000
+2024-11-16,Smartphone,Electronics,184643.69,6,28000
+2024-11-16,Monitor,Electronics,81484.8,5,15000
+2024-11-16,Wireless Mouse,Accessories,24934.55,26,900
+2024-11-16,Keyboard,Accessories,19803.75,14,1600
+2024-11-16,Bluetooth Speaker,Accessories,22672.39,8,3200
+2024-11-17,Laptop,Electronics,163704.81,3,56000
+2024-11-17,Smartphone,Electronics,331289.34,11,28000
+2024-11-17,Monitor,Electronics,82929.89,5,15000
+2024-11-17,Wireless Mouse,Accessories,16268.66,17,900
+2024-11-17,Keyboard,Accessories,25326.52,17,1600
+2024-11-17,Bluetooth Speaker,Accessories,24284.98,7,3200
+2024-11-18,Laptop,Electronics,164629.71,3,56000
+2024-11-18,Smartphone,Electronics,112154.02,4,28000
+2024-11-18,Monitor,Electronics,81165.08,5,15000
+2024-11-18,Wireless Mouse,Accessories,20050.33,21,900
+2024-11-18,Keyboard,Accessories,25045.1,14,1600
+2024-11-18,Bluetooth Speaker,Accessories,33937.2,12,3200
+2024-11-19,Laptop,Electronics,233076.58,4,56000
+2024-11-19,Smartphone,Electronics,221997.42,8,28000
+2024-11-19,Monitor,Electronics,86535.2,6,15000
+2024-11-19,Wireless Mouse,Accessories,19369.67,20,900
+2024-11-19,Keyboard,Accessories,25010.66,17,1600
+2024-11-19,Bluetooth Speaker,Accessories,35753.82,10,3200
+2024-11-20,Laptop,Electronics,305934.46,5,56000
+2024-11-20,Smartphone,Electronics,217519.34,8,28000
+2024-11-20,Monitor,Electronics,71540.85,5,15000
+2024-11-20,Wireless Mouse,Accessories,13538.18,15,900
+2024-11-20,Keyboard,Accessories,26352.58,15,1600
+2024-11-20,Bluetooth Speaker,Accessories,38740.41,13,3200
+2024-11-21,Laptop,Electronics,151145.81,3,56000
+2024-11-21,Smartphone,Electronics,182558.7,7,28000
+2024-11-21,Monitor,Electronics,94034.03,7,15000
+2024-11-21,Wireless Mouse,Accessories,12520.05,13,900
+2024-11-21,Keyboard,Accessories,24837.73,17,1600
+2024-11-21,Bluetooth Speaker,Accessories,20611.19,7,3200
+2024-11-22,Laptop,Electronics,285898.91,5,56000
+2024-11-22,Smartphone,Electronics,236755.68,8,28000
+2024-11-22,Monitor,Electronics,94456.45,6,15000
+2024-11-22,Wireless Mouse,Accessories,15981.32,16,900
+2024-11-22,Keyboard,Accessories,24884.52,14,1600
+2024-11-22,Bluetooth Speaker,Accessories,34192.05,10,3200
+2024-11-23,Laptop,Electronics,168292.08,3,56000
+2024-11-23,Smartphone,Electronics,198235.52,8,28000
+2024-11-23,Monitor,Electronics,79879.33,5,15000
+2024-11-23,Wireless Mouse,Accessories,18171.9,20,900
+2024-11-23,Keyboard,Accessories,25229.13,15,1600
+2024-11-23,Bluetooth Speaker,Accessories,24581.02,7,3200
+2024-11-24,Laptop,Electronics,212898.16,4,56000
+2024-11-24,Smartphone,Electronics,261414.48,9,28000
+2024-11-24,Monitor,Electronics,93148.5,7,15000
+2024-11-24,Wireless Mouse,Accessories,24102.86,26,900
+2024-11-24,Keyboard,Accessories,15822.81,11,1600
+2024-11-24,Bluetooth Speaker,Accessories,29896.41,9,3200
+2024-11-25,Laptop,Electronics,292380.15,5,56000
+2024-11-25,Smartphone,Electronics,241271.0,8,28000
+2024-11-25,Monitor,Electronics,117333.04,7,15000
+2024-11-25,Wireless Mouse,Accessories,13733.74,17,900
+2024-11-25,Keyboard,Accessories,14231.48,8,1600
+2024-11-25,Bluetooth Speaker,Accessories,37709.09,13,3200
+2024-11-26,Laptop,Electronics,155076.75,3,56000
+2024-11-26,Smartphone,Electronics,195845.12,7,28000
+2024-11-26,Monitor,Electronics,89214.93,6,15000
+2024-11-26,Wireless Mouse,Accessories,14612.1,17,900
+2024-11-26,Keyboard,Accessories,22261.08,14,1600
+2024-11-26,Bluetooth Speaker,Accessories,31565.87,11,3200
+2024-11-27,Laptop,Electronics,247949.26,4,56000
+2024-11-27,Smartphone,Electronics,266103.14,9,28000
+2024-11-27,Monitor,Electronics,43210.21,3,15000
+2024-11-27,Wireless Mouse,Accessories,14461.52,18,900
+2024-11-27,Keyboard,Accessories,23414.84,16,1600
+2024-11-27,Bluetooth Speaker,Accessories,33918.86,10,3200
+2024-11-28,Laptop,Electronics,272260.39,5,56000
+2024-11-28,Smartphone,Electronics,195552.75,7,28000
+2024-11-28,Monitor,Electronics,43398.54,3,15000
+2024-11-28,Wireless Mouse,Accessories,14674.76,16,900
+2024-11-28,Keyboard,Accessories,15686.71,11,1600
+2024-11-28,Bluetooth Speaker,Accessories,36256.8,11,3200
+2024-11-29,Laptop,Electronics,287148.1,5,56000
+2024-11-29,Smartphone,Electronics,275718.33,9,28000
+2024-11-29,Monitor,Electronics,57921.25,4,15000
+2024-11-29,Wireless Mouse,Accessories,13087.83,16,900
+2024-11-29,Keyboard,Accessories,22922.46,14,1600
+2024-11-29,Bluetooth Speaker,Accessories,31544.6,11,3200
+2024-11-30,Laptop,Electronics,234968.2,4,56000
+2024-11-30,Smartphone,Electronics,264063.56,9,28000
+2024-11-30,Monitor,Electronics,112179.29,7,15000
+2024-11-30,Wireless Mouse,Accessories,15635.6,19,900
+2024-11-30,Keyboard,Accessories,21906.36,14,1600
+2024-11-30,Bluetooth Speaker,Accessories,34456.4,10,3200
+2024-12-01,Laptop,Electronics,187256.22,3,56000
+2024-12-01,Smartphone,Electronics,191776.47,7,28000
+2024-12-01,Monitor,Electronics,134017.73,8,15000
+2024-12-01,Wireless Mouse,Accessories,13192.25,16,900
+2024-12-01,Keyboard,Accessories,30739.18,20,1600
+2024-12-01,Bluetooth Speaker,Accessories,40617.25,14,3200
+2024-12-02,Laptop,Electronics,167680.07,3,56000
+2024-12-02,Smartphone,Electronics,211580.49,7,28000
+2024-12-02,Monitor,Electronics,74250.91,5,15000
+2024-12-02,Wireless Mouse,Accessories,13024.59,15,900
+2024-12-02,Keyboard,Accessories,19249.44,13,1600
+2024-12-02,Bluetooth Speaker,Accessories,18896.75,6,3200
+2024-12-03,Laptop,Electronics,173281.57,3,56000
+2024-12-03,Smartphone,Electronics,219710.21,8,28000
+2024-12-03,Monitor,Electronics,103805.37,7,15000
+2024-12-03,Wireless Mouse,Accessories,12949.92,14,900
+2024-12-03,Keyboard,Accessories,15263.92,10,1600
+2024-12-03,Bluetooth Speaker,Accessories,18531.95,6,3200
+2024-12-04,Laptop,Electronics,215523.91,4,56000
+2024-12-04,Smartphone,Electronics,134850.27,5,28000
+2024-12-04,Monitor,Electronics,46477.05,3,15000
+2024-12-04,Wireless Mouse,Accessories,9591.9,12,900
+2024-12-04,Keyboard,Accessories,19149.86,13,1600
+2024-12-04,Bluetooth Speaker,Accessories,31598.5,9,3200
+2024-12-05,Laptop,Electronics,180031.13,3,56000
+2024-12-05,Smartphone,Electronics,133441.09,5,28000
+2024-12-05,Monitor,Electronics,69464.51,5,15000
+2024-12-05,Wireless Mouse,Accessories,13524.45,14,900
+2024-12-05,Keyboard,Accessories,15329.42,9,1600
+2024-12-05,Bluetooth Speaker,Accessories,23498.15,7,3200
+2024-12-06,Laptop,Electronics,241700.02,4,56000
+2024-12-06,Smartphone,Electronics,113988.64,4,28000
+2024-12-06,Monitor,Electronics,93748.86,6,15000
+2024-12-06,Wireless Mouse,Accessories,21118.65,22,900
+2024-12-06,Keyboard,Accessories,15073.34,10,1600
+2024-12-06,Bluetooth Speaker,Accessories,20211.55,7,3200
+2024-12-07,Laptop,Electronics,264726.04,5,56000
+2024-12-07,Smartphone,Electronics,197728.45,8,28000
+2024-12-07,Monitor,Electronics,61847.39,4,15000
+2024-12-07,Wireless Mouse,Accessories,14485.24,18,900
+2024-12-07,Keyboard,Accessories,21147.34,13,1600
+2024-12-07,Bluetooth Speaker,Accessories,44551.3,14,3200
+2024-12-08,Laptop,Electronics,200531.34,4,56000
+2024-12-08,Smartphone,Electronics,196948.65,7,28000
+2024-12-08,Monitor,Electronics,107051.61,8,15000
+2024-12-08,Wireless Mouse,Accessories,22292.39,26,900
+2024-12-08,Keyboard,Accessories,29325.06,18,1600
+2024-12-08,Bluetooth Speaker,Accessories,27912.28,9,3200
+2024-12-09,Laptop,Electronics,159108.15,3,56000
+2024-12-09,Smartphone,Electronics,132230.02,5,28000
+2024-12-09,Monitor,Electronics,98046.03,6,15000
+2024-12-09,Wireless Mouse,Accessories,20908.8,23,900
+2024-12-09,Keyboard,Accessories,22417.61,15,1600
+2024-12-09,Bluetooth Speaker,Accessories,34374.57,11,3200
+2024-12-10,Laptop,Electronics,246936.92,5,56000
+2024-12-10,Smartphone,Electronics,203568.46,7,28000
+2024-12-10,Monitor,Electronics,50147.39,3,15000
+2024-12-10,Wireless Mouse,Accessories,17339.68,20,900
+2024-12-10,Keyboard,Accessories,14049.73,9,1600
+2024-12-10,Bluetooth Speaker,Accessories,33685.94,10,3200
+2024-12-11,Laptop,Electronics,162514.08,3,56000
+2024-12-11,Smartphone,Electronics,213009.52,8,28000
+2024-12-11,Monitor,Electronics,97529.83,6,15000
+2024-12-11,Wireless Mouse,Accessories,19907.76,20,900
+2024-12-11,Keyboard,Accessories,13826.29,8,1600
+2024-12-11,Bluetooth Speaker,Accessories,32022.08,11,3200
+2024-12-12,Laptop,Electronics,299866.69,5,56000
+2024-12-12,Smartphone,Electronics,177162.22,7,28000
+2024-12-12,Monitor,Electronics,63561.52,4,15000
+2024-12-12,Wireless Mouse,Accessories,19636.22,23,900
+2024-12-12,Keyboard,Accessories,23373.24,15,1600
+2024-12-12,Bluetooth Speaker,Accessories,40247.79,13,3200
+2024-12-13,Laptop,Electronics,174552.22,3,56000
+2024-12-13,Smartphone,Electronics,259149.53,9,28000
+2024-12-13,Monitor,Electronics,42822.08,3,15000
+2024-12-13,Wireless Mouse,Accessories,13369.43,16,900
+2024-12-13,Keyboard,Accessories,16991.27,11,1600
+2024-12-13,Bluetooth Speaker,Accessories,30833.01,9,3200
+2024-12-14,Laptop,Electronics,300110.96,5,56000
+2024-12-14,Smartphone,Electronics,165922.28,6,28000
+2024-12-14,Monitor,Electronics,70616.3,5,15000
+2024-12-14,Wireless Mouse,Accessories,10946.97,12,900
+2024-12-14,Keyboard,Accessories,31809.98,19,1600
+2024-12-14,Bluetooth Speaker,Accessories,32668.74,11,3200
+2024-12-15,Laptop,Electronics,186988.59,3,56000
+2024-12-15,Smartphone,Electronics,174742.92,6,28000
+2024-12-15,Monitor,Electronics,57886.82,4,15000
+2024-12-15,Wireless Mouse,Accessories,18021.88,19,900
+2024-12-15,Keyboard,Accessories,26811.99,18,1600
+2024-12-15,Bluetooth Speaker,Accessories,26716.31,8,3200
+2024-12-16,Laptop,Electronics,107355.83,2,56000
+2024-12-16,Smartphone,Electronics,131406.26,5,28000
+2024-12-16,Monitor,Electronics,110933.84,7,15000
+2024-12-16,Wireless Mouse,Accessories,16159.51,19,900
+2024-12-16,Keyboard,Accessories,23909.51,14,1600
+2024-12-16,Bluetooth Speaker,Accessories,26080.86,8,3200
+2024-12-17,Laptop,Electronics,243737.33,4,56000
+2024-12-17,Smartphone,Electronics,106616.6,4,28000
+2024-12-17,Monitor,Electronics,86737.69,6,15000
+2024-12-17,Wireless Mouse,Accessories,20061.19,21,900
+2024-12-17,Keyboard,Accessories,25916.49,17,1600
+2024-12-17,Bluetooth Speaker,Accessories,25908.93,9,3200
+2024-12-18,Laptop,Electronics,125122.6,2,56000
+2024-12-18,Smartphone,Electronics,187494.51,6,28000
+2024-12-18,Monitor,Electronics,81915.77,6,15000
+2024-12-18,Wireless Mouse,Accessories,16154.39,20,900
+2024-12-18,Keyboard,Accessories,11677.29,8,1600
+2024-12-18,Bluetooth Speaker,Accessories,34241.54,11,3200
+2024-12-19,Laptop,Electronics,167354.33,3,56000
+2024-12-19,Smartphone,Electronics,223408.06,9,28000
+2024-12-19,Monitor,Electronics,54921.01,4,15000
+2024-12-19,Wireless Mouse,Accessories,10642.66,13,900
+2024-12-19,Keyboard,Accessories,24859.71,16,1600
+2024-12-19,Bluetooth Speaker,Accessories,31652.92,10,3200
+2024-12-20,Laptop,Electronics,169187.86,3,56000
+2024-12-20,Smartphone,Electronics,151594.89,5,28000
+2024-12-20,Monitor,Electronics,112237.55,7,15000
+2024-12-20,Wireless Mouse,Accessories,11511.47,13,900
+2024-12-20,Keyboard,Accessories,24889.32,16,1600
+2024-12-20,Bluetooth Speaker,Accessories,23688.37,7,3200
+2024-12-21,Laptop,Electronics,174697.05,3,56000
+2024-12-21,Smartphone,Electronics,159882.41,6,28000
+2024-12-21,Monitor,Electronics,107652.04,7,15000
+2024-12-21,Wireless Mouse,Accessories,22852.02,24,900
+2024-12-21,Keyboard,Accessories,24460.91,17,1600
+2024-12-21,Bluetooth Speaker,Accessories,36942.54,11,3200
+2024-12-22,Laptop,Electronics,166942.78,3,56000
+2024-12-22,Smartphone,Electronics,126304.13,5,28000
+2024-12-22,Monitor,Electronics,99111.08,6,15000
+2024-12-22,Wireless Mouse,Accessories,16045.11,19,900
+2024-12-22,Keyboard,Accessories,25010.89,17,1600
+2024-12-22,Bluetooth Speaker,Accessories,32296.07,10,3200
+2024-12-23,Laptop,Electronics,269979.6,5,56000
+2024-12-23,Smartphone,Electronics,147066.4,5,28000
+2024-12-23,Monitor,Electronics,97540.42,6,15000
+2024-12-23,Wireless Mouse,Accessories,20846.07,21,900
+2024-12-23,Keyboard,Accessories,20014.7,13,1600
+2024-12-23,Bluetooth Speaker,Accessories,25956.24,9,3200
+2024-12-24,Laptop,Electronics,176625.61,3,56000
+2024-12-24,Smartphone,Electronics,154895.01,6,28000
+2024-12-24,Monitor,Electronics,67655.55,5,15000
+2024-12-24,Wireless Mouse,Accessories,13295.95,14,900
+2024-12-24,Keyboard,Accessories,25298.71,16,1600
+2024-12-24,Bluetooth Speaker,Accessories,42367.06,12,3200
+2024-12-25,Laptop,Electronics,103927.6,2,56000
+2024-12-25,Smartphone,Electronics,152258.36,5,28000
+2024-12-25,Monitor,Electronics,116644.36,7,15000
+2024-12-25,Wireless Mouse,Accessories,11592.79,12,900
+2024-12-25,Keyboard,Accessories,19470.34,11,1600
+2024-12-25,Bluetooth Speaker,Accessories,23842.9,8,3200
+2024-12-26,Laptop,Electronics,267196.79,5,56000
+2024-12-26,Smartphone,Electronics,141602.92,5,28000
+2024-12-26,Monitor,Electronics,110343.86,7,15000
+2024-12-26,Wireless Mouse,Accessories,11063.89,11,900
+2024-12-26,Keyboard,Accessories,27180.12,18,1600
+2024-12-26,Bluetooth Speaker,Accessories,44717.59,14,3200
+2024-12-27,Laptop,Electronics,221084.74,4,56000
+2024-12-27,Smartphone,Electronics,219422.12,8,28000
+2024-12-27,Monitor,Electronics,63793.34,4,15000
+2024-12-27,Wireless Mouse,Accessories,10479.03,13,900
+2024-12-27,Keyboard,Accessories,22211.27,15,1600
+2024-12-27,Bluetooth Speaker,Accessories,25448.89,9,3200
+2024-12-28,Laptop,Electronics,260454.73,5,56000
+2024-12-28,Smartphone,Electronics,298635.26,11,28000
+2024-12-28,Monitor,Electronics,73349.83,5,15000
+2024-12-28,Wireless Mouse,Accessories,15581.1,16,900
+2024-12-28,Keyboard,Accessories,14184.59,10,1600
+2024-12-28,Bluetooth Speaker,Accessories,46751.73,14,3200
+2024-12-29,Laptop,Electronics,305263.89,5,56000
+2024-12-29,Smartphone,Electronics,174555.11,6,28000
+2024-12-29,Monitor,Electronics,107601.54,8,15000
+2024-12-29,Wireless Mouse,Accessories,19122.6,20,900
+2024-12-29,Keyboard,Accessories,25571.62,16,1600
+2024-12-29,Bluetooth Speaker,Accessories,22737.1,7,3200
+2024-12-30,Laptop,Electronics,207292.66,4,56000
+2024-12-30,Smartphone,Electronics,158894.42,6,28000
+2024-12-30,Monitor,Electronics,79498.28,6,15000
+2024-12-30,Wireless Mouse,Accessories,17970.01,21,900
+2024-12-30,Keyboard,Accessories,20153.54,14,1600
+2024-12-30,Bluetooth Speaker,Accessories,34887.95,12,3200
+2024-12-31,Laptop,Electronics,254652.81,5,56000
+2024-12-31,Smartphone,Electronics,130944.88,5,28000
+2024-12-31,Monitor,Electronics,54818.56,4,15000
+2024-12-31,Wireless Mouse,Accessories,16264.52,20,900
+2024-12-31,Keyboard,Accessories,26370.07,15,1600
+2024-12-31,Bluetooth Speaker,Accessories,34207.42,11,3200
+2025-01-01,Laptop,Electronics,185473.03,3,56000
+2025-01-01,Smartphone,Electronics,186658.4,7,28000
+2025-01-01,Monitor,Electronics,62769.29,4,15000
+2025-01-01,Wireless Mouse,Accessories,15947.91,17,900
+2025-01-01,Keyboard,Accessories,15191.03,10,1600
+2025-01-01,Bluetooth Speaker,Accessories,28771.99,10,3200
+2025-01-02,Laptop,Electronics,167159.21,3,56000
+2025-01-02,Smartphone,Electronics,113030.86,4,28000
+2025-01-02,Monitor,Electronics,94561.41,6,15000
+2025-01-02,Wireless Mouse,Accessories,7920.78,10,900
+2025-01-02,Keyboard,Accessories,17329.05,11,1600
+2025-01-02,Bluetooth Speaker,Accessories,16506.3,5,3200
+2025-01-03,Laptop,Electronics,123379.9,2,56000
+2025-01-03,Smartphone,Electronics,115997.88,4,28000
+2025-01-03,Monitor,Electronics,64659.93,4,15000
+2025-01-03,Wireless Mouse,Accessories,15570.14,17,900
+2025-01-03,Keyboard,Accessories,11803.68,7,1600
+2025-01-03,Bluetooth Speaker,Accessories,14599.41,5,3200
+2025-01-04,Laptop,Electronics,229426.67,4,56000
+2025-01-04,Smartphone,Electronics,133555.11,5,28000
+2025-01-04,Monitor,Electronics,96561.66,6,15000
+2025-01-04,Wireless Mouse,Accessories,12297.74,14,900
+2025-01-04,Keyboard,Accessories,21954.36,13,1600
+2025-01-04,Bluetooth Speaker,Accessories,38453.04,11,3200
+2025-01-05,Laptop,Electronics,186536.85,3,56000
+2025-01-05,Smartphone,Electronics,189545.38,7,28000
+2025-01-05,Monitor,Electronics,67602.73,5,15000
+2025-01-05,Wireless Mouse,Accessories,14704.7,16,900
+2025-01-05,Keyboard,Accessories,17362.61,12,1600
+2025-01-05,Bluetooth Speaker,Accessories,34699.13,12,3200
+2025-01-06,Laptop,Electronics,177549.06,3,56000
+2025-01-06,Smartphone,Electronics,198555.72,7,28000
+2025-01-06,Monitor,Electronics,56265.18,4,15000
+2025-01-06,Wireless Mouse,Accessories,7138.51,8,900
+2025-01-06,Keyboard,Accessories,15398.34,9,1600
+2025-01-06,Bluetooth Speaker,Accessories,16851.08,5,3200
+2025-01-07,Laptop,Electronics,170754.2,3,56000
+2025-01-07,Smartphone,Electronics,130702.83,5,28000
+2025-01-07,Monitor,Electronics,81706.64,6,15000
+2025-01-07,Wireless Mouse,Accessories,16531.69,17,900
+2025-01-07,Keyboard,Accessories,20942.25,13,1600
+2025-01-07,Bluetooth Speaker,Accessories,21380.41,6,3200
+2025-01-08,Laptop,Electronics,164042.29,3,56000
+2025-01-08,Smartphone,Electronics,122319.31,4,28000
+2025-01-08,Monitor,Electronics,81425.14,5,15000
+2025-01-08,Wireless Mouse,Accessories,11580.18,12,900
+2025-01-08,Keyboard,Accessories,10673.95,7,1600
+2025-01-08,Bluetooth Speaker,Accessories,19652.21,6,3200
+2025-01-09,Laptop,Electronics,219801.05,4,56000
+2025-01-09,Smartphone,Electronics,199954.73,7,28000
+2025-01-09,Monitor,Electronics,42424.99,3,15000
+2025-01-09,Wireless Mouse,Accessories,7789.61,9,900
+2025-01-09,Keyboard,Accessories,13582.85,8,1600
+2025-01-09,Bluetooth Speaker,Accessories,15819.15,5,3200
+2025-01-10,Laptop,Electronics,179151.59,3,56000
+2025-01-10,Smartphone,Electronics,99111.97,4,28000
+2025-01-10,Monitor,Electronics,71986.12,5,15000
+2025-01-10,Wireless Mouse,Accessories,9146.07,10,900
+2025-01-10,Keyboard,Accessories,20803.89,13,1600
+2025-01-10,Bluetooth Speaker,Accessories,26581.84,9,3200
+2025-01-11,Laptop,Electronics,233824.89,4,56000
+2025-01-11,Smartphone,Electronics,125109.05,4,28000
+2025-01-11,Monitor,Electronics,65304.37,4,15000
+2025-01-11,Wireless Mouse,Accessories,12481.06,13,900
+2025-01-11,Keyboard,Accessories,13043.87,8,1600
+2025-01-11,Bluetooth Speaker,Accessories,23000.14,8,3200
+2025-01-12,Laptop,Electronics,263200.87,5,56000
+2025-01-12,Smartphone,Electronics,226215.37,8,28000
+2025-01-12,Monitor,Electronics,79235.41,5,15000
+2025-01-12,Wireless Mouse,Accessories,9583.68,10,900
+2025-01-12,Keyboard,Accessories,18244.02,11,1600
+2025-01-12,Bluetooth Speaker,Accessories,27454.24,8,3200
+2025-01-13,Laptop,Electronics,214933.69,4,56000
+2025-01-13,Smartphone,Electronics,104245.56,4,28000
+2025-01-13,Monitor,Electronics,67778.4,5,15000
+2025-01-13,Wireless Mouse,Accessories,13621.62,14,900
+2025-01-13,Keyboard,Accessories,9944.48,7,1600
+2025-01-13,Bluetooth Speaker,Accessories,20800.57,7,3200
+2025-01-14,Laptop,Electronics,232692.53,4,56000
+2025-01-14,Smartphone,Electronics,161126.87,6,28000
+2025-01-14,Monitor,Electronics,65295.66,4,15000
+2025-01-14,Wireless Mouse,Accessories,16774.53,17,900
+2025-01-14,Keyboard,Accessories,11044.03,7,1600
+2025-01-14,Bluetooth Speaker,Accessories,23639.67,8,3200
+2025-01-15,Laptop,Electronics,198720.1,4,56000
+2025-01-15,Smartphone,Electronics,155593.56,6,28000
+2025-01-15,Monitor,Electronics,81580.23,5,15000
+2025-01-15,Wireless Mouse,Accessories,13583.99,15,900
+2025-01-15,Keyboard,Accessories,17809.99,10,1600
+2025-01-15,Bluetooth Speaker,Accessories,24111.16,8,3200
+2025-01-16,Laptop,Electronics,212894.66,4,56000
+2025-01-16,Smartphone,Electronics,200073.9,7,28000
+2025-01-16,Monitor,Electronics,39683.2,3,15000
+2025-01-16,Wireless Mouse,Accessories,8907.23,9,900
+2025-01-16,Keyboard,Accessories,11353.81,7,1600
+2025-01-16,Bluetooth Speaker,Accessories,23878.08,8,3200
+2025-01-17,Laptop,Electronics,198633.1,4,56000
+2025-01-17,Smartphone,Electronics,143033.55,5,28000
+2025-01-17,Monitor,Electronics,58604.14,4,15000
+2025-01-17,Wireless Mouse,Accessories,15457.14,16,900
+2025-01-17,Keyboard,Accessories,14146.57,8,1600
+2025-01-17,Bluetooth Speaker,Accessories,32509.88,10,3200
+2025-01-18,Laptop,Electronics,197325.0,4,56000
+2025-01-18,Smartphone,Electronics,177289.02,7,28000
+2025-01-18,Monitor,Electronics,103909.91,7,15000
+2025-01-18,Wireless Mouse,Accessories,14586.05,16,900
+2025-01-18,Keyboard,Accessories,25615.16,16,1600
+2025-01-18,Bluetooth Speaker,Accessories,39334.32,12,3200
+2025-01-19,Laptop,Electronics,150268.2,3,56000
+2025-01-19,Smartphone,Electronics,172586.09,6,28000
+2025-01-19,Monitor,Electronics,65183.31,4,15000
+2025-01-19,Wireless Mouse,Accessories,16864.7,18,900
+2025-01-19,Keyboard,Accessories,24598.45,15,1600
+2025-01-19,Bluetooth Speaker,Accessories,23933.58,8,3200
+2025-01-20,Laptop,Electronics,185869.76,3,56000
+2025-01-20,Smartphone,Electronics,153885.27,5,28000
+2025-01-20,Monitor,Electronics,67013.28,5,15000
+2025-01-20,Wireless Mouse,Accessories,15365.95,16,900
+2025-01-20,Keyboard,Accessories,18183.3,11,1600
+2025-01-20,Bluetooth Speaker,Accessories,20588.74,7,3200
+2025-01-21,Laptop,Electronics,246760.68,4,56000
+2025-01-21,Smartphone,Electronics,154344.51,5,28000
+2025-01-21,Monitor,Electronics,75595.69,5,15000
+2025-01-21,Wireless Mouse,Accessories,12191.36,13,900
+2025-01-21,Keyboard,Accessories,16888.01,10,1600
+2025-01-21,Bluetooth Speaker,Accessories,28840.61,9,3200
+2025-01-22,Laptop,Electronics,232949.86,4,56000
+2025-01-22,Smartphone,Electronics,109164.01,4,28000
+2025-01-22,Monitor,Electronics,66627.22,4,15000
+2025-01-22,Wireless Mouse,Accessories,9406.24,10,900
+2025-01-22,Keyboard,Accessories,22197.59,13,1600
+2025-01-22,Bluetooth Speaker,Accessories,14574.77,5,3200
+2025-01-23,Laptop,Electronics,219555.34,4,56000
+2025-01-23,Smartphone,Electronics,143057.92,5,28000
+2025-01-23,Monitor,Electronics,82268.36,6,15000
+2025-01-23,Wireless Mouse,Accessories,11386.11,14,900
+2025-01-23,Keyboard,Accessories,17493.98,11,1600
+2025-01-23,Bluetooth Speaker,Accessories,32046.02,9,3200
+2025-01-24,Laptop,Electronics,185821.95,3,56000
+2025-01-24,Smartphone,Electronics,173386.86,6,28000
+2025-01-24,Monitor,Electronics,94296.07,6,15000
+2025-01-24,Wireless Mouse,Accessories,15297.0,18,900
+2025-01-24,Keyboard,Accessories,13291.0,8,1600
+2025-01-24,Bluetooth Speaker,Accessories,34603.99,10,3200
+2025-01-25,Laptop,Electronics,216547.44,4,56000
+2025-01-25,Smartphone,Electronics,144377.82,5,28000
+2025-01-25,Monitor,Electronics,50249.21,3,15000
+2025-01-25,Wireless Mouse,Accessories,11603.18,14,900
+2025-01-25,Keyboard,Accessories,12153.42,7,1600
+2025-01-25,Bluetooth Speaker,Accessories,18922.61,6,3200
+2025-01-26,Laptop,Electronics,311503.91,5,56000
+2025-01-26,Smartphone,Electronics,177287.5,6,28000
+2025-01-26,Monitor,Electronics,47264.81,3,15000
+2025-01-26,Wireless Mouse,Accessories,10867.01,12,900
+2025-01-26,Keyboard,Accessories,13263.45,8,1600
+2025-01-26,Bluetooth Speaker,Accessories,19824.52,7,3200
+2025-01-27,Laptop,Electronics,162188.25,3,56000
+2025-01-27,Smartphone,Electronics,145835.0,5,28000
+2025-01-27,Monitor,Electronics,61919.6,4,15000
+2025-01-27,Wireless Mouse,Accessories,10046.63,10,900
+2025-01-27,Keyboard,Accessories,11343.23,8,1600
+2025-01-27,Bluetooth Speaker,Accessories,27015.93,8,3200
+2025-01-28,Laptop,Electronics,121579.35,2,56000
+2025-01-28,Smartphone,Electronics,74424.41,3,28000
+2025-01-28,Monitor,Electronics,76633.54,5,15000
+2025-01-28,Wireless Mouse,Accessories,13763.95,15,900
+2025-01-28,Keyboard,Accessories,10318.8,7,1600
+2025-01-28,Bluetooth Speaker,Accessories,34509.29,10,3200
+2025-01-29,Laptop,Electronics,210051.2,4,56000
+2025-01-29,Smartphone,Electronics,178819.3,7,28000
+2025-01-29,Monitor,Electronics,83510.93,5,15000
+2025-01-29,Wireless Mouse,Accessories,12884.52,13,900
+2025-01-29,Keyboard,Accessories,11585.22,7,1600
+2025-01-29,Bluetooth Speaker,Accessories,24253.21,7,3200
+2025-01-30,Laptop,Electronics,169938.8,3,56000
+2025-01-30,Smartphone,Electronics,173826.63,7,28000
+2025-01-30,Monitor,Electronics,72177.65,5,15000
+2025-01-30,Wireless Mouse,Accessories,9753.96,11,900
+2025-01-30,Keyboard,Accessories,12158.49,8,1600
+2025-01-30,Bluetooth Speaker,Accessories,19353.87,6,3200
+2025-01-31,Laptop,Electronics,204558.74,4,56000
+2025-01-31,Smartphone,Electronics,208230.64,7,28000
+2025-01-31,Monitor,Electronics,46364.33,3,15000
+2025-01-31,Wireless Mouse,Accessories,12887.59,16,900
+2025-01-31,Keyboard,Accessories,11551.91,8,1600
+2025-01-31,Bluetooth Speaker,Accessories,26071.72,8,3200
+2025-02-01,Laptop,Electronics,153062.05,3,56000
+2025-02-01,Smartphone,Electronics,159347.04,6,28000
+2025-02-01,Monitor,Electronics,45555.95,3,15000
+2025-02-01,Wireless Mouse,Accessories,17945.09,18,900
+2025-02-01,Keyboard,Accessories,13434.93,9,1600
+2025-02-01,Bluetooth Speaker,Accessories,35332.64,11,3200
+2025-02-02,Laptop,Electronics,121997.8,2,56000
+2025-02-02,Smartphone,Electronics,136918.9,5,28000
+2025-02-02,Monitor,Electronics,116534.18,7,15000
+2025-02-02,Wireless Mouse,Accessories,13608.83,15,900
+2025-02-02,Keyboard,Accessories,19051.7,11,1600
+2025-02-02,Bluetooth Speaker,Accessories,29550.86,9,3200
+2025-02-03,Laptop,Electronics,205988.61,4,56000
+2025-02-03,Smartphone,Electronics,113853.11,4,28000
+2025-02-03,Monitor,Electronics,62756.69,4,15000
+2025-02-03,Wireless Mouse,Accessories,14969.13,18,900
+2025-02-03,Keyboard,Accessories,22298.55,13,1600
+2025-02-03,Bluetooth Speaker,Accessories,29828.4,10,3200
+2025-02-04,Laptop,Electronics,153072.33,3,56000
+2025-02-04,Smartphone,Electronics,115455.1,4,28000
+2025-02-04,Monitor,Electronics,66616.34,4,15000
+2025-02-04,Wireless Mouse,Accessories,13312.32,16,900
+2025-02-04,Keyboard,Accessories,17208.41,10,1600
+2025-02-04,Bluetooth Speaker,Accessories,28341.82,8,3200
+2025-02-05,Laptop,Electronics,240766.84,4,56000
+2025-02-05,Smartphone,Electronics,166822.34,6,28000
+2025-02-05,Monitor,Electronics,53832.18,4,15000
+2025-02-05,Wireless Mouse,Accessories,14342.43,18,900
+2025-02-05,Keyboard,Accessories,12350.17,8,1600
+2025-02-05,Bluetooth Speaker,Accessories,30892.31,9,3200
+2025-02-06,Laptop,Electronics,122117.98,2,56000
+2025-02-06,Smartphone,Electronics,124846.88,4,28000
+2025-02-06,Monitor,Electronics,66330.25,4,15000
+2025-02-06,Wireless Mouse,Accessories,13263.7,14,900
+2025-02-06,Keyboard,Accessories,14684.91,9,1600
+2025-02-06,Bluetooth Speaker,Accessories,17451.53,6,3200
+2025-02-07,Laptop,Electronics,229321.43,4,56000
+2025-02-07,Smartphone,Electronics,134830.39,5,28000
+2025-02-07,Monitor,Electronics,52973.95,4,15000
+2025-02-07,Wireless Mouse,Accessories,12389.73,13,900
+2025-02-07,Keyboard,Accessories,16513.49,10,1600
+2025-02-07,Bluetooth Speaker,Accessories,23357.48,7,3200
+2025-02-08,Laptop,Electronics,181893.98,3,56000
+2025-02-08,Smartphone,Electronics,223860.21,8,28000
+2025-02-08,Monitor,Electronics,86037.19,6,15000
+2025-02-08,Wireless Mouse,Accessories,15056.72,19,900
+2025-02-08,Keyboard,Accessories,23191.56,14,1600
+2025-02-08,Bluetooth Speaker,Accessories,36812.96,12,3200
+2025-02-09,Laptop,Electronics,188137.05,3,56000
+2025-02-09,Smartphone,Electronics,204928.45,7,28000
+2025-02-09,Monitor,Electronics,60095.05,4,15000
+2025-02-09,Wireless Mouse,Accessories,11756.1,12,900
+2025-02-09,Keyboard,Accessories,14269.32,10,1600
+2025-02-09,Bluetooth Speaker,Accessories,19070.69,6,3200
+2025-02-10,Laptop,Electronics,172786.64,3,56000
+2025-02-10,Smartphone,Electronics,79784.64,3,28000
+2025-02-10,Monitor,Electronics,40124.5,3,15000
+2025-02-10,Wireless Mouse,Accessories,16613.39,19,900
+2025-02-10,Keyboard,Accessories,11938.59,8,1600
+2025-02-10,Bluetooth Speaker,Accessories,27382.56,8,3200
+2025-02-11,Laptop,Electronics,115791.35,2,56000
+2025-02-11,Smartphone,Electronics,101958.94,4,28000
+2025-02-11,Monitor,Electronics,64201.47,4,15000
+2025-02-11,Wireless Mouse,Accessories,11827.44,12,900
+2025-02-11,Keyboard,Accessories,17049.48,11,1600
+2025-02-11,Bluetooth Speaker,Accessories,26720.72,9,3200
+2025-02-12,Laptop,Electronics,229017.65,4,56000
+2025-02-12,Smartphone,Electronics,102798.0,4,28000
+2025-02-12,Monitor,Electronics,78904.86,5,15000
+2025-02-12,Wireless Mouse,Accessories,15158.44,17,900
+2025-02-12,Keyboard,Accessories,12675.94,9,1600
+2025-02-12,Bluetooth Speaker,Accessories,17792.59,5,3200
+2025-02-13,Laptop,Electronics,118289.6,2,56000
+2025-02-13,Smartphone,Electronics,108669.36,4,28000
+2025-02-13,Monitor,Electronics,42528.22,3,15000
+2025-02-13,Wireless Mouse,Accessories,12984.11,13,900
+2025-02-13,Keyboard,Accessories,22723.02,13,1600
+2025-02-13,Bluetooth Speaker,Accessories,15349.39,5,3200
+2025-02-14,Laptop,Electronics,100383.46,2,56000
+2025-02-14,Smartphone,Electronics,173235.81,7,28000
+2025-02-14,Monitor,Electronics,83481.8,6,15000
+2025-02-14,Wireless Mouse,Accessories,13260.47,16,900
+2025-02-14,Keyboard,Accessories,12900.49,8,1600
+2025-02-14,Bluetooth Speaker,Accessories,23349.61,8,3200
+2025-02-15,Laptop,Electronics,288106.49,5,56000
+2025-02-15,Smartphone,Electronics,187958.28,7,28000
+2025-02-15,Monitor,Electronics,55095.14,4,15000
+2025-02-15,Wireless Mouse,Accessories,9773.06,11,900
+2025-02-15,Keyboard,Accessories,23411.16,16,1600
+2025-02-15,Bluetooth Speaker,Accessories,39410.39,11,3200
+2025-02-16,Laptop,Electronics,229314.15,4,56000
+2025-02-16,Smartphone,Electronics,184167.43,6,28000
+2025-02-16,Monitor,Electronics,61041.14,4,15000
+2025-02-16,Wireless Mouse,Accessories,12918.71,16,900
+2025-02-16,Keyboard,Accessories,21379.54,15,1600
+2025-02-16,Bluetooth Speaker,Accessories,21289.77,6,3200
+2025-02-17,Laptop,Electronics,124603.85,2,56000
+2025-02-17,Smartphone,Electronics,79759.57,3,28000
+2025-02-17,Monitor,Electronics,63187.93,4,15000
+2025-02-17,Wireless Mouse,Accessories,8203.72,10,900
+2025-02-17,Keyboard,Accessories,10166.07,7,1600
+2025-02-17,Bluetooth Speaker,Accessories,32775.9,10,3200
+2025-02-18,Laptop,Electronics,249967.09,4,56000
+2025-02-18,Smartphone,Electronics,188051.77,7,28000
+2025-02-18,Monitor,Electronics,45633.35,3,15000
+2025-02-18,Wireless Mouse,Accessories,8944.75,10,900
+2025-02-18,Keyboard,Accessories,14411.39,9,1600
+2025-02-18,Bluetooth Speaker,Accessories,14187.71,5,3200
+2025-02-19,Laptop,Electronics,108556.68,2,56000
+2025-02-19,Smartphone,Electronics,150115.04,6,28000
+2025-02-19,Monitor,Electronics,42363.61,3,15000
+2025-02-19,Wireless Mouse,Accessories,10693.9,12,900
+2025-02-19,Keyboard,Accessories,18737.48,12,1600
+2025-02-19,Bluetooth Speaker,Accessories,33960.74,10,3200
+2025-02-20,Laptop,Electronics,148495.35,3,56000
+2025-02-20,Smartphone,Electronics,106260.32,4,28000
+2025-02-20,Monitor,Electronics,63644.85,4,15000
+2025-02-20,Wireless Mouse,Accessories,11744.77,12,900
+2025-02-20,Keyboard,Accessories,15415.96,9,1600
+2025-02-20,Bluetooth Speaker,Accessories,25736.16,8,3200
+2025-02-21,Laptop,Electronics,204778.37,4,56000
+2025-02-21,Smartphone,Electronics,146223.17,5,28000
+2025-02-21,Monitor,Electronics,85838.87,6,15000
+2025-02-21,Wireless Mouse,Accessories,16046.35,18,900
+2025-02-21,Keyboard,Accessories,21911.91,13,1600
+2025-02-21,Bluetooth Speaker,Accessories,17848.92,6,3200
+2025-02-22,Laptop,Electronics,293797.51,5,56000
+2025-02-22,Smartphone,Electronics,210624.91,8,28000
+2025-02-22,Monitor,Electronics,81241.93,5,15000
+2025-02-22,Wireless Mouse,Accessories,15373.57,19,900
+2025-02-22,Keyboard,Accessories,18977.94,13,1600
+2025-02-22,Bluetooth Speaker,Accessories,19914.92,7,3200
+2025-02-23,Laptop,Electronics,175789.24,3,56000
+2025-02-23,Smartphone,Electronics,210396.24,8,28000
+2025-02-23,Monitor,Electronics,98685.41,7,15000
+2025-02-23,Wireless Mouse,Accessories,19052.0,19,900
+2025-02-23,Keyboard,Accessories,12112.64,7,1600
+2025-02-23,Bluetooth Speaker,Accessories,31707.32,11,3200
+2025-02-24,Laptop,Electronics,161387.83,3,56000
+2025-02-24,Smartphone,Electronics,148817.46,6,28000
+2025-02-24,Monitor,Electronics,82902.56,5,15000
+2025-02-24,Wireless Mouse,Accessories,10588.47,13,900
+2025-02-24,Keyboard,Accessories,18464.48,11,1600
+2025-02-24,Bluetooth Speaker,Accessories,23604.59,8,3200
+2025-02-25,Laptop,Electronics,223189.85,4,56000
+2025-02-25,Smartphone,Electronics,131610.23,5,28000
+2025-02-25,Monitor,Electronics,30240.84,2,15000
+2025-02-25,Wireless Mouse,Accessories,17618.63,18,900
+2025-02-25,Keyboard,Accessories,15826.2,10,1600
+2025-02-25,Bluetooth Speaker,Accessories,20550.06,7,3200
+2025-02-26,Laptop,Electronics,214933.06,4,56000
+2025-02-26,Smartphone,Electronics,189510.27,7,28000
+2025-02-26,Monitor,Electronics,48648.96,3,15000
+2025-02-26,Wireless Mouse,Accessories,13533.14,14,900
+2025-02-26,Keyboard,Accessories,14799.01,9,1600
+2025-02-26,Bluetooth Speaker,Accessories,29299.81,10,3200
+2025-02-27,Laptop,Electronics,100963.05,2,56000
+2025-02-27,Smartphone,Electronics,170904.13,6,28000
+2025-02-27,Monitor,Electronics,70295.18,5,15000
+2025-02-27,Wireless Mouse,Accessories,18609.56,19,900
+2025-02-27,Keyboard,Accessories,13419.51,9,1600
+2025-02-27,Bluetooth Speaker,Accessories,18463.67,6,3200
+2025-02-28,Laptop,Electronics,228576.01,4,56000
+2025-02-28,Smartphone,Electronics,138496.06,5,28000
+2025-02-28,Monitor,Electronics,80623.58,6,15000
+2025-02-28,Wireless Mouse,Accessories,16137.49,19,900
+2025-02-28,Keyboard,Accessories,19600.27,11,1600
+2025-02-28,Bluetooth Speaker,Accessories,26698.49,8,3200
+2025-03-01,Laptop,Electronics,201477.32,4,56000
+2025-03-01,Smartphone,Electronics,130348.07,5,28000
+2025-03-01,Monitor,Electronics,84359.48,6,15000
+2025-03-01,Wireless Mouse,Accessories,15142.33,16,900
+2025-03-01,Keyboard,Accessories,14102.61,9,1600
+2025-03-01,Bluetooth Speaker,Accessories,22829.86,7,3200
+2025-03-02,Laptop,Electronics,163440.59,3,56000
+2025-03-02,Smartphone,Electronics,223444.8,8,28000
+2025-03-02,Monitor,Electronics,52812.85,4,15000
+2025-03-02,Wireless Mouse,Accessories,16663.89,18,900
+2025-03-02,Keyboard,Accessories,13195.15,9,1600
+2025-03-02,Bluetooth Speaker,Accessories,28234.67,9,3200
+2025-03-03,Laptop,Electronics,182395.36,3,56000
+2025-03-03,Smartphone,Electronics,75985.7,3,28000
+2025-03-03,Monitor,Electronics,44533.28,3,15000
+2025-03-03,Wireless Mouse,Accessories,11269.0,13,900
+2025-03-03,Keyboard,Accessories,19425.84,11,1600
+2025-03-03,Bluetooth Speaker,Accessories,35472.33,11,3200
+2025-03-04,Laptop,Electronics,114755.41,2,56000
+2025-03-04,Smartphone,Electronics,150684.08,5,28000
+2025-03-04,Monitor,Electronics,99933.28,6,15000
+2025-03-04,Wireless Mouse,Accessories,15515.0,19,900
+2025-03-04,Keyboard,Accessories,13331.88,9,1600
+2025-03-04,Bluetooth Speaker,Accessories,19151.36,6,3200
+2025-03-05,Laptop,Electronics,110426.68,2,56000
+2025-03-05,Smartphone,Electronics,215199.07,7,28000
+2025-03-05,Monitor,Electronics,47583.89,3,15000
+2025-03-05,Wireless Mouse,Accessories,10455.96,11,900
+2025-03-05,Keyboard,Accessories,20758.68,14,1600
+2025-03-05,Bluetooth Speaker,Accessories,30178.07,10,3200
+2025-03-06,Laptop,Electronics,123064.26,2,56000
+2025-03-06,Smartphone,Electronics,152372.18,6,28000
+2025-03-06,Monitor,Electronics,40504.76,3,15000
+2025-03-06,Wireless Mouse,Accessories,13952.8,17,900
+2025-03-06,Keyboard,Accessories,23229.79,14,1600
+2025-03-06,Bluetooth Speaker,Accessories,22952.54,8,3200
+2025-03-07,Laptop,Electronics,115577.24,2,56000
+2025-03-07,Smartphone,Electronics,153413.5,5,28000
+2025-03-07,Monitor,Electronics,84387.62,6,15000
+2025-03-07,Wireless Mouse,Accessories,18113.54,18,900
+2025-03-07,Keyboard,Accessories,13078.66,8,1600
+2025-03-07,Bluetooth Speaker,Accessories,19658.34,6,3200
+2025-03-08,Laptop,Electronics,255853.59,5,56000
+2025-03-08,Smartphone,Electronics,200860.84,8,28000
+2025-03-08,Monitor,Electronics,97487.73,6,15000
+2025-03-08,Wireless Mouse,Accessories,9052.24,10,900
+2025-03-08,Keyboard,Accessories,18308.98,11,1600
+2025-03-08,Bluetooth Speaker,Accessories,30699.86,9,3200
+2025-03-09,Laptop,Electronics,229268.59,4,56000
+2025-03-09,Smartphone,Electronics,203921.2,7,28000
+2025-03-09,Monitor,Electronics,78544.74,5,15000
+2025-03-09,Wireless Mouse,Accessories,11374.95,12,900
+2025-03-09,Keyboard,Accessories,24581.63,15,1600
+2025-03-09,Bluetooth Speaker,Accessories,35416.19,12,3200
+2025-03-10,Laptop,Electronics,241021.67,4,56000
+2025-03-10,Smartphone,Electronics,147570.31,5,28000
+2025-03-10,Monitor,Electronics,66408.83,5,15000
+2025-03-10,Wireless Mouse,Accessories,10269.57,11,900
+2025-03-10,Keyboard,Accessories,12125.22,8,1600
+2025-03-10,Bluetooth Speaker,Accessories,23433.72,8,3200
+2025-03-11,Laptop,Electronics,236862.32,4,56000
+2025-03-11,Smartphone,Electronics,187999.12,6,28000
+2025-03-11,Monitor,Electronics,48220.62,3,15000
+2025-03-11,Wireless Mouse,Accessories,17374.49,18,900
+2025-03-11,Keyboard,Accessories,17735.96,12,1600
+2025-03-11,Bluetooth Speaker,Accessories,31658.57,9,3200
+2025-03-12,Laptop,Electronics,167710.29,3,56000
+2025-03-12,Smartphone,Electronics,167103.34,6,28000
+2025-03-12,Monitor,Electronics,87306.8,6,15000
+2025-03-12,Wireless Mouse,Accessories,18147.25,19,900
+2025-03-12,Keyboard,Accessories,13550.4,8,1600
+2025-03-12,Bluetooth Speaker,Accessories,35110.07,10,3200
+2025-03-13,Laptop,Electronics,157454.17,3,56000
+2025-03-13,Smartphone,Electronics,135013.35,5,28000
+2025-03-13,Monitor,Electronics,83185.5,5,15000
+2025-03-13,Wireless Mouse,Accessories,11639.21,14,900
+2025-03-13,Keyboard,Accessories,20687.52,12,1600
+2025-03-13,Bluetooth Speaker,Accessories,24137.56,8,3200
+2025-03-14,Laptop,Electronics,124988.36,2,56000
+2025-03-14,Smartphone,Electronics,199975.34,8,28000
+2025-03-14,Monitor,Electronics,71079.47,5,15000
+2025-03-14,Wireless Mouse,Accessories,14157.8,15,900
+2025-03-14,Keyboard,Accessories,15748.31,9,1600
+2025-03-14,Bluetooth Speaker,Accessories,31104.64,10,3200
+2025-03-15,Laptop,Electronics,212255.14,4,56000
+2025-03-15,Smartphone,Electronics,170128.75,6,28000
+2025-03-15,Monitor,Electronics,46619.41,3,15000
+2025-03-15,Wireless Mouse,Accessories,18108.09,20,900
+2025-03-15,Keyboard,Accessories,22756.89,16,1600
+2025-03-15,Bluetooth Speaker,Accessories,30668.93,10,3200
+2025-03-16,Laptop,Electronics,201939.21,4,56000
+2025-03-16,Smartphone,Electronics,232715.58,8,28000
+2025-03-16,Monitor,Electronics,73092.78,5,15000
+2025-03-16,Wireless Mouse,Accessories,18999.8,19,900
+2025-03-16,Keyboard,Accessories,13022.4,9,1600
+2025-03-16,Bluetooth Speaker,Accessories,32154.37,9,3200
+2025-03-17,Laptop,Electronics,155699.05,3,56000
+2025-03-17,Smartphone,Electronics,118716.55,4,28000
+2025-03-17,Monitor,Electronics,97699.02,6,15000
+2025-03-17,Wireless Mouse,Accessories,11398.77,13,900
+2025-03-17,Keyboard,Accessories,11647.68,8,1600
+2025-03-17,Bluetooth Speaker,Accessories,26990.95,8,3200
+2025-03-18,Laptop,Electronics,186396.82,3,56000
+2025-03-18,Smartphone,Electronics,184768.05,6,28000
+2025-03-18,Monitor,Electronics,40444.63,3,15000
+2025-03-18,Wireless Mouse,Accessories,16085.22,19,900
+2025-03-18,Keyboard,Accessories,14189.8,8,1600
+2025-03-18,Bluetooth Speaker,Accessories,23011.17,8,3200
+2025-03-19,Laptop,Electronics,150008.1,3,56000
+2025-03-19,Smartphone,Electronics,139314.93,5,28000
+2025-03-19,Monitor,Electronics,53422.46,4,15000
+2025-03-19,Wireless Mouse,Accessories,12045.03,15,900
+2025-03-19,Keyboard,Accessories,21066.02,14,1600
+2025-03-19,Bluetooth Speaker,Accessories,22927.88,7,3200
+2025-03-20,Laptop,Electronics,176735.2,3,56000
+2025-03-20,Smartphone,Electronics,145962.54,5,28000
+2025-03-20,Monitor,Electronics,40448.8,3,15000
+2025-03-20,Wireless Mouse,Accessories,14513.78,15,900
+2025-03-20,Keyboard,Accessories,11058.79,7,1600
+2025-03-20,Bluetooth Speaker,Accessories,28326.92,10,3200
+2025-03-21,Laptop,Electronics,170312.48,3,56000
+2025-03-21,Smartphone,Electronics,178570.72,7,28000
+2025-03-21,Monitor,Electronics,83863.61,5,15000
+2025-03-21,Wireless Mouse,Accessories,17234.35,19,900
+2025-03-21,Keyboard,Accessories,13651.01,8,1600
+2025-03-21,Bluetooth Speaker,Accessories,25520.72,9,3200
+2025-03-22,Laptop,Electronics,98839.06,2,56000
+2025-03-22,Smartphone,Electronics,175336.36,7,28000
+2025-03-22,Monitor,Electronics,86628.16,6,15000
+2025-03-22,Wireless Mouse,Accessories,19013.53,21,900
+2025-03-22,Keyboard,Accessories,23414.33,14,1600
+2025-03-22,Bluetooth Speaker,Accessories,31438.14,10,3200
+2025-03-23,Laptop,Electronics,171482.41,3,56000
+2025-03-23,Smartphone,Electronics,115407.81,4,28000
+2025-03-23,Monitor,Electronics,94028.35,6,15000
+2025-03-23,Wireless Mouse,Accessories,8364.1,10,900
+2025-03-23,Keyboard,Accessories,12039.29,8,1600
+2025-03-23,Bluetooth Speaker,Accessories,37134.02,12,3200
+2025-03-24,Laptop,Electronics,200662.5,4,56000
+2025-03-24,Smartphone,Electronics,202528.85,7,28000
+2025-03-24,Monitor,Electronics,60372.42,4,15000
+2025-03-24,Wireless Mouse,Accessories,11645.58,12,900
+2025-03-24,Keyboard,Accessories,13208.77,8,1600
+2025-03-24,Bluetooth Speaker,Accessories,35184.18,10,3200
+2025-03-25,Laptop,Electronics,115307.72,2,56000
+2025-03-25,Smartphone,Electronics,179027.48,6,28000
+2025-03-25,Monitor,Electronics,94752.74,6,15000
+2025-03-25,Wireless Mouse,Accessories,16491.37,17,900
+2025-03-25,Keyboard,Accessories,10638.55,7,1600
+2025-03-25,Bluetooth Speaker,Accessories,38533.37,11,3200
+2025-03-26,Laptop,Electronics,238997.49,4,56000
+2025-03-26,Smartphone,Electronics,203887.15,7,28000
+2025-03-26,Monitor,Electronics,55916.3,4,15000
+2025-03-26,Wireless Mouse,Accessories,8728.9,11,900
+2025-03-26,Keyboard,Accessories,17242.26,12,1600
+2025-03-26,Bluetooth Speaker,Accessories,25683.96,8,3200
+2025-03-27,Laptop,Electronics,178969.3,3,56000
+2025-03-27,Smartphone,Electronics,210711.18,7,28000
+2025-03-27,Monitor,Electronics,68931.07,5,15000
+2025-03-27,Wireless Mouse,Accessories,15121.2,18,900
+2025-03-27,Keyboard,Accessories,24921.68,14,1600
+2025-03-27,Bluetooth Speaker,Accessories,18984.19,6,3200
+2025-03-28,Laptop,Electronics,108340.14,2,56000
+2025-03-28,Smartphone,Electronics,182641.83,6,28000
+2025-03-28,Monitor,Electronics,52829.28,4,15000
+2025-03-28,Wireless Mouse,Accessories,12602.39,15,900
+2025-03-28,Keyboard,Accessories,14256.45,8,1600
+2025-03-28,Bluetooth Speaker,Accessories,21092.52,6,3200
+2025-03-29,Laptop,Electronics,98668.98,2,56000
+2025-03-29,Smartphone,Electronics,183205.28,6,28000
+2025-03-29,Monitor,Electronics,77492.36,5,15000
+2025-03-29,Wireless Mouse,Accessories,9563.3,11,900
+2025-03-29,Keyboard,Accessories,24210.62,15,1600
+2025-03-29,Bluetooth Speaker,Accessories,31305.71,11,3200
+2025-03-30,Laptop,Electronics,118685.8,2,56000
+2025-03-30,Smartphone,Electronics,130942.54,5,28000
+2025-03-30,Monitor,Electronics,92041.88,6,15000
+2025-03-30,Wireless Mouse,Accessories,9000.13,10,900
+2025-03-30,Keyboard,Accessories,23185.94,13,1600
+2025-03-30,Bluetooth Speaker,Accessories,24889.98,7,3200
+2025-03-31,Laptop,Electronics,175078.96,3,56000
+2025-03-31,Smartphone,Electronics,196121.66,7,28000
+2025-03-31,Monitor,Electronics,77623.37,5,15000
+2025-03-31,Wireless Mouse,Accessories,16328.79,19,900
+2025-03-31,Keyboard,Accessories,20861.72,12,1600
+2025-03-31,Bluetooth Speaker,Accessories,31017.92,9,3200
+2025-04-01,Laptop,Electronics,152543.39,3,56000
+2025-04-01,Smartphone,Electronics,147257.95,5,28000
+2025-04-01,Monitor,Electronics,74009.0,5,15000
+2025-04-01,Wireless Mouse,Accessories,13739.86,15,900
+2025-04-01,Keyboard,Accessories,17477.02,11,1600
+2025-04-01,Bluetooth Speaker,Accessories,17832.53,5,3200
+2025-04-02,Laptop,Electronics,216562.42,4,56000
+2025-04-02,Smartphone,Electronics,176190.04,6,28000
+2025-04-02,Monitor,Electronics,81356.12,5,15000
+2025-04-02,Wireless Mouse,Accessories,13525.64,16,900
+2025-04-02,Keyboard,Accessories,10737.1,7,1600
+2025-04-02,Bluetooth Speaker,Accessories,33540.9,10,3200
+2025-04-03,Laptop,Electronics,230606.95,4,56000
+2025-04-03,Smartphone,Electronics,101168.31,4,28000
+2025-04-03,Monitor,Electronics,47385.28,3,15000
+2025-04-03,Wireless Mouse,Accessories,14651.75,16,900
+2025-04-03,Keyboard,Accessories,22256.27,14,1600
+2025-04-03,Bluetooth Speaker,Accessories,30544.06,10,3200
+2025-04-04,Laptop,Electronics,250501.63,4,56000
+2025-04-04,Smartphone,Electronics,124832.13,4,28000
+2025-04-04,Monitor,Electronics,40501.21,3,15000
+2025-04-04,Wireless Mouse,Accessories,12165.08,13,900
+2025-04-04,Keyboard,Accessories,20971.6,12,1600
+2025-04-04,Bluetooth Speaker,Accessories,20618.53,7,3200
+2025-04-05,Laptop,Electronics,120427.33,2,56000
+2025-04-05,Smartphone,Electronics,240583.74,8,28000
+2025-04-05,Monitor,Electronics,77151.84,5,15000
+2025-04-05,Wireless Mouse,Accessories,12949.83,14,900
+2025-04-05,Keyboard,Accessories,25930.93,16,1600
+2025-04-05,Bluetooth Speaker,Accessories,33770.06,11,3200
+2025-04-06,Laptop,Electronics,216664.4,4,56000
+2025-04-06,Smartphone,Electronics,108923.76,4,28000
+2025-04-06,Monitor,Electronics,103618.54,7,15000
+2025-04-06,Wireless Mouse,Accessories,9695.57,10,900
+2025-04-06,Keyboard,Accessories,17566.61,10,1600
+2025-04-06,Bluetooth Speaker,Accessories,17569.71,6,3200
+2025-04-07,Laptop,Electronics,100695.26,2,56000
+2025-04-07,Smartphone,Electronics,176185.59,6,28000
+2025-04-07,Monitor,Electronics,48869.61,3,15000
+2025-04-07,Wireless Mouse,Accessories,10905.29,13,900
+2025-04-07,Keyboard,Accessories,18809.16,12,1600
+2025-04-07,Bluetooth Speaker,Accessories,16699.29,5,3200
+2025-04-08,Laptop,Electronics,166655.71,3,56000
+2025-04-08,Smartphone,Electronics,133355.73,5,28000
+2025-04-08,Monitor,Electronics,70830.55,5,15000
+2025-04-08,Wireless Mouse,Accessories,8281.18,9,900
+2025-04-08,Keyboard,Accessories,18882.8,11,1600
+2025-04-08,Bluetooth Speaker,Accessories,22575.58,7,3200
+2025-04-09,Laptop,Electronics,122408.28,2,56000
+2025-04-09,Smartphone,Electronics,120481.56,4,28000
+2025-04-09,Monitor,Electronics,81177.38,5,15000
+2025-04-09,Wireless Mouse,Accessories,8319.87,9,900
+2025-04-09,Keyboard,Accessories,17001.16,10,1600
+2025-04-09,Bluetooth Speaker,Accessories,21278.79,6,3200
+2025-04-10,Laptop,Electronics,230900.84,4,56000
+2025-04-10,Smartphone,Electronics,124629.46,4,28000
+2025-04-10,Monitor,Electronics,72098.78,5,15000
+2025-04-10,Wireless Mouse,Accessories,12989.32,15,900
+2025-04-10,Keyboard,Accessories,18675.37,12,1600
+2025-04-10,Bluetooth Speaker,Accessories,31339.38,11,3200
+2025-04-11,Laptop,Electronics,222332.95,4,56000
+2025-04-11,Smartphone,Electronics,181626.16,7,28000
+2025-04-11,Monitor,Electronics,80823.15,5,15000
+2025-04-11,Wireless Mouse,Accessories,14032.12,15,900
+2025-04-11,Keyboard,Accessories,17205.6,12,1600
+2025-04-11,Bluetooth Speaker,Accessories,23854.62,8,3200
+2025-04-12,Laptop,Electronics,184009.74,3,56000
+2025-04-12,Smartphone,Electronics,151450.19,6,28000
+2025-04-12,Monitor,Electronics,42864.97,3,15000
+2025-04-12,Wireless Mouse,Accessories,11967.07,14,900
+2025-04-12,Keyboard,Accessories,23639.72,16,1600
+2025-04-12,Bluetooth Speaker,Accessories,31287.48,9,3200
+2025-04-13,Laptop,Electronics,152410.28,3,56000
+2025-04-13,Smartphone,Electronics,173930.83,6,28000
+2025-04-13,Monitor,Electronics,49276.84,3,15000
+2025-04-13,Wireless Mouse,Accessories,12830.48,16,900
+2025-04-13,Keyboard,Accessories,22414.78,14,1600
+2025-04-13,Bluetooth Speaker,Accessories,31780.99,11,3200
+2025-04-14,Laptop,Electronics,212085.4,4,56000
+2025-04-14,Smartphone,Electronics,120296.17,4,28000
+2025-04-14,Monitor,Electronics,55554.9,4,15000
+2025-04-14,Wireless Mouse,Accessories,12230.66,14,900
+2025-04-14,Keyboard,Accessories,13770.53,9,1600
+2025-04-14,Bluetooth Speaker,Accessories,29910.17,9,3200
+2025-04-15,Laptop,Electronics,173694.67,3,56000
+2025-04-15,Smartphone,Electronics,119043.73,4,28000
+2025-04-15,Monitor,Electronics,74143.02,5,15000
+2025-04-15,Wireless Mouse,Accessories,7832.61,9,900
+2025-04-15,Keyboard,Accessories,23939.11,14,1600
+2025-04-15,Bluetooth Speaker,Accessories,22621.56,8,3200
+2025-04-16,Laptop,Electronics,227761.46,4,56000
+2025-04-16,Smartphone,Electronics,175702.68,7,28000
+2025-04-16,Monitor,Electronics,44250.97,3,15000
+2025-04-16,Wireless Mouse,Accessories,16114.4,16,900
+2025-04-16,Keyboard,Accessories,11551.67,7,1600
+2025-04-16,Bluetooth Speaker,Accessories,27757.33,8,3200
+2025-04-17,Laptop,Electronics,215760.28,4,56000
+2025-04-17,Smartphone,Electronics,191208.4,7,28000
+2025-04-17,Monitor,Electronics,80217.74,5,15000
+2025-04-17,Wireless Mouse,Accessories,9248.59,10,900
+2025-04-17,Keyboard,Accessories,14090.92,9,1600
+2025-04-17,Bluetooth Speaker,Accessories,19722.69,7,3200
+2025-04-18,Laptop,Electronics,211429.71,4,56000
+2025-04-18,Smartphone,Electronics,146005.1,5,28000
+2025-04-18,Monitor,Electronics,41707.69,3,15000
+2025-04-18,Wireless Mouse,Accessories,9706.9,10,900
+2025-04-18,Keyboard,Accessories,14459.18,9,1600
+2025-04-18,Bluetooth Speaker,Accessories,29411.99,10,3200
+2025-04-19,Laptop,Electronics,268734.25,5,56000
+2025-04-19,Smartphone,Electronics,188101.94,6,28000
+2025-04-19,Monitor,Electronics,60744.09,4,15000
+2025-04-19,Wireless Mouse,Accessories,9030.81,10,900
+2025-04-19,Keyboard,Accessories,11567.43,8,1600
+2025-04-19,Bluetooth Speaker,Accessories,24431.49,8,3200
+2025-04-20,Laptop,Electronics,179725.26,3,56000
+2025-04-20,Smartphone,Electronics,121087.45,4,28000
+2025-04-20,Monitor,Electronics,71260.97,5,15000
+2025-04-20,Wireless Mouse,Accessories,18736.41,19,900
+2025-04-20,Keyboard,Accessories,14049.78,9,1600
+2025-04-20,Bluetooth Speaker,Accessories,19147.68,6,3200
+2025-04-21,Laptop,Electronics,225315.1,4,56000
+2025-04-21,Smartphone,Electronics,135643.06,5,28000
+2025-04-21,Monitor,Electronics,57081.91,4,15000
+2025-04-21,Wireless Mouse,Accessories,9401.84,11,900
+2025-04-21,Keyboard,Accessories,9902.45,7,1600
+2025-04-21,Bluetooth Speaker,Accessories,26216.67,8,3200
+2025-04-22,Laptop,Electronics,101951.17,2,56000
+2025-04-22,Smartphone,Electronics,133975.73,5,28000
+2025-04-22,Monitor,Electronics,41849.28,3,15000
+2025-04-22,Wireless Mouse,Accessories,10023.33,10,900
+2025-04-22,Keyboard,Accessories,12848.33,8,1600
+2025-04-22,Bluetooth Speaker,Accessories,26812.22,9,3200
+2025-04-23,Laptop,Electronics,250722.94,4,56000
+2025-04-23,Smartphone,Electronics,123199.96,4,28000
+2025-04-23,Monitor,Electronics,81262.83,5,15000
+2025-04-23,Wireless Mouse,Accessories,11667.63,13,900
+2025-04-23,Keyboard,Accessories,24919.33,14,1600
+2025-04-23,Bluetooth Speaker,Accessories,23143.62,7,3200
+2025-04-24,Laptop,Electronics,161456.81,3,56000
+2025-04-24,Smartphone,Electronics,175589.61,6,28000
+2025-04-24,Monitor,Electronics,42161.46,3,15000
+2025-04-24,Wireless Mouse,Accessories,14052.77,14,900
+2025-04-24,Keyboard,Accessories,15310.64,10,1600
+2025-04-24,Bluetooth Speaker,Accessories,23355.78,8,3200
+2025-04-25,Laptop,Electronics,105588.42,2,56000
+2025-04-25,Smartphone,Electronics,136826.95,5,28000
+2025-04-25,Monitor,Electronics,78583.21,5,15000
+2025-04-25,Wireless Mouse,Accessories,15097.29,16,900
+2025-04-25,Keyboard,Accessories,17001.21,11,1600
+2025-04-25,Bluetooth Speaker,Accessories,25987.52,8,3200
+2025-04-26,Laptop,Electronics,164855.88,3,56000
+2025-04-26,Smartphone,Electronics,140933.09,5,28000
+2025-04-26,Monitor,Electronics,94923.18,6,15000
+2025-04-26,Wireless Mouse,Accessories,13422.3,15,900
+2025-04-26,Keyboard,Accessories,19935.85,13,1600
+2025-04-26,Bluetooth Speaker,Accessories,33893.71,11,3200
+2025-04-27,Laptop,Electronics,254312.32,5,56000
+2025-04-27,Smartphone,Electronics,112758.14,4,28000
+2025-04-27,Monitor,Electronics,46017.13,3,15000
+2025-04-27,Wireless Mouse,Accessories,12914.86,15,900
+2025-04-27,Keyboard,Accessories,14530.52,9,1600
+2025-04-27,Bluetooth Speaker,Accessories,25413.35,9,3200
+2025-04-28,Laptop,Electronics,231675.25,4,56000
+2025-04-28,Smartphone,Electronics,231279.11,8,28000
+2025-04-28,Monitor,Electronics,64481.52,4,15000
+2025-04-28,Wireless Mouse,Accessories,15501.54,18,900
+2025-04-28,Keyboard,Accessories,18686.87,13,1600
+2025-04-28,Bluetooth Speaker,Accessories,32611.82,10,3200
+2025-04-29,Laptop,Electronics,171825.71,3,56000
+2025-04-29,Smartphone,Electronics,191477.46,7,28000
+2025-04-29,Monitor,Electronics,72767.13,5,15000
+2025-04-29,Wireless Mouse,Accessories,18847.57,20,900
+2025-04-29,Keyboard,Accessories,17600.56,10,1600
+2025-04-29,Bluetooth Speaker,Accessories,24446.69,8,3200
+2025-04-30,Laptop,Electronics,106560.91,2,56000
+2025-04-30,Smartphone,Electronics,110516.55,4,28000
+2025-04-30,Monitor,Electronics,80146.96,5,15000
+2025-04-30,Wireless Mouse,Accessories,16330.57,18,900
+2025-04-30,Keyboard,Accessories,26614.43,15,1600
+2025-04-30,Bluetooth Speaker,Accessories,28189.37,10,3200
+2025-05-01,Laptop,Electronics,160180.35,3,56000
+2025-05-01,Smartphone,Electronics,248915.55,8,28000
+2025-05-01,Monitor,Electronics,70988.29,5,15000
+2025-05-01,Wireless Mouse,Accessories,14968.1,15,900
+2025-05-01,Keyboard,Accessories,15992.47,10,1600
+2025-05-01,Bluetooth Speaker,Accessories,21152.42,6,3200
+2025-05-02,Laptop,Electronics,174674.56,3,56000
+2025-05-02,Smartphone,Electronics,192878.45,7,28000
+2025-05-02,Monitor,Electronics,100010.1,6,15000
+2025-05-02,Wireless Mouse,Accessories,8483.31,10,900
+2025-05-02,Keyboard,Accessories,19584.25,11,1600
+2025-05-02,Bluetooth Speaker,Accessories,28201.0,10,3200
+2025-05-03,Laptop,Electronics,165166.2,3,56000
+2025-05-03,Smartphone,Electronics,254455.36,9,28000
+2025-05-03,Monitor,Electronics,73640.86,5,15000
+2025-05-03,Wireless Mouse,Accessories,14057.52,14,900
+2025-05-03,Keyboard,Accessories,15835.14,11,1600
+2025-05-03,Bluetooth Speaker,Accessories,34173.01,12,3200
+2025-05-04,Laptop,Electronics,171009.95,3,56000
+2025-05-04,Smartphone,Electronics,155682.35,6,28000
+2025-05-04,Monitor,Electronics,109280.04,7,15000
+2025-05-04,Wireless Mouse,Accessories,10482.18,11,900
+2025-05-04,Keyboard,Accessories,14462.86,9,1600
+2025-05-04,Bluetooth Speaker,Accessories,28552.56,10,3200
+2025-05-05,Laptop,Electronics,170663.77,3,56000
+2025-05-05,Smartphone,Electronics,197812.24,7,28000
+2025-05-05,Monitor,Electronics,82830.99,5,15000
+2025-05-05,Wireless Mouse,Accessories,15848.42,18,900
+2025-05-05,Keyboard,Accessories,13174.76,9,1600
+2025-05-05,Bluetooth Speaker,Accessories,37844.79,11,3200
+2025-05-06,Laptop,Electronics,113473.91,2,56000
+2025-05-06,Smartphone,Electronics,153322.8,5,28000
+2025-05-06,Monitor,Electronics,40156.64,3,15000
+2025-05-06,Wireless Mouse,Accessories,16059.07,20,900
+2025-05-06,Keyboard,Accessories,12032.07,8,1600
+2025-05-06,Bluetooth Speaker,Accessories,24066.66,8,3200
+2025-05-07,Laptop,Electronics,208931.68,4,56000
+2025-05-07,Smartphone,Electronics,123244.91,5,28000
+2025-05-07,Monitor,Electronics,76323.08,5,15000
+2025-05-07,Wireless Mouse,Accessories,15048.62,16,900
+2025-05-07,Keyboard,Accessories,11020.2,7,1600
+2025-05-07,Bluetooth Speaker,Accessories,32657.45,10,3200
+2025-05-08,Laptop,Electronics,151220.55,3,56000
+2025-05-08,Smartphone,Electronics,186343.0,7,28000
+2025-05-08,Monitor,Electronics,40948.1,3,15000
+2025-05-08,Wireless Mouse,Accessories,12810.56,14,900
+2025-05-08,Keyboard,Accessories,16070.58,9,1600
+2025-05-08,Bluetooth Speaker,Accessories,30389.61,10,3200
+2025-05-09,Laptop,Electronics,188115.39,3,56000
+2025-05-09,Smartphone,Electronics,240766.0,8,28000
+2025-05-09,Monitor,Electronics,63309.62,4,15000
+2025-05-09,Wireless Mouse,Accessories,13250.28,14,900
+2025-05-09,Keyboard,Accessories,17231.32,11,1600
+2025-05-09,Bluetooth Speaker,Accessories,23849.25,7,3200
+2025-05-10,Laptop,Electronics,203999.64,4,56000
+2025-05-10,Smartphone,Electronics,134612.07,5,28000
+2025-05-10,Monitor,Electronics,55981.33,4,15000
+2025-05-10,Wireless Mouse,Accessories,12122.36,15,900
+2025-05-10,Keyboard,Accessories,16455.78,10,1600
+2025-05-10,Bluetooth Speaker,Accessories,34549.76,11,3200
+2025-05-11,Laptop,Electronics,165075.52,3,56000
+2025-05-11,Smartphone,Electronics,276194.46,9,28000
+2025-05-11,Monitor,Electronics,66589.15,5,15000
+2025-05-11,Wireless Mouse,Accessories,12028.31,14,900
+2025-05-11,Keyboard,Accessories,17847.97,10,1600
+2025-05-11,Bluetooth Speaker,Accessories,38071.66,11,3200
+2025-05-12,Laptop,Electronics,229936.02,4,56000
+2025-05-12,Smartphone,Electronics,193794.75,7,28000
+2025-05-12,Monitor,Electronics,87169.22,6,15000
+2025-05-12,Wireless Mouse,Accessories,12730.7,13,900
+2025-05-12,Keyboard,Accessories,14598.72,10,1600
+2025-05-12,Bluetooth Speaker,Accessories,34419.44,10,3200
+2025-05-13,Laptop,Electronics,102824.7,2,56000
+2025-05-13,Smartphone,Electronics,154026.81,5,28000
+2025-05-13,Monitor,Electronics,62207.2,4,15000
+2025-05-13,Wireless Mouse,Accessories,16882.36,17,900
+2025-05-13,Keyboard,Accessories,12414.41,7,1600
+2025-05-13,Bluetooth Speaker,Accessories,32900.22,11,3200
+2025-05-14,Laptop,Electronics,104410.34,2,56000
+2025-05-14,Smartphone,Electronics,213903.17,7,28000
+2025-05-14,Monitor,Electronics,76698.97,5,15000
+2025-05-14,Wireless Mouse,Accessories,17798.14,19,900
+2025-05-14,Keyboard,Accessories,17394.39,11,1600
+2025-05-14,Bluetooth Speaker,Accessories,38577.68,11,3200
+2025-05-15,Laptop,Electronics,105626.97,2,56000
+2025-05-15,Smartphone,Electronics,133454.04,5,28000
+2025-05-15,Monitor,Electronics,55815.39,4,15000
+2025-05-15,Wireless Mouse,Accessories,16000.56,18,900
+2025-05-15,Keyboard,Accessories,19651.43,12,1600
+2025-05-15,Bluetooth Speaker,Accessories,30757.19,10,3200
+2025-05-16,Laptop,Electronics,174395.95,3,56000
+2025-05-16,Smartphone,Electronics,165695.72,6,28000
+2025-05-16,Monitor,Electronics,49093.93,3,15000
+2025-05-16,Wireless Mouse,Accessories,17719.16,19,900
+2025-05-16,Keyboard,Accessories,16171.29,10,1600
+2025-05-16,Bluetooth Speaker,Accessories,32876.13,10,3200
+2025-05-17,Laptop,Electronics,219372.72,4,56000
+2025-05-17,Smartphone,Electronics,196475.23,7,28000
+2025-05-17,Monitor,Electronics,97235.24,6,15000
+2025-05-17,Wireless Mouse,Accessories,14264.52,18,900
+2025-05-17,Keyboard,Accessories,20210.57,12,1600
+2025-05-17,Bluetooth Speaker,Accessories,31206.3,9,3200
+2025-05-18,Laptop,Electronics,247041.92,4,56000
+2025-05-18,Smartphone,Electronics,153730.55,5,28000
+2025-05-18,Monitor,Electronics,49777.76,3,15000
+2025-05-18,Wireless Mouse,Accessories,17964.73,22,900
+2025-05-18,Keyboard,Accessories,15497.18,11,1600
+2025-05-18,Bluetooth Speaker,Accessories,36734.72,11,3200
+2025-05-19,Laptop,Electronics,174637.67,3,56000
+2025-05-19,Smartphone,Electronics,161882.42,6,28000
+2025-05-19,Monitor,Electronics,63559.32,4,15000
+2025-05-19,Wireless Mouse,Accessories,10746.38,11,900
+2025-05-19,Keyboard,Accessories,15414.14,10,1600
+2025-05-19,Bluetooth Speaker,Accessories,18462.6,6,3200
+2025-05-20,Laptop,Electronics,104338.44,2,56000
+2025-05-20,Smartphone,Electronics,206037.68,7,28000
+2025-05-20,Monitor,Electronics,41160.12,3,15000
+2025-05-20,Wireless Mouse,Accessories,14869.31,17,900
+2025-05-20,Keyboard,Accessories,17442.58,10,1600
+2025-05-20,Bluetooth Speaker,Accessories,20733.95,7,3200
+2025-05-21,Laptop,Electronics,166022.62,3,56000
+2025-05-21,Smartphone,Electronics,210068.03,7,28000
+2025-05-21,Monitor,Electronics,79706.62,6,15000
+2025-05-21,Wireless Mouse,Accessories,14244.4,16,900
+2025-05-21,Keyboard,Accessories,16980.57,10,1600
+2025-05-21,Bluetooth Speaker,Accessories,29947.74,10,3200
+2025-05-22,Laptop,Electronics,211826.68,4,56000
+2025-05-22,Smartphone,Electronics,200702.42,7,28000
+2025-05-22,Monitor,Electronics,68088.53,5,15000
+2025-05-22,Wireless Mouse,Accessories,9811.75,10,900
+2025-05-22,Keyboard,Accessories,24085.17,15,1600
+2025-05-22,Bluetooth Speaker,Accessories,32249.36,10,3200
+2025-05-23,Laptop,Electronics,122221.1,2,56000
+2025-05-23,Smartphone,Electronics,138520.27,5,28000
+2025-05-23,Monitor,Electronics,80696.28,5,15000
+2025-05-23,Wireless Mouse,Accessories,13280.66,15,900
+2025-05-23,Keyboard,Accessories,13366.5,8,1600
+2025-05-23,Bluetooth Speaker,Accessories,20163.11,7,3200
+2025-05-24,Laptop,Electronics,103343.95,2,56000
+2025-05-24,Smartphone,Electronics,166875.19,6,28000
+2025-05-24,Monitor,Electronics,80070.38,5,15000
+2025-05-24,Wireless Mouse,Accessories,12949.33,14,900
+2025-05-24,Keyboard,Accessories,15558.43,9,1600
+2025-05-24,Bluetooth Speaker,Accessories,27411.39,9,3200
+2025-05-25,Laptop,Electronics,164346.19,3,56000
+2025-05-25,Smartphone,Electronics,124244.56,5,28000
+2025-05-25,Monitor,Electronics,54929.27,4,15000
+2025-05-25,Wireless Mouse,Accessories,8186.22,10,900
+2025-05-25,Keyboard,Accessories,12925.81,9,1600
+2025-05-25,Bluetooth Speaker,Accessories,22791.29,8,3200
+2025-05-26,Laptop,Electronics,114212.36,2,56000
+2025-05-26,Smartphone,Electronics,185819.85,7,28000
+2025-05-26,Monitor,Electronics,79934.39,6,15000
+2025-05-26,Wireless Mouse,Accessories,13950.43,15,900
+2025-05-26,Keyboard,Accessories,14194.25,8,1600
+2025-05-26,Bluetooth Speaker,Accessories,22832.82,8,3200
+2025-05-27,Laptop,Electronics,168857.21,3,56000
+2025-05-27,Smartphone,Electronics,131604.24,5,28000
+2025-05-27,Monitor,Electronics,80003.88,6,15000
+2025-05-27,Wireless Mouse,Accessories,14980.64,17,900
+2025-05-27,Keyboard,Accessories,15063.76,10,1600
+2025-05-27,Bluetooth Speaker,Accessories,20398.03,6,3200
+2025-05-28,Laptop,Electronics,240567.58,4,56000
+2025-05-28,Smartphone,Electronics,123889.19,4,28000
+2025-05-28,Monitor,Electronics,56785.03,4,15000
+2025-05-28,Wireless Mouse,Accessories,15874.04,17,900
+2025-05-28,Keyboard,Accessories,23346.07,15,1600
+2025-05-28,Bluetooth Speaker,Accessories,31971.03,11,3200
+2025-05-29,Laptop,Electronics,119441.2,2,56000
+2025-05-29,Smartphone,Electronics,150298.8,6,28000
+2025-05-29,Monitor,Electronics,41825.21,3,15000
+2025-05-29,Wireless Mouse,Accessories,14450.24,18,900
+2025-05-29,Keyboard,Accessories,20894.1,12,1600
+2025-05-29,Bluetooth Speaker,Accessories,27327.89,8,3200
+2025-05-30,Laptop,Electronics,166135.26,3,56000
+2025-05-30,Smartphone,Electronics,122726.4,4,28000
+2025-05-30,Monitor,Electronics,66318.71,4,15000
+2025-05-30,Wireless Mouse,Accessories,12236.02,13,900
+2025-05-30,Keyboard,Accessories,16149.14,10,1600
+2025-05-30,Bluetooth Speaker,Accessories,24529.42,7,3200
+2025-05-31,Laptop,Electronics,170657.85,3,56000
+2025-05-31,Smartphone,Electronics,159376.69,6,28000
+2025-05-31,Monitor,Electronics,89108.96,6,15000
+2025-05-31,Wireless Mouse,Accessories,15607.85,16,900
+2025-05-31,Keyboard,Accessories,13778.88,9,1600
+2025-05-31,Bluetooth Speaker,Accessories,36672.72,12,3200
+2025-06-01,Laptop,Electronics,217545.01,4,56000
+2025-06-01,Smartphone,Electronics,183493.74,6,28000
+2025-06-01,Monitor,Electronics,62503.09,4,15000
+2025-06-01,Wireless Mouse,Accessories,14377.26,16,900
+2025-06-01,Keyboard,Accessories,16793.74,11,1600
+2025-06-01,Bluetooth Speaker,Accessories,26494.27,8,3200
+2025-06-02,Laptop,Electronics,220571.9,4,56000
+2025-06-02,Smartphone,Electronics,99471.67,4,28000
+2025-06-02,Monitor,Electronics,82849.2,5,15000
+2025-06-02,Wireless Mouse,Accessories,16793.45,19,900
+2025-06-02,Keyboard,Accessories,18799.89,13,1600
+2025-06-02,Bluetooth Speaker,Accessories,24806.43,8,3200
+2025-06-03,Laptop,Electronics,121730.8,2,56000
+2025-06-03,Smartphone,Electronics,190016.71,7,28000
+2025-06-03,Monitor,Electronics,82414.33,5,15000
+2025-06-03,Wireless Mouse,Accessories,8457.41,10,900
+2025-06-03,Keyboard,Accessories,21678.51,13,1600
+2025-06-03,Bluetooth Speaker,Accessories,37760.95,11,3200
+2025-06-04,Laptop,Electronics,173797.75,3,56000
+2025-06-04,Smartphone,Electronics,221858.1,8,28000
+2025-06-04,Monitor,Electronics,66919.62,5,15000
+2025-06-04,Wireless Mouse,Accessories,13125.82,14,900
+2025-06-04,Keyboard,Accessories,18666.97,11,1600
+2025-06-04,Bluetooth Speaker,Accessories,27113.13,9,3200
+2025-06-05,Laptop,Electronics,110597.94,2,56000
+2025-06-05,Smartphone,Electronics,154553.33,5,28000
+2025-06-05,Monitor,Electronics,70039.14,5,15000
+2025-06-05,Wireless Mouse,Accessories,15762.37,16,900
+2025-06-05,Keyboard,Accessories,15683.88,9,1600
+2025-06-05,Bluetooth Speaker,Accessories,21501.06,6,3200
+2025-06-06,Laptop,Electronics,105423.59,2,56000
+2025-06-06,Smartphone,Electronics,183853.69,7,28000
+2025-06-06,Monitor,Electronics,39808.02,3,15000
+2025-06-06,Wireless Mouse,Accessories,12015.65,12,900
+2025-06-06,Keyboard,Accessories,13408.4,8,1600
+2025-06-06,Bluetooth Speaker,Accessories,17328.39,6,3200
+2025-06-07,Laptop,Electronics,223392.14,4,56000
+2025-06-07,Smartphone,Electronics,178436.42,7,28000
+2025-06-07,Monitor,Electronics,49790.1,3,15000
+2025-06-07,Wireless Mouse,Accessories,8943.98,11,900
+2025-06-07,Keyboard,Accessories,12538.74,8,1600
+2025-06-07,Bluetooth Speaker,Accessories,21358.6,6,3200
+2025-06-08,Laptop,Electronics,179389.1,3,56000
+2025-06-08,Smartphone,Electronics,140280.16,5,28000
+2025-06-08,Monitor,Electronics,91424.89,6,15000
+2025-06-08,Wireless Mouse,Accessories,9494.01,11,900
+2025-06-08,Keyboard,Accessories,26414.08,16,1600
+2025-06-08,Bluetooth Speaker,Accessories,35916.56,11,3200
+2025-06-09,Laptop,Electronics,291543.81,5,56000
+2025-06-09,Smartphone,Electronics,217250.91,7,28000
+2025-06-09,Monitor,Electronics,56255.14,4,15000
+2025-06-09,Wireless Mouse,Accessories,10855.98,11,900
+2025-06-09,Keyboard,Accessories,17657.9,11,1600
+2025-06-09,Bluetooth Speaker,Accessories,39102.49,11,3200
+2025-06-10,Laptop,Electronics,203189.74,4,56000
+2025-06-10,Smartphone,Electronics,118365.22,4,28000
+2025-06-10,Monitor,Electronics,66699.22,4,15000
+2025-06-10,Wireless Mouse,Accessories,13931.6,16,900
+2025-06-10,Keyboard,Accessories,24550.07,15,1600
+2025-06-10,Bluetooth Speaker,Accessories,36604.97,11,3200
+2025-06-11,Laptop,Electronics,99728.57,2,56000
+2025-06-11,Smartphone,Electronics,199421.91,7,28000
+2025-06-11,Monitor,Electronics,64551.75,4,15000
+2025-06-11,Wireless Mouse,Accessories,11486.49,12,900
+2025-06-11,Keyboard,Accessories,15163.93,10,1600
+2025-06-11,Bluetooth Speaker,Accessories,20167.21,6,3200
+2025-06-12,Laptop,Electronics,218825.68,4,56000
+2025-06-12,Smartphone,Electronics,216337.95,7,28000
+2025-06-12,Monitor,Electronics,93393.12,6,15000
+2025-06-12,Wireless Mouse,Accessories,11368.21,14,900
+2025-06-12,Keyboard,Accessories,23873.5,14,1600
+2025-06-12,Bluetooth Speaker,Accessories,28636.93,9,3200
+2025-06-13,Laptop,Electronics,224698.28,4,56000
+2025-06-13,Smartphone,Electronics,118548.93,4,28000
+2025-06-13,Monitor,Electronics,61061.72,4,15000
+2025-06-13,Wireless Mouse,Accessories,9330.28,10,900
+2025-06-13,Keyboard,Accessories,17993.0,11,1600
+2025-06-13,Bluetooth Speaker,Accessories,35308.45,11,3200
+2025-06-14,Laptop,Electronics,173961.61,3,56000
+2025-06-14,Smartphone,Electronics,150748.7,6,28000
+2025-06-14,Monitor,Electronics,56340.37,4,15000
+2025-06-14,Wireless Mouse,Accessories,14515.87,18,900
+2025-06-14,Keyboard,Accessories,25591.12,15,1600
+2025-06-14,Bluetooth Speaker,Accessories,29771.39,10,3200
+2025-06-15,Laptop,Electronics,160020.98,3,56000
+2025-06-15,Smartphone,Electronics,180472.1,7,28000
+2025-06-15,Monitor,Electronics,77496.0,5,15000
+2025-06-15,Wireless Mouse,Accessories,10062.05,11,900
+2025-06-15,Keyboard,Accessories,24309.16,14,1600
+2025-06-15,Bluetooth Speaker,Accessories,32515.86,11,3200
+2025-06-16,Laptop,Electronics,114562.03,2,56000
+2025-06-16,Smartphone,Electronics,177941.78,6,28000
+2025-06-16,Monitor,Electronics,77328.58,5,15000
+2025-06-16,Wireless Mouse,Accessories,14074.59,16,900
+2025-06-16,Keyboard,Accessories,23847.83,15,1600
+2025-06-16,Bluetooth Speaker,Accessories,18160.23,6,3200
+2025-06-17,Laptop,Electronics,181006.54,3,56000
+2025-06-17,Smartphone,Electronics,167482.81,6,28000
+2025-06-17,Monitor,Electronics,80358.15,5,15000
+2025-06-17,Wireless Mouse,Accessories,12004.55,12,900
+2025-06-17,Keyboard,Accessories,18680.37,11,1600
+2025-06-17,Bluetooth Speaker,Accessories,31362.83,11,3200
+2025-06-18,Laptop,Electronics,115304.91,2,56000
+2025-06-18,Smartphone,Electronics,110256.79,4,28000
+2025-06-18,Monitor,Electronics,67474.32,5,15000
+2025-06-18,Wireless Mouse,Accessories,10081.62,11,900
+2025-06-18,Keyboard,Accessories,12594.64,8,1600
+2025-06-18,Bluetooth Speaker,Accessories,20975.28,7,3200
+2025-06-19,Laptop,Electronics,169150.82,3,56000
+2025-06-19,Smartphone,Electronics,85401.6,3,28000
+2025-06-19,Monitor,Electronics,55232.48,4,15000
+2025-06-19,Wireless Mouse,Accessories,9348.33,10,900
+2025-06-19,Keyboard,Accessories,17382.3,12,1600
+2025-06-19,Bluetooth Speaker,Accessories,35619.92,10,3200
+2025-06-20,Laptop,Electronics,109161.22,2,56000
+2025-06-20,Smartphone,Electronics,114240.3,4,28000
+2025-06-20,Monitor,Electronics,43999.01,3,15000
+2025-06-20,Wireless Mouse,Accessories,12241.7,15,900
+2025-06-20,Keyboard,Accessories,13872.44,8,1600
+2025-06-20,Bluetooth Speaker,Accessories,28351.1,9,3200
+2025-06-21,Laptop,Electronics,222473.35,4,56000
+2025-06-21,Smartphone,Electronics,182299.38,7,28000
+2025-06-21,Monitor,Electronics,63721.56,4,15000
+2025-06-21,Wireless Mouse,Accessories,9222.6,10,900
+2025-06-21,Keyboard,Accessories,10469.93,7,1600
+2025-06-21,Bluetooth Speaker,Accessories,23652.62,7,3200
+2025-06-22,Laptop,Electronics,118609.54,2,56000
+2025-06-22,Smartphone,Electronics,217714.8,8,28000
+2025-06-22,Monitor,Electronics,81776.9,6,15000
+2025-06-22,Wireless Mouse,Accessories,13970.93,14,900
+2025-06-22,Keyboard,Accessories,11563.4,8,1600
+2025-06-22,Bluetooth Speaker,Accessories,29203.35,10,3200
+2025-06-23,Laptop,Electronics,161315.29,3,56000
+2025-06-23,Smartphone,Electronics,156206.27,5,28000
+2025-06-23,Monitor,Electronics,66221.24,4,15000
+2025-06-23,Wireless Mouse,Accessories,10537.81,11,900
+2025-06-23,Keyboard,Accessories,12627.97,8,1600
+2025-06-23,Bluetooth Speaker,Accessories,33593.12,10,3200
